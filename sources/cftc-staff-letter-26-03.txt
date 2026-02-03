@@ -1,0 +1,405 @@
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+U.S. COMMODITY FUTURES TRADING COMMISSION 
+Three Lafayette Centre, 1155 21st Street, NW, Washington, DC 20581 
+www.cftc.gov 
+
+Market Participants 
+       Division 
+
+Division of Clearing 
+       and Risk   
+
+Thomas J. Smith 
+ Acting Director 
+
+Richard Haynes 
+ Acting Director 
+
+RE: Staff Interpretation Regarding Preservation of Legacy Swap Status in an Anticipated 
+
+Legal Entity Merger  
+
+Ladies and Gentlemen: 
+
+The Market Participants Division (“MPD”) and the Division of Clearing and Risk (“DCR” and, 
+together with MPD, the “Divisions”) of the Commodity Futures Trading Commission (“CFTC” 
+or “Commission”) are issuing this letter in response to a request (the “Request”) from Morgan 
+Stanley, the parent of certain registered swap dealers more fully described below (each an “SD”), 
+that  the  Divisions  issue  an  interpretative  letter  pursuant  to  17  CFR  140.99  providing  guidance 
+regarding the treatment of certain Legacy Swaps (as defined below).  Specifically, Morgan Stanley 
+requests guidance confirming for the benefit of all market participants, that, under the facts and 
+circumstances summarized below, the transfer of a Legacy Swap as a result of its internal corporate 
+merger involving its subsidiaries does not affect the swap’s status as a Legacy Swap, and therefore, 
+its obligations for margin under Section 4s(e)(1)(B) of the Commodity Exchange Act (“CEA”)1 
+and Commission regulations 23.150 through 23.161 (together, the “CFTC Margin Rule”)2 and 
+clearing under Section 2(h)(1) of the CEA3 and Commission regulations 50.2 and 50.4 (together, 
+the “Swap Clearing Requirement”).4   
+
+1 7 U.S.C. 6s(e)(1)(B). 
+
+2 17 CFR 23.150 through 23.161. 
+3 7 U.S.C. § 2(h)(1). 
+
+4 17 CFR 50.2 and 50.4. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+I. 
+
+CFTC Regulatory Background 
+
+(1) CFTC Margin Rule 
+
+Section 4s(e) of the CEA directs the Commission to adopt rules establishing minimum initial and 
+variation margin requirements on all swaps5 that are (i) entered into by an SD for which there is 
+no  prudential  regulator  (such  SDs  are  collectively  referred  to  as  “Non-Bank  Covered  Swap 
+Entities”  or  “Non-Bank  CSEs”)  and  (ii)  not  cleared  by  a  derivatives  clearing  organization 
+(“DCO”)  (“uncleared  swaps”).6    The  Commission  implemented  this  statutory  authority  by 
+promulgating rules in 2016, which establish requirements for a Non-Bank CSE to collect and post 
+initial margin and variation margin for uncleared swaps.7  These requirements vary based on the 
+type of counterparty to such swaps and the location of the Non-Bank CSE and its counterparty.8  
+Generally,  these  requirements  also  apply  only  to  uncleared  swaps  entered  into  on  or  after  the 
+compliance date applicable to a particular Non-Bank CSE and its counterparty (each a “covered 
+swap”).9  An uncleared swap entered into prior to a Non-Bank CSE’s applicable compliance date 
+for  a  particular  counterparty  (each  a  “Margin  Legacy  Swap”)  is  generally  not  subject  to  the 
+margin requirements in the CFTC Margin Rule.10 
+
+To the extent that more than one uncleared swap is executed between a Non-Bank CSE and its 
+counterparty, the CFTC Margin Rule permits the netting of required margin amounts of each swap 
+under certain circumstances.11  In particular, the CFTC Margin Rule, subject to certain limitations, 
+permits  a  Non-Bank  CSE  to  calculate  initial  margin  and  variation  margin,  respectively,  on  an 
+
+5 For the definition of swap, see Section 1a(47) of the CEA and Commission regulation 1.3. 7 U.S.C. 1a(47) and 17 
+CFR 1.3.  The “swap” definition includes, among other things, an interest rate swap, commodity swap, credit default 
+swap, and currency swap. 
+
+6 7 U.S.C. 6s(e)(2)(B)(ii).  In Commission regulation 23.151, the Commission defined uncleared swaps to mean those 
+swaps that are not cleared by a registered DCO or a DCO that the Commission has exempted from registration as 
+provided under the CEA.  17 CFR 23.151. 
+
+7 See Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants, 81 FR 636 (Jan. 6, 
+2016) (“CFTC Margin Release”); see also Margin Requirements for Uncleared Swaps for Swap Dealers and Major 
+Swap Participants – Cross-Border Application of the Margin Requirements, 81 FR 34818 (May 31, 2016).    
+
+8 See 17 CFR 23.152 and 23.153.  For example, the CFTC Margin Rule does not require a Non-Bank CSE to collect 
+margin from, or post margin to, a counterparty that is neither a swap entity nor a financial end user (each as defined 
+in 17 CFR 23.151).  Pursuant to Section 2(e) of the CEA, 7 U.S.C. 2(e), each counterparty to an uncleared swap must 
+be an eligible contract participant, as defined in Section 1a(18) of the CEA, 7 U.S.C. 1a(18).  See also 17 CFR 23.160 
+(for the cross-border application of the CFTC Margin Rule).  
+
+9 Pursuant to Commission regulation 23.161, compliance dates for the CFTC Margin Rule are staggered such that 
+Non-Bank CSEs must come into compliance in a series of phases.  The first phase affected Non-Bank CSEs and their 
+counterparties, each with the largest aggregate outstanding notional amounts of uncleared swaps and certain other 
+financial products.  These Non-Bank CSEs began complying with both the initial and variation margin requirements 
+of the CFTC Margin Rule on September 1, 2016.  The second phase began March 1, 2017, and required Non-Bank 
+CSEs  to  comply  with  the  variation  margin  requirements  of  Commission  regulation  23.153  with  all  relevant 
+counterparties not covered in the first phase.  See 17 CFR 23.161.  Initial margin requirements with counterparties 
+with successively lesser outstanding notional amounts were phased in until September 1, 2022. 
+
+10 See CFTC Margin Release, 81 FR at 651; and 17 CFR 23.161. 
+
+11 See CFTC Margin Release, 81 FR at 651; and 17 CFR 23.152(c) and 23.153(d). 
+
+2 
+
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+aggregate net basis across uncleared swaps that are executed under the same eligible master netting 
+agreement (“EMNA”).  Moreover, the CFTC Margin Rule permits swap counterparties to identify 
+one  or  more  separate  netting  portfolios  (i.e.,  a  specified  group  of  uncleared  swaps  the  margin 
+obligations  of  which  will  be  netted only  against  each  other)  under  the  same  EMNA,  including 
+having  separate  netting  portfolios  for  covered  swaps  and  Margin  Legacy  Swaps.12   A  netting 
+portfolio that contains only Margin Legacy Swaps is not subject to the initial and variation margin 
+requirements set out in the CFTC Margin Rule.13  However, if a netting portfolio contains any 
+covered swaps, the entire netting portfolio (including all Margin Legacy Swaps) is subject to such 
+requirements.14 
+
+A Margin Legacy Swap may lose its legacy treatment under the CFTC Margin Rule, causing it to 
+be  subject  to  the  requirements  of  the  CFTC  Margin  Rule.   For  reasons  discussed  in  the  CFTC 
+Margin Release, the Commission elected not to extend the meaning of Margin Legacy Swaps to 
+include  (1)  Margin  Legacy  Swaps  that  are  amended  in  a  material  or  nonmaterial  manner;  (2) 
+novations of Margin Legacy Swaps; and (3) new swaps that result from portfolio compression of 
+Margin Legacy Swaps.15 
+
+(2) Swap Clearing Requirement 
+
+Section 2(h)(1)(A) of the CEA states that “[i]t shall be unlawful for any person to engage in a swap 
+unless that person submits such swap for clearing to a [DCO] that is registered under [the CEA] 
+or  a  [DCO]  that  is  exempt  from  registration  under  [the  CEA]  if  the  swap  is  required  to  be 
+cleared.”16  In 2012, the Commission issued a Swap Clearing Requirement Determination, which 
+requires certain market participants to clear two classes of credit default swaps and four classes of 
+interest  rate  swaps.17    In  2016,  the  Commission  issued  a  second  Swap  Clearing  Requirement 
+Determination, which expanded the Swap Clearing Requirement to include additional interest rate 
+swaps.18  
+
+12 See CFTC Margin Release, 81 FR at 651, 686; 17 CFR 23.152(c)(2)(ii) and 23.153(d)(2)(ii).   
+
+13 Id. 
+
+14 Id. 
+
+15 See CFTC Margin Release, 81 FR at 675.  The Commission and its staff have taken certain actions in relation to 
+this standard.  See, e.g., Margin Requirements for Uncleared Swaps for Swap Dealers and Major Swap Participants, 
+83 FR 60341 (Nov. 26, 2018); CFTC Staff Letter 19-13 (Jun. 6, 2019) (“Letter 19-13”); CFTC Staff Letter No. 17-
+52 (Oct. 27, 2017).  CFTC staff letters are available on the CFTC website, CFTC.gov.  See also “CFTC Statement 
+on Swaps Rules Implicated in Recent Bank Failures” (Mar. 16, 2023), available at 
+https://www.cftc.gov/PressRoom/SpeechesTestimony/commissionstatement031623.   
+
+16 7 U.S.C. § 2(h)(1)(A). 
+
+17  See Swap Clearing Requirement Determination Under Section 2(h) of the CEA, 77 FR 74284, 74315–16, 74336–
+37 (Dec. 13, 2012) (establishing Commission regulation 50.4, which sets forth the classes of swaps that are required 
+to be cleared) (“2012 Swap Clearing Requirement”); 17 CFR 50.4.   
+
+18 See Swap Clearing Requirement Determination Under Section 2(h) of the CEA for Interest Rate Swaps, 81 FR 
+71202 (Oct. 14, 2016) (expanding the Swap Clearing Requirement to include fixed-to-floating interest rate swaps in 
+nine additional currencies and making certain other modifications to the scope of the 2012 Swap Clearing 
+Requirement) (“2016 Swap Clearing Requirement”). 
+
+3 
+
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+Like  the  CFTC  Margin  Rule,  the  Commission’s  Swap  Clearing  Requirement  Determinations 
+established  a  series  of  compliance  dates  to  phase-in  compliance  with  the  Swap  Clearing 
+Requirement.19  Commission regulation 50.5 provides that swaps entered into before July 21, 2010, 
+or, if later, the application of the Swap Clearing Requirement for a particular class of swaps are 
+not subject to the Swap Clearing Requirement so long as such swaps are reported to a swap data 
+repository  (“Clearing  Legacy  Swaps”  and  together  with  Margin  Legacy  Swaps,  “Legacy 
+Swaps”).20   
+
+In its 2012 rulemaking, the Commission clarified that the Swap Clearing Requirement applies to 
+all new swaps, as well as changes in the ownership of a swap, including assignment, novation, 
+exchange, transfer, or conveyance.21   
+
+II. 
+
+Summary of the Request  
+
+Based  on  the  representations  made  in  the  Request,  we  understand  the  relevant  facts  to  be  as 
+follows. As part of an internal corporate reorganization, Morgan Stanley informed the Divisions 
+of an anticipated merger (“Merger”) involving its subsidiaries, Morgan Stanley Capital Services 
+LLC (“MSCS”)22 and Morgan Stanley Bank N.A. (“MSBNA”), both of which are Commission-
+registered SDs.  
+
+Morgan  Stanley  represented  that  the  Merger  will  result  in  the  merger  of  the  fixed  income 
+derivatives and foreign exchange swaps business of MSCS (via a split from MSCS by operation 
+of  state  corporation  law)  with,  and  into,  MSBNA,  with  MSBNA  being  the  surviving 
+entity.  Accordingly, the Merger will result in certain swaps in the name of MSCS (the “Merger 
+Portfolio”)  being  assumed  by  MSBNA  and  becoming  part  of  the  swap  portfolio  of  MSBNA.  
+Morgan Stanley represented that the Merger will not impact or change the economic terms and 
+valuation  of  the  swaps  in  the  Merger  Portfolio;  only  the  name  of  the  SD  will  be  changed  to 
+MSBNA as the successor to the Merger Portfolio.23  MPD has previously provided a no-action 
+position stating that MPD would not recommend an enforcement action for failure to comply with 
+the CFTC Margin Rule with respect to a Legacy Swap if such swap is amended in a way that does 
+not affect “the economic obligations of the parties or the valuation of the Legacy Swap.”24 
+
+The  Merger  Portfolio  contains  Legacy  Swaps  (the  “Legacy  Portfolio”).    Morgan  Stanley 
+represents  that  the  Legacy  Portfolio  comprises  approximately  1%  of  the  Merger  Portfolio,  as 
+measured  on  a  notional  basis,  and  contains  primarily  interest  rate  and  foreign  exchange  swaps 
+entered  into  before  the  relevant  compliance  dates  under  the  applicable  uncleared  swap  margin 
+rules.25  Of the Legacy Portfolio, less than 15% by notional are Clearing Legacy Swaps and roughly 
+
+19 See 2012 Swap Clearing Requirement, 77 FR at 74319–20; 2016 Swap Clearing Requirement, 81 FR at 71226–30. 
+
+20 17 CFR 50.5. 
+
+21 See 2012 Swap Clearing Requirement, 77 FR at 74316. 
+
+22 MSCS is Morgan Stanley’s primary non-bank U.S. SD.  
+
+23 Ancillary technical changes, such as basic corporate status representations, change of notice addresses, settlement 
+instructions and other administrative or operational details may also be updated. 
+
+24 Letter 19-13 at 8.   
+
+25 Morgan Stanley noted that approximately 3% of the Merger Portfolio, measured on a notional basis, is composed 
+of credit default swaps (inclusive of related products like credit swaptions) and commodities swaps.  Furthermore, as 
+
+4 
+
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+three quarters of its notional are with other dealers, some of which are Non-Bank CSEs that would 
+otherwise be subject to the CFTC Margin Rule. 
+
+According to Morgan Stanley, the proposed Merger will merge the Legacy Portfolio of MSCS 
+with and into the swap portfolio of MSBNA, where (i) the merger will occur by operation of law, 
+as opposed to via novation, assignment or sale of assets, and will not alter the economic terms of 
+any swap in the Legacy Portfolio; (ii) the specific commercial intent for the Merger is to merge 
+the fixed income derivatives and foreign exchange swaps business of MSCS into MSBNA and is 
+not to evade margin or swap clearing requirements; and (iii) the Merger is a unique corporate event 
+with legitimate business objectives that do not implicate the evasion concerns expressed by the 
+Commission regarding novations of, or amendments to, Legacy Swaps. 
+
+Although Commission staff has provided guidance and taken staff action  recognizing a range of 
+circumstances  where  a  swap’s  status  as  a  Legacy  Swap  could  be  maintained  even  after  the 
+occurrence  of  what  might  otherwise  constitute  a  material  event  (e.g.,  in  connection  with  the 
+UBS/CS  business  transfer,  LIBOR  transition,  and  Brexit),  Morgan  Stanley  requests  that 
+Commission staff, for the benefit and clarity of all market participants, confirm that a swap’s status 
+as a Legacy Swap is not affected by a merger as described above.26 
+
+III. 
+
+Staff Interpretation Regarding Retention of Legacy Status Upon Merger 
+
+As  described  above,  Morgan  Stanley  is  planning  an  internal  reorganization  pursuant  to  which 
+MSCS’s fixed income derivatives and foreign exchange swaps business will be merged with and 
+into MSBNA.  Specifically, MSCS’s Legacy Portfolio will be merged into the swap portfolio of 
+MSBNA by means of an internal reorganization under operation of applicable state corporation 
+laws.   
+
+As discussed in the CFTC Margin Rule, uncleared swaps entered into prior to a Non-Bank CSE’s 
+applicable compliance date for a particular counterparty are not subject to the margin requirements 
+in Commission regulation 23.161.27  As represented by Morgan Stanley, the Merger relates to a 
+reorganization with legitimate business objectives.  The Divisions note that, with respect to the 
+Legacy  Swaps,  there  is  no  change  in  ownership,  including  assignment,  novation,  exchange, 
+transfer or conveyance.28  Furthermore, the underlying facts with respect to this Merger indicate 
+that the economic terms and valuation of the swaps in the Legacy Portfolio will not change as a 
+result of this restructuring and will not be accompanied by any changes to the contractual terms of 
+such swaps (other than a name change).29  Thus, no amendments will be made to the swaps at issue 
+that would affect the economic obligations or valuations of the swaps.  The ownership and original 
+counterparties that MSCS faces on such Legacy Swaps also remain the same, and the only change 
+is that MSBNA is the successor to such Legacy Swaps as a result of the Merger by operation of 
+
+measured on a notional basis, less than 5% of these swaps constitute Margin Legacy Swaps.  With respect to the 
+Clearing Legacy Swaps, Morgan Stanley noted that all such swaps are interest rate swaps.  
+26 See Morgan Stanley Request at 5.  
+
+27 See CFTC Margin Release, 81 FR at 651, and Commission regulation 23.161.  17 CFR 23.161. 
+
+28 See 2012 Swap Clearing Requirement, 77 FR at 74316.  
+
+29 See supra note 23 and accompanying text. 
+
+5 
+
+ 
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+law, thus mooting Commission’s concern of any “incentives to ‘trade’ historical swaps through the 
+assignment, novation, exchange, transfer, or conveyance processes to avoid required clearing.”30 
+MPD is therefore of the view that the Legacy Swaps at issue retain their status as legacy swaps for 
+any Non-Bank CSE counterparties and thus, remain exempt from the CFTC Margin Rule.  DCR 
+is also of the view that the Merger will not cause the Legacy Swaps at issue to lose their legacy 
+status with respect to the Swap Clearing Requirement.   
+
+***************************************************************************** 
+
+30 See 2012 Swap Clearing Requirement, 77 FR at 74316. 
+
+6 
+
+ 
+ 
+ 
+ 
+CFTC LETTER NO. 26-03   INTERPRETATIVE   JANUARY 30, 2026 
+
+The  interpretative  positions  in  this  letter  represent  the  positions  of  the  Divisions  and  do  not 
+necessarily  represent  the  views  of  the  Commission  or  of  any  other  office  or  Division  of  the 
+Commission.  This  letter  and  the  interpretations  set  forth  herein  are  not  binding  on  the 
+Commission.31  Further, they are based upon the facts and circumstances represented to the staff 
+of the Divisions.  Any different, changed, or omitted material facts or circumstances may require 
+a different interpretation or render this letter or any part thereof void.  As with all staff letters, the 
+Divisions retain the authority to condition further, modify, suspend, terminate, or otherwise restrict 
+the interpretation provided herein, in their discretion.  
+
+If  you  have  any  questions  concerning  this  correspondence,  please  contact  Tom  Smith, Acting 
+Director, MPD, tsmith@cftc.gov, or Richard Haynes, Acting Director, DCR, rhaynes@cftc.gov.  
+
+Sincerely,  
+
+__________________________ 
+
+Thomas J. Smith  
+Acting Director  
+Market Participants Division 
+
+__________________________ 
+
+Richard Haynes 
+Acting Director  
+Division of Clearing and Risk  
+
+cc: Kathleen Clapper, NFA Compliance 
+
+National Futures Association, Chicago  
+
+Michael Otten, OTC Derivatives  
+National Futures Association, New York 
+
+31 See 17 CFR 140.99(a)(2) and (3). 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
