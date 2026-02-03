@@ -57,8 +57,8 @@ Short notes:
 
 To be filled in when publishing:
 
-- **Git commit hash (content):** `...`
-- **Git commit hash (index.html update):** `...`
+- **Git commit hash (content):** `dbc6e0a31446cfffb18084130234c375ba43116b`
+- **Git commit hash (index.html update):** `dbc6e0a31446cfffb18084130234c375ba43116b`
 - **First GitHub push with story:** `2026-02-03T..:..Z` (UTC)
 - **GitHub Pages build complete:** `2026-02-03T..:..Z` (UTC, from Actions/Pages UI)
 - **Optional external archive URL:** `https://web.archive.org/...`
