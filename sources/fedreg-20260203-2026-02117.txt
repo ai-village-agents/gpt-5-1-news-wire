@@ -1,0 +1,891 @@
+4997 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+1 15 U.S.C. 78s(b)(1). 
+2 17 CFR 240.19b–4. 
+3 Each capitalized term not otherwise defined 
+herein has its meaning as set forth in the Rules, By- 
+Laws and Organization Certificate of DTC (‘‘Rules’’), 
+available at www.dtcc.com/-/media/Files/ 
+Downloads/legal/rules/dtc_rules.pdf, or the DTC 
+Settlement Service Guide (‘‘Settlement Guide’’), 
+available at www.dtcc.com/-/media/Files/ 
+Downloads/legal/service-guides/Settlement.pdf. 
+4 See Securities Exchange Act Release No. 104484 
+(Dec. 22, 2025). 90 FR 61205 (Dec. 30, 2025) (File 
+No. SR–DTC–2025–019) (‘‘Notice of Filing’’) 
+5 A ‘‘central securities depository’’ means a 
+securities depository who: (1) acts as a custodian of 
+securities in connection with a system for the 
+central handling of securities whereby all securities 
+of a particular class or series of any issuer deposited 
+within the system are treated as fungible and may 
+be transferred, loaned, or pledged by bookkeeping 
+entry without physical delivery of securities 
+certificates; or, (2) otherwise permits or facilitates 
+the settlement of securities transactions or the 
+hypothecation or lending of securities without 
+physical delivery of securities certificates. See 17 
+CFR 240.17ad–22(a) (referencing the definition of 
+‘‘securities depository’’ described in Section 
+3(a)(23)(A) of the Act,15 U.S.C. 78c(a)(23)(A)). 
+6 ‘‘Delivery Versus Payment’’ means a Delivery 
+against a settlement debit to the Account of the 
+Receiver See Rule 1, supra note 3 (definitionof 
+‘‘Delivery Versus Payment’’). See also The 
+Depository Trust Company, Disclosure Framework 
+for Covered Clearing Agencies and Financial Market 
+Infrastructures (Mar. 2023) (‘‘Disclosure 
+Framework’’), at 18, available at https://
+www.dtcc.com/-/media/Files/Downloads/legal/ 
+policy-and-compliance/DTC_Disclosure_
+Framework.pdf. 
+7 See Disclosure Framework, supra note 6, at 61; 
+Notice of Filing, supra note 4, at 61205. 
+8 See Disclosure Framework, supra note 6,. at 12. 
+9 Notice of Filing, supra note 4, at 61205. A 
+Participant’s collateral refers to the sum of (i) the 
+Actual Participants Fund Deposit of the Participant, 
+(ii) the Actual Preferred Stock Investment of a 
+Participant, (iii) all Net Additions of the Participant 
+and (iv) any SPP wired by the Participant to the 
+Corporation. See Rule 1, supra note 3 (definition of 
+‘‘Collateral’’). 
+10 See Notice of Filing, supra note 4, at 61205– 
+61206 
+Proposed Customer XM Framework as a 
+condition to granting exemptive relief? 
+If so, what type of limitation(s)? If not, 
+why not? 
+6. Would the exemption requested in 
+the Application have a competitive 
+impact—either positive or negative—on 
+broker-dealers and their customers in 
+the context of clearing for U.S. Treasury 
+securities? What would be the potential 
+benefits and costs of the exemption? 
+Would the exemption and conditions 
+impact investor protection? If so, what 
+would those impacts be? 
+7. Should the Commission consider 
+broadening the exemptive relief 
+requested by FICC and CME to be 
+available to any clearing agency and 
+DCO and their joint clearing members 
+with a cross-margining program that 
+meets the conditions of an exemptive 
+order? Why or why not? 
+8. If the exemptive relief was 
+broadened, how would the conditions 
+proposed by FICC and CME in the 
+Application be modified? 
+Comments should be received on or 
+before March 5, 2026. Comments may be 
+submitted by any of the following 
+methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (http://www.sec.gov/ 
+rules/other.shtml); or 
+• Send an email to rule-comments@
+sec.gov. Please include File Number S7– 
+2026–03 on the subject line. 
+Paper Comments 
+• Send paper comments to Secretary, 
+Securities and Exchange Commission, 
+100 F Street NE, Washington, DC 
+20549–1090. 
+All submissions should refer to File 
+Number S7–2026–03. This file number 
+should be included on the subject line 
+if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method of submission. The 
+Commission will post all comments on 
+the Commission’s internet website 
+(http://www.sec.gov/rules/other.shtml). 
+Do not include personal identifiable 
+information in submissions; you should 
+submit only information that you wish 
+to make available publicly. We may 
+redact in part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. 
+For further information, you may 
+contact Michael A. Macchiaroli, 
+Associate Director; Raymond A. 
+Lombardo, Assistant Director; Sheila 
+Dombal Swartz, Senior Special Counsel; 
+or Nina Kostyukovsky, Special Counsel 
+at (202) 551–5500, Office of Broker- 
+Dealer Finances, Division of Trading 
+and Markets, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549–7010. 
+By the Commission. 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02177 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104740; File No. SR–DTC– 
+2025–019] 
+Self-Regulatory Organizations; The 
+Depository Trust Company; Order 
+Approving Proposed Rule Change To 
+Modify the DTC Settlement Service 
+Guide and DTC Rules as They Relate 
+to the DTC Net Debit Cap 
+January 29, 2026. 
+I. Introduction 
+On December 18, 2025, the Depository 
+Trust Company (‘‘DTC’’) filed with the 
+Securities and Exchange Commission 
+(‘‘Commission’’) proposed rule change 
+SR–DTC–2025–019, pursuant to Section 
+19(b)(1) of the Securities Exchange Act 
+of 1934 (‘‘Act’’)
+1 and Rule 19b–4 
+thereunder.2 The Proposed Rule Change 
+would modify the DTC Settlement 
+Service Guide (‘‘Settlement Guide’’) and 
+the Rules, By-Laws and Organization 
+Certificate of DTC (‘‘Rules’’)
+3 regarding 
+how DTC sets its maximum debit caps 
+for Participants, Unaffiliated 
+Participants, and Affiliated Families, as 
+well as other corresponding changes. 
+The Proposed Rule Change was 
+published for comment in the Federal 
+Register on December 30, 2025.
+4 The 
+Commission has received no comments 
+on the changes proposed. 
+For the reasons discussed below, the 
+Commission is approving the Proposed 
+Rule Change. 
+II. Background 
+DTC serves as a central securities 
+depository
+5 and operates a securities 
+settlement system. DTC’s activities 
+include holding securities in physical or 
+dematerialized form, maintaining 
+securities accounts for Participants, 
+providing central safekeeping and asset 
+services, transfers and pledges of 
+securities, and the settlement of 
+transactions by book entry (free of 
+payment or DVP).
+6 DTC’s liquidity risk 
+management strategy is designed to 
+facilitate its maintenance of sufficient 
+liquid resources to complete settlement 
+each Business Day.
+7 To that end, DTC 
+uses certain risk management controls, 
+including its Collateral Monitor and Net 
+Debit Cap, to protect its settlement 
+system in the event of a Participant 
+default, by ensuring that at any time the 
+settlement obligation of any Participant 
+will be fully collateralized and that the 
+amount to be settled cannot exceed 
+DTC’s liquidity resources.
+8 
+Collateral Monitor. The Collateral 
+Monitor is a calculation by which DTC 
+measures the sufficiency of the 
+Collateral in a Participant’s account to 
+cover its net settlement obligation.
+9 The 
+Collateral Monitor prevents the 
+completion of transactions that would 
+cause a Participant’s Net Debit Balance 
+to exceed the value of Collateral in its 
+account.
+10 The settlement obligation of 
+each Participant must be fully 
+collateralized, based on the Collateral 
+Monitor. This is designed so that if a 
+Participant fails to pay for its settlement 
+obligation, DTC will have sufficient 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00137 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+
+4998 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+11 Id at 61206. 
+12 See Disclosure Framework, supra note 6, at 54. 
+13 See Settlement Guide, supra note 3, at 69–70. 
+14 The collateral value of a security is the market 
+price minus a haircut amount determined by DTC. 
+See Disclosure Framework, supra note 6, at 52–53. 
+15 See Settlement Guide, supra note 3, at 69–70. 
+See also Rule 1, supra note 3 (definitions of 
+‘‘Deliverer’’ and ‘‘Receiver’’). 
+16 See Settlement Guide, supra note 3, at 70. 
+17 Id at 71. 
+18 See Notice of Filing, supra note 4, at 61206. 
+Each Participant’s settlement account may have a 
+net credit or net debit position throughout the day 
+as transactions are processed. At day’s end, 
+Participants will either owe a net debit, be owed a 
+net credit, or be balanced. See Disclosure 
+Framework, supra note 5, at 63. Based on a 
+Participant’s net debit history, these caps adjust 
+automatically relative to their highest intraday net 
+debit peaks. See Settlement Guide, supra note 3, at 
+71. 
+19 See Notice of Filing, supra note 4, at 61206. 
+20 Id. 
+21 See Settlement Guide, supra note 3, at 71. 
+22 17 CFR 240.17ad–22(e)(7)(ii). A ‘‘qualifying 
+liquid resource’’ means the following, in each 
+relevant currency: (i) Cash held either at the central 
+bank of issue or at creditworthy commercial banks; 
+(ii) Assets that are readily available and convertible 
+into cash through prearranged funding 
+arrangements, such as (A) Committed arrangements 
+without material adverse change provisions 
+including (1) lines of credit, (2) foreign exchange 
+swaps, and (3) repurchase agreements, or (B) Other 
+prearranged funding arrangements determined to be 
+highly reliable even in extreme but plausible market 
+conditions by the board of directors of the covered 
+clearing agency following a review conducted for 
+this purpose not less than annually; and, (iii) Other 
+assets that are readily available and eligible for 
+pledging to (or conducting other appropriate forms 
+of transactions with) a relevant central bank, if the 
+covered clearing agency has access to routine credit 
+at such central bank in a jurisdiction that permits 
+said pledges or other transactions by the covered 
+clearing agency. 17 CFR 240.17Ad–22(a)(14). 
+23 17 CFR 240.17ad–22(a) 
+24 The Participants Fund is comprised of 
+Participant deposits into the Core Fund and 
+Liquidity Fund. The Core Fund consists of $450 
+million, split into the Base Fund ($7,500 deposit 
+per Participant) and the Incremental Fund (based 
+on the six highest intraday net debit peaks over a 
+rolling 60 business day period). The Liquidity Fund 
+allocates an additional $700 million among 
+Participants with Affiliated Net Debit Caps 
+exceeding $2.15 billion. See Settlement Guide, 
+supra note 3, at 46–47. 
+25 DTC annually renews a 364-day revolving line 
+of credit with a group of commercial lenders. 
+Borrowed amounts must be backed by adequate 
+collateral, and lenders must meet their 
+commitments by specific times on the borrowing 
+day, given sufficient collateral and adherence to 
+time frames. See Disclosure Framework, supra note 
+6, at 62. 
+26 See Notice of Filing, supra note 4, at 61206. 
+27 $1.7 billion of the total LOC is available for 
+liquidity purposes. DTC sets the Net Debit Cap 
+below the total amount of liquidity resources in 
+case the defaulting Participant is a lender to the 
+LOC, this is known as the LOC Assumption Buffer. 
+DTC has previously explained that the $200 million 
+buffer is an amount greater than the contribution of 
+any lender to the DTC LOC. See Securities 
+Exchange Act Release No. 99456 (Feb. 1, 2024), 89 
+FR 8466 at 8468, n. 28 (Feb. 7, 2024). See also 
+Notice of Filing, supra note 4, at 61206. 
+28 Securities Exchange Act Release No. 102318 
+(Jan. 31, 2025), 90 FR 9094 (Feb. 6, 2025) (SR–DTC– 
+2023–801) (‘‘Debt Issuance Notice’’). See also 
+Notice of Filing, supra note 4, at 61206. 
+29 See Debt Issuance Notice, supra note 29, at 
+9095. 
+30 See Notice of Filing, supra note 4, at 61206. 
+31 Id. 
+Collateral to obtain funding for 
+settlement.11 
+At the opening of each business day, 
+a Participant’s Collateral Monitor is set 
+to zero and built up over the day to 
+secure any settlement obligation that 
+may arise. A Participant’s actual 
+Participant’s Fund Deposit is credited to 
+the Collateral Monitor, and updated 
+with credits or debits through the day.
+12 
+At all times the Collateral Monitor 
+reflects the amount by which the 
+collateral in your account exceeds the 
+net debit in your settlement account.
+13 
+Each transaction involves a collateral 
+flow and a cash flow component, one as 
+credit and the other as debit.
+14 The net 
+value of the collateral and cash 
+components updates the Collateral 
+Monitor. Completing a transaction 
+Delivery versus Payment generally 
+increases the Collateral Monitor of the 
+Deliverer of the security, and decreases 
+that of the Receiver of said security, 
+based on the difference between the 
+collateral and settlement value.
+15 DTC 
+verifies that a transaction places neither 
+party’s Collateral Monitor in the 
+negative during processing, and if a 
+transaction were to result in a negative 
+Collateral Monitor, meaning it is 
+undercollateralized, DTC would then 
+recycle that transaction until there is 
+enough collateral to complete.
+16 
+Net Debit Cap. The Net Debit Cap is 
+an amount calculated daily, which acts 
+to ensure that a Participant’s net debit 
+balance stays within DTC’s liquidity 
+resources, and that DTC can complete 
+settlement even if a Participant 
+defaults.
+17 Specifically, the Net Debit 
+Cap limits the settlement net debit a 
+Participant could incur during a 
+processing day irrespective of available 
+collateral, and it is currently capped to 
+a maximum amount of $2.15 billion per 
+Participant, or $2.85 billion per 
+Affiliated Family.
+18 
+Any transaction that would cause a 
+Participant or an Affiliated Family to 
+exceed its Net Debit Cap will not be 
+processed but will instead remain 
+pending until the Net Debit Balance is 
+reduced sufficient to permit 
+processing.
+19 A Net Debit Balance is 
+reduced by another transaction which 
+creates credits in your account.
+20 Most 
+credits are generated when a Participant 
+either delivers securities versus 
+payment, pledges securities for value, 
+receives principal, dividend or interest 
+allocations, or wires Settlement Progress 
+Payments (‘‘SPP’s’’) to DTC’s account at 
+the Federal Reserve Bank of New 
+York.
+21 
+DTC Liquidity Resources. Rule 17ad– 
+22(e)(7)(ii) under the Act requires DTC, 
+as a covered clearing agency, to hold 
+qualifying liquid resources sufficient to 
+meet the minimum liquidity resource 
+requirements in each relevant currency 
+for which the covered clearing agency 
+has payment obligations owed to 
+clearing members.
+22 DTC states that it 
+currently maintains two resources that 
+are considered as a ‘‘qualifying liquid 
+resource’’ under Rule 17ad–22(a)
+23 
+under the Act: (i) required Participants 
+Fund Deposits (‘‘Participants Fund’’)
+24, 
+which applies across all Participants 
+and equals $1.15 BN, and (ii) a 
+committed line of credit (‘‘LOC’’)
+25 of 
+$1.9 BN.26 Taken together, the 
+Participants Fund and LOC provide 
+DTC with $3.05 BN in total qualifying 
+liquid resources.
+27 
+The Commission recently determined 
+not to object to an Advance Notice filed 
+by DTC proposing to raise prefunded 
+liquidity resources through the periodic 
+issuance and private placement of 
+senior notes (‘‘Debt Issuance’’).
+28 DTC 
+proposed to issue up to an aggregate 
+amount of $3 billion in senior notes, 
+DTC has represented that these 
+resources are solely to be used to help 
+complete settlement in the event of a 
+default, therefore the proceeds of the 
+Debt Issuance are to supplement and 
+diversify the existing qualifying liquid 
+resources.
+29 
+III. Description of the Proposed Rule 
+Change 
+First, DTC proposes updating its 
+Settlement Guide and its Rules to 
+amend the Net Debit Cap from the 
+current fixed amounts of $2.15 billion 
+per Individual Participant and $2.85 
+billion per Affiliated Family, 
+respectively, to a flexible amount not to 
+exceed the available qualifying liquid 
+resources at DTC.
+30 As stated above in 
+Section II, DTC’s Qualifying Liquid 
+Resources are comprised of a $1.15 
+billion Participants Fund, a $1.9 billion 
+LOC, and, going forward, proceeds from 
+any issuance of senior notes under the 
+Debt Issuance program in an aggregate 
+amount not to exceed $3 billion. DTC 
+states that Participants have sought a 
+reassessment of the Net Debit Cap for 
+both Individual Participants and 
+Affiliated Families.
+31 DTC states that a 
+greater maximum Net Debit Cap would 
+provide for transaction processing 
+efficiencies that would lower the 
+likelihood of transactions pending 
+under a cap limit or of a Participant 
+needing to make SPPs to reduce its 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00138 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+
+4999 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+32 Id. 
+33 Id. 
+34 Id. 
+35 Id. at 61208. 
+36 Id. 
+37 Id. 
+38 DTC has requested confidential treatment of 
+Exhibit 3, the Impact Study, pursuant to 17 CFR 
+240.24b–2. 
+39 See Notice of Filing, supra note 4, at 61207. 
+40 Id. 
+41 Id. 
+42 Id. 
+43 Id. 
+44 Id. 
+45 Id. 
+46 Id. 
+47 Id. 
+48 Id. 
+49 Id. 
+50 Id. 
+51 Id. 
+52 Id. 
+53 Id. at 61208. 
+54 15 U.S.C. 78s(b)(2)(C). 
+55 15 U.S.C. 78q–1(b)(3)(F). 
+56 17 CFR 240.17Ad–22(e)(7)(i). 
+intraday Net Debit Balance.32 DTC 
+further states that any additional 
+liquidity provided by the Debt Issuance 
+allows DTC the flexibility to increase 
+the Net Debit Cap in line with the newly 
+expanded pool of Qualifying Liquid 
+Resources.
+33 
+To maintain alignment with 
+Qualifying Liquid Resources, the 
+Proposed Rule Change will edit the Net 
+Debit Cap section of the Settlement 
+Guide to reflect a new method for 
+determining the Net Debit Cap. The 
+Proposed Rule Change would eliminate 
+the static Net Debit Caps, changing to a 
+Net Debit Cap ‘‘based on DTC’s liquidity 
+resources, related costs, and projected 
+benefits to Participants,’’ and always set 
+lower than DTC’s total available 
+liquidity.
+34 DTC also proposes to clarify 
+in the Settlement Guide, with respect to 
+Affiliated Families, that the Aggregated 
+Affiliated Family Net Debit Cap will be 
+shared among the Participants of the 
+Affiliated Family according to either (1) 
+the proportional liquidity usage of the 
+Participants, or (2) as instructed by the 
+Affiliated Family in writing.
+35 DTC will 
+also update the Calculation of 
+Participant Net Debit Caps section of the 
+Settlement Guide to remove reference to 
+the current fixed $2.15 billion Net Debit 
+Cap, and to state that notice of any 
+reduction of the Net Debit Cap in the 
+future will be no fewer than ten days in 
+advance of such decrease taking effect.
+36 
+DTC will also update Rule 9(B) to reflect 
+that a transaction will not process if it 
+causes a Participant in an Affiliated 
+Family to exceed the Aggregate 
+Affiliated Family Net Debit Cap, 
+regardless of whether the Participant is 
+the Instructor or Contra Party.
+37 
+As part of the Proposed Rule Change, 
+DTC filed an Impact Study on the effects 
+the Proposed Rule Change would have 
+had on Participant’s liquidity needs 
+conducted for the period June 2, 2024 
+through January 31, 2025.
+38 
+Specifically, the Impact Study found 
+that, out of 179 Participant families, 17 
+would likely see a reduction of their 
+need for SPPs after a Net Debit Cap 
+increase. Specifically, an increase in the 
+Net Debit Cap by $0.75 to $1 billion 
+would lead to a reduction of $3.62 to 
+$4.43 billion in daily SPP’s sent across 
+the 17 families.
+39 
+Second, the Liquidity Fund 
+component of the Participants Fund, set 
+at $700 million, currently is funded 
+solely by those Affiliated Families 
+whose Net Debit Cap exceeds $2.15 
+billion.
+40 As the Proposed Rule Change 
+would increase the Net Debit Cap for an 
+individual Participant beyond $2.15 
+billion, those Unaffiliated Participants 
+whose Net Debit Cap exceeds $2.15 
+billion will be included along with 
+Affiliated Families with Net Debit Caps 
+exceeding $2.15 billion in the allocation 
+of the Liquidity Fund.
+41 To reflect this 
+change, the description of the Liquidity 
+Fund within the Settlement Guide will 
+be updated accordingly.
+42 The Impact 
+Study showed that with this Proposed 
+Rule Change, two Unaffiliated 
+Participants would become subject to 
+the Liquidity Fund.
+43 
+The Settlement Guide would also be 
+updated to reflect the new calculation to 
+determine Liquidity Fund allocation 
+between Affiliated Families and 
+Independent Participants. Whereas 
+within an Affiliated Family, each 
+Participant of the Family pays a 
+percentage portion of the allocated total 
+owed by the Affiliated Family as a 
+whole, an Individual Participant pays 
+the entire allocated portion of the 
+Liquidity Fund.
+44 Additionally, several 
+edits to the Liquidity Fund section are 
+proposed to update and clarify the 
+language for readability and 
+simplicity.
+45 
+To simplify the description of the 
+components of the Participants Fund, 
+the Proposed Rule Change will revise 
+the Amounts subsection to the 
+Participants Fund and Preferred Stock 
+Investment section of the Settlement 
+Guide.
+46 Currently, this section outlines 
+four separate aspects of the Participants 
+Fund: the Core Fund, the Base Fund, the 
+Incremental Fund, and the Liquidity 
+Fund. However, in practice, the Base 
+Fund and Incremental Fund are the two 
+components of the Core Fund.
+47 To 
+clarify this, the Proposed Rule Change 
+will remove the Base Fund and 
+Incremental Fund from the description 
+of the separate component amounts 
+which create the Participants Fund.
+48 
+Finally, the Proposed Rule Change 
+would also add new definitions to the 
+Settlement Guide and the Rules and 
+update the description of the Collateral 
+Monitor within the Settlement Guide. 
+The Settlement Guide’s Important 
+Terms section will be updated to 
+include definitions for Affiliated Family 
+and Unaffiliated Participant.
+49 An 
+Affiliated Family will mean ‘‘each 
+Participant that controls or is controlled 
+by another Participant and each 
+Participant that is under the common 
+control of any person.’’ Under this 
+definition, ‘‘control’’ means the direct or 
+indirect ownership of more than 50 
+percent of the voting securities or voting 
+interests of any person.
+50 An 
+Unaffiliated Participant will be defined 
+to mean a Participant that is not 
+included in an Affiliated Family.
+51 The 
+Settlement Guide will be edited further 
+to refer to the Collateral Monitor as a 
+‘‘calculation’’ rather than a ‘‘process.’’
+52 
+Finally, the term Aggregate Affiliated 
+Family Net Debit will be added to Rule 
+1 of the Rules and defined as, ‘‘the 
+amount by which the algebraic sum of 
+all money debits and charges to the 
+Accounts of an Affiliated Family 
+exceeds the sum of all money credits 
+thereto.’’
+53 
+IV. Discussion and Commission 
+Findings 
+Section 19(b)(2)(C) of the Act
+54 
+directs the Commission to approve a 
+proposed rule change of a self- 
+regulatory organization if it finds that 
+such proposed rule change is consistent 
+with the requirements of the Act and 
+rules and regulations thereunder 
+applicable to such organization. After 
+careful review of the Proposed Rule 
+Change, the Commission finds that the 
+Proposed Rule Change is consistent 
+with the requirements of the Act and the 
+rules and regulations thereunder 
+applicable to DTC. In particular, the 
+Commission finds that the Proposed 
+Rule Change is consistent with Section 
+17A(b)(3)(F) of the Act
+55 and Rule 
+17Ad–22(e)(7)(i) thereunder.56 
+A. Consistency With Section 
+17A(b)(3)(F) of the Act 
+Section 17A(b)(3)(F) of the Act 
+requires that the rules of a clearing 
+agency, such as DTC, be designed to, 
+among other things, promote the prompt 
+and accurate clearance and settlement of 
+securities transactions and remove 
+impediments to and perfect the 
+mechanism of a national system for the 
+prompt and accurate clearance and 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00139 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+
+5000 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+57 15 U.S.C. 78q–1(b)(3)(F). 
+58 See Notice of Filing, supra note 4, at 61207– 
+08. See also Settlement Guide, supra note 3, at 71. 
+59 See Settlement Guide, supra note 3, at 71. 
+60 15 U.S.C. 78q–1(b)(3)(F). 
+61 17 CFR 240.17Ad–22(e)(7)(i). 
+62 Id. 
+63 15 U.S.C. 78q–1. 
+64 15 U.S.C. 78s(b)(2). 
+65 In approving the Proposed Rule Change, the 
+Commission considered its impact on efficiency, 
+competition, and capital formation. 15 U.S.C. 78c(f). 
+66 17 CFR 200.30–3(a)(12). 
+1 15 U.S.C. 78s(b)(1). 
+2 17 CFR 240.19b–4. 
+settlement of securities transactions.57 
+The Proposed Rule Change is consistent 
+with Section 17A(b)(3)(F) of the Act for 
+the reasons stated below. 
+As noted in Section II above, the Net 
+Debit Cap is a risk management tool 
+utilized by DTC. By limiting the 
+settlement net debit any Participant can 
+incur at any point during the processing 
+day to an amount below DTC’s liquidity 
+resources, DTC uses the Net Debit Cap 
+to protect the DTC settlement system in 
+the event of a Participant default. This 
+ensures that DTC maintains sufficient 
+financial resources to complete 
+settlement in the event of a failure to 
+settle by the largest Participant or 
+Affiliated Family of Participants. As 
+noted in Section III above, DTC filed an 
+Impact Study accompanying the 
+Proposed Rule Change. The Commission 
+has reviewed and analyzed the filing 
+materials, including the Impact Study. 
+An increase of the Net Debit Cap would 
+not impact DTC’s ability to meet its 
+liquidity obligations because, as 
+discussed in Part III, the proposed Net 
+Debit Cap increase would continue to be 
+supported by sufficient DTC qualifying 
+liquid resources, as the floating amount 
+will always be lower than DTC’s total 
+available liquidity.
+58 Because the 
+increase in Net Debit Cap should 
+improve transaction processing while 
+still ensuring that DTC has sufficient 
+liquidity resources in the event of 
+default, the Commission finds that the 
+Proposed Rule Change should enhance 
+DTC’s ability to provide prompt and 
+accurate clearance and settlement of 
+securities transactions, consistent with 
+Section 17A(b)(3)(F) of the Act. 
+The Proposed Rule Change is 
+consistent with removing impediments 
+to and perfecting the mechanism of a 
+national system for the prompt and 
+accurate clearance and settlement of 
+securities transactions. As described 
+above, DTC employs Debit Caps as a risk 
+management tool to regulate the total 
+settlement obligation that any 
+Participant or Affiliated Family may 
+incur. As DTC does not process 
+transactions that would result in a 
+Participant exceeding its Net Debit Cap, 
+such transactions remain pending until 
+the Participant’s Net Debit Balance is 
+sufficiently reduced to permit 
+processing. By raising the Net Debit 
+Cap, a greater number of transactions 
+could be processed without requiring 
+the Participant to first reduce its Net 
+Debit Balance.
+59 
+The Commission has reviewed and 
+analyzed the the Impact Study. The 
+Impact Study demonstrates that an 
+increase of the Net Debit Cap would 
+elicit an immediate reduction in the 
+number of SPPs required to complete 
+transactions. A higher Net Debit Cap 
+should reduce blockages from 
+transactions pending due to a 
+Participant reaching their Net Debit Cap 
+and reduce the need to submit SPPs. 
+Accordingly, the proposal is designed to 
+remove impediments to and perfect the 
+mechanism of a national system for the 
+prompt and accurate clearance and 
+settlement of securities transactions, 
+consistent with Section 17A(b)(3)(F) of 
+the Act.
+60 
+B. Consistency With Rule 17Ad– 
+22(e)(7)(i) 
+Rule 17Ad–22(e)(7)(i) requires that, 
+among other things, DTC establish, 
+implement, maintain and enforce 
+written policies and procedures 
+reasonably designed to, as applicable, 
+effectively measure, monitor, and 
+manage the liquidity risk that arises in 
+or is borne by the covered clearing 
+agency, including measuring, 
+monitoring, and managing its settlement 
+and funding flows on an ongoing and 
+timely basis, and its use of intraday 
+liquidity by maintaining sufficient 
+liquid resources at the minimum in all 
+relevant currencies to effect same-day, 
+and, where appropriate, intraday and 
+multiday settlement of payment 
+obligations with a high degree of 
+confidence under a wide range of 
+foreseeable stress scenarios, that 
+includes, but is not limited to, the 
+default of the participant family that 
+would generate the largest aggregate 
+payment obligation for DTC in extreme 
+but plausible market conditions.
+61 
+As discussed in Part II, the Net Debit 
+Cap restricts a Participant’s net debit 
+settlement obligation to an amount that 
+can be satisfied with DTC’s liquidity 
+resources at any point during its 
+processing day. As outlined in Part III, 
+the proposed increase in the Net Debit 
+Cap would be capped by DTC’s 
+available qualifying liquid resources 
+when considering the Participants 
+Fund, LOC, and Debt Issuance 
+collectively, and it would not alter the 
+current methods for monitoring 
+settlement flows and net debit 
+obligations. This should enable DTC to 
+maintain sufficient liquid resources to 
+meet its payment obligations under a 
+wide range of foreseeable stress 
+scenarios, including the default of the 
+Individual Participant or Affiliated 
+Family causing the largest aggregate 
+payment obligation for DTC in extreme 
+but plausible market conditions. 
+For the reasons above, the 
+Commission finds that the Proposed 
+Rule Change is consistent with Rule 
+17Ad–22(e)(7)(i) under the Act.
+62 
+V. Conclusion 
+On the basis of the foregoing, the 
+Commission finds that the Proposed 
+Rule Change is consistent with the 
+requirements of the Act, and in 
+particular, with the requirements of 
+Section 17A of the Act
+63 and the rules 
+and regulations promulgated 
+thereunder. 
+It is therefore ordered, pursuant to 
+Section 19(b)(2) of the Act
+64 that 
+proposed rule change SR–DTC–2025– 
+019, be, and hereby is, APPROVED.
+65 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.66 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02117 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104738; File No. SR–MIAX– 
+2026–04] 
+Self-Regulatory Organizations; Miami 
+International Securities Exchange, 
+LLC; Notice of Filing and Immediate 
+Effectiveness of a Proposed Rule 
+Change To Amend Rule 307, Position 
+Limits, and Rule 309, Exercise Limits, 
+Regarding Position and Exercise 
+Limits on Options Overlying Certain 
+Crypto Assets 
+January 29, 2026. 
+Pursuant to the provisions of Section 
+19(b)(1) of the Securities Exchange Act 
+of 1934 (‘‘Act’’)
+1 and Rule 19b–4 
+thereunder,2 notice is hereby given that 
+on January 28, 2026, Miami 
+International Securities Exchange, LLC 
+(‘‘MIAX’’ or ‘‘Exchange’’) filed with the 
+Securities and Exchange Commission 
+(‘‘Commission’’) a proposed rule change 
+as described in Items I and II below, 
+which Items have been prepared by the 
+Exchange. The Commission is 
+publishing this notice to solicit 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00140 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
