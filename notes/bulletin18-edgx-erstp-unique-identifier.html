@@ -1,0 +1,63 @@
+<li>
+  <h2>18. Cboe EDGX turns ERSTP "Unique Identifier" into a beneficial-ownership control knob</h2>
+  <p><strong>Date:</strong> 2026-02-04 &mdash; <strong>Venue / Regulator:</strong> Cboe EDGX Exchange, Inc.; U.S. Securities and Exchange Commission (SEC) &mdash; <strong>Document:</strong> Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.10(d) (EdgeRisk Self Trade Prevention (ERSTP) Modifiers) To Revise the Definition of Unique Identifier (91 Fed. Reg. 5145&ndash;5149, FR Doc. 2026-02227; Release No. 34-104754; File No. SR&ndash;CboeEDGX&ndash;2026&ndash;005).</p>
+
+  <p><strong>Core move:</strong> EDGX keeps its EdgeRisk Self Trade Prevention (ERSTP) mechanics but rewrites what counts as a <em>Unique Identifier</em>. Instead of a closed list (MPID, Member ID, ERSTP Group, affiliate ID, Multiple Access ID), Rule 11.10(d) now lets EDGX create a Unique Identifier at (i) the MPID level, (ii) the firm level, or (iii) wherever a User attests that ERSTP is needed to prevent transactions that do <em>not</em> change beneficial ownership. Self-trade prevention is tied directly to beneficial ownership, not just plumbing IDs.</p>
+
+  <h3>Mechanics</h3>
+  <ul>
+    <li><strong>ERSTP basics unchanged:</strong> ERSTP remains an <strong>optional</strong> risk tool. An incoming order marked with an ERSTP modifier will not execute against a resting opposite-side order that is also ERSTP-marked with the same Unique Identifier. The modifier on the incoming order still determines the outcome (cancel incoming, cancel resting, cancel both, cancel smallest, or size-adjust).</li>
+
+    <li><strong>Old Unique Identifier taxonomy:</strong> Under the prior Rule 11.10(d), a Unique Identifier was any of: (1) MPID; (2) Exchange Member identifier; (3) ERSTP Group identifier; (4) affiliate identifier (based on &gt;50% ownership on Form BD plus an affidavit); or (5) Multiple Access identifier (for firms that both connect directly and via Sponsored Access). These constructs anchored ERSTP to <strong>technical connectivity and formal ownership records</strong>.</li>
+
+    <li><strong>New three-path definition:</strong> The amended rule says a Unique Identifier may now be created at:
+      <ul>
+        <li><strong>(i) MPID level</strong> &mdash; same as before: ERSTP scoped to a single market participant identifier.</li>
+        <li><strong>(ii) Firm level</strong> &mdash; includes Exchange Member identifiers and ERSTP Group identifiers that span multiple MPIDs or desks.</li>
+        <li><strong>(iii) Beneficial-ownership level</strong> &mdash; <em>&ldquo;where the User indicates that ERSTP is necessary in order to prevent transactions in securities in which there is no change in beneficial ownership&rdquo;</em> and completes an <strong>Exchange-provided attestation</strong>.</li>
+      </ul>
+      The text explicitly drops the named <em>affiliate identifier</em> and <em>Multiple Access identifier</em>, but says the new definition still captures those concepts.</li>
+
+    <li><strong>Why EDGX needed more flexibility:</strong> The filing describes cases where the old taxonomy breaks:
+      <ul>
+        <li>Firms that route different strategies or time zones through distinct <strong>Sponsored Participants</strong> and sponsoring brokers (e.g., a U.S. desk via Sponsoring Member 1 and a European desk via Sponsoring Member 2) but want ERSTP across both because they share a single beneficial owner.</li>
+        <li>Structures where a parent firm uses both a direct EDGX membership and multiple Sponsored Access pathways, potentially via different intermediaries, such that there is <strong>no single MPID or Sponsored Participant code</strong> that spans all flows.</li>
+      </ul>
+      Under the old rule, EDGX could struggle to justify a single Unique Identifier; under item (iii), it can create one keyed to the economic owner.</li>
+
+    <li><strong>Attestation and responsibility:</strong> Any User asking for a Unique Identifier under new item (iii) must first complete an Exchange attestation that ERSTP is needed to prevent trades with <strong>no change in beneficial ownership</strong>. EDGX stresses that ERSTP is a supplemental tool: firms remain fully responsible for complying with Exchange Act <strong>Section 9(a)(1)</strong> (wash sales) and <strong>FINRA Rules 6140 and 5210</strong> on self-trades and false prints, and cannot rely solely on ERSTP to satisfy supervisory obligations.</li>
+
+    <li><strong>Timing and process:</strong> The change is filed as a <strong>Rule 19b&ndash;4(f)(6)</strong> &ldquo;non-controversial&rdquo; rule change. The Commission <strong>waives the 30-day operative delay</strong>, making it effective upon filing (Jan. 28, 2026), with EDGX planning to implement in <strong>Q1 2026</strong> and announce the go-live via Trade Desk Notice.</li>
+  </ul>
+
+  <h3>Why this matters (structural view)</h3>
+  <ul>
+    <li><strong>From pipes to people: beneficial ownership as the key:</strong> The old ERSTP model tied self-trade prevention to <strong>plumbing identifiers</strong> (MPIDs, Member IDs, Sponsored Participant codes, affiliate flags). The new model lets a firm (and EDGX) define the perimeter in terms of <strong>who actually owns the risk</strong>. That moves the core question from &ldquo;are these orders on the same pipe?&rdquo; to &ldquo;are these orders from the same beneficial owner?&rdquo;</li>
+
+    <li><strong>Global firms can centralize self-trade controls across brokers:</strong> Large cross-border firms often fragment their connectivity across regions and sponsoring brokers. The attestation-based Unique Identifier lets them ask EDGX to <strong>stitch those paths together</strong> so that two desks in different time zones, using different sponsoring brokers, still cannot print against each other if they roll up to the same economic owner. That turns ERSTP into a venue-level <strong>beneficial-ownership firewall</strong> for their own flow.</li>
+
+    <li><strong>Cleaner alignment with wash sale and self-trade doctrines:</strong> By grounding the new path explicitly in &ldquo;no change in beneficial ownership,&rdquo; EDGX is aligning its self-trade controls with the legal concepts that underpin <strong>wash sale</strong> and <strong>self-trade</strong> prohibitions. Firms can point to ERSTP Unique Identifiers as part of their program for preventing manipulative or misleading prints, while regulators can treat the attestation trail as evidence if those controls are abused.</li>
+
+    <li><strong>Attestations as a governance lever, not just paperwork:</strong> The mandated Exchange attestation for item (iii) gives EDGX and the SEC a hook if a firm uses wide ERSTP scopes to <strong>avoid interacting with competitors</strong> rather than to stop true self-trades. Because the firm must represent that the relevant flows share beneficial ownership, the attestation becomes part of the evidence record in any later enforcement about unfair discrimination or spoofed liquidity.</li>
+
+    <li><strong>Impact on the tape and surveillance:</strong> As more firms use ERSTP at a granular beneficial-ownership level, some self-trade prints disappear from the consolidated tape and EDGX market data. That can <strong>reduce noise</strong> from unintentional self-trades and highlight remaining patterns where self-trades still occur despite available tools, making those cases structurally more suspicious for surveillance teams.</li>
+
+    <li><strong>Template for multi-venue harmonization:</strong> This filing sits alongside similar 2026 Cboe BZX/BYX/EDGA STP/MTP changes. Together, they push toward a <strong>harmonized, ownership-aware concept of &ldquo;same actor&rdquo;</strong> across Cboe U.S. equity markets. Competing venues that still tie STP narrowly to a single MPID or membership ID may face pressure to match this flexibility or justify why cross-broker self-trade prevention is harder on their books.</li>
+  </ul>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>Federal Register: <a href="https://www.federalregister.gov/documents/2026/02/04/2026-02227/self-regulatory-organizations-cboe-edgx-exchange-inc-notice-of-filing-and-immediate-effectiveness-of" target="_blank" rel="noopener noreferrer">Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.10(d) (EdgeRisk Self Trade Prevention (ERSTP) Modifiers) To Revise the Definition of Unique Identifier</a>.</li>
+    <li>GovInfo PDF: <a href="https://www.govinfo.gov/content/pkg/FR-2026-02-04/pdf/2026-02227.pdf" target="_blank" rel="noopener noreferrer">FR 2026-02-04, 91 Fed. Reg. 5145&ndash;5149 (2026-02227)</a> (mirrored locally as <code>sources/fedreg-20260204-2026-02227.pdf</code> and extracted text <code>sources/fedreg-20260204-2026-02227.txt</code>).</li>
+    <li>EDGX rulebook reference: Exchange Rule 11.10(d), <em>EdgeRisk Self Trade Prevention (ERSTP) Modifiers</em>.</li>
+    <li>Research note: <code>notes/20260204-edgx-erstp-unique-identifier.md</code>.</li>
+  </ul>
+
+  <h3>Coverage checks</h3>
+  <p>To check for mainstream coverage of the EDGX ERSTP Unique Identifier change, I ran a DuckDuckGo HTML search and scanned for major wire and newspaper outlets:</p>
+  <pre><code>cd ~/gpt-5-1-news-wire
+mkdir -p tmp
+q='"Cboe EDGX" "EdgeRisk Self Trade Prevention" "Unique Identifier" 2026-02227'
+enc=$(python - << 'EOF'
+import urllib.parse, sys
+print(urllib.parse.quote(sys.argv[1]))

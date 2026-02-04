@@ -1,0 +1,287 @@
+5145 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+3117 CFR 240.19b–4(f)(6)(iii). 
+32For purposes only of waiving the 30-day 
+operative delay, the Commission also has 
+considered the proposed rule’s impact on efficiency, competition, and capital formation. See 15 U.S.C. 78c(f). 3317 CFR 200.30–3(a)(12) and (59). 
+115 U.S.C. 78s(b)(1). 
+217 CFR 240.19b–4. 315 U.S.C. 78s(b)(3)(A)(iii). 
+417 CFR 240.19b–4(f)(6). 
+517 CFR 240.19b–4(f)(6)(iii). 
+6See Exchange Rule 1.5(ee). ‘‘User’’ is defined as 
+‘‘any Member or Sponsored Participant who is 
+Continued to Rule 19b4(f)(6)(iii),31the Commission 
+may designate a shorter time if such 
+action is consistent with the protection of investors and the public interest. The Exchange has requested that the Commission waive the 30-day operative delay so that the proposal may become operative immediately upon filing. The Exchange states that waiver of the operative delay is appropriate because the proposed rule change: (1) does not change how the current MTP functionality on the Exchange works, (2) will allow additional Users to enable MTP pursuant to the revised definition of Unique Identifier on an earlier timeline, and (3) revises the definition of Unique Identifier to prevent transactions in securities where there is no change in beneficial ownership in instances that an existing Unique Identifier would not enable MTP modifier. The Commission believes that waiver of the operative delay would be consistent with the protection of investors and the public interest because this proposed rule change does not present any novel issues. Accordingly, the Commission hereby waives the 30-day operative delay and designates the proposed rule change as operative upon filing.
+32 
+At any time within 60 days of the 
+filing of the proposed rule change, the Commission summarily may temporarily suspend such rule change if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of the Act. If the Commission takes such action, the Commission shall institute proceedings to determine whether the proposed rule should be approved or disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule change is consistent with the Act. Comments may be submitted by any of the following methods: 
+Electronic Comments 
+•Use the Commission’s internet 
+comment form (https://www.sec.gov/ 
+rules/sro.shtml); or 
+•Send an email to rule-comments@
+sec.gov. Please include file number SR– 
+CboeBZX–2026–010 on the subject line. Paper Comments 
+•Send paper comments in triplicate 
+to Secretary, Securities and Exchange Commission, 100 F Street NE, Washington, DC 20549–1090. 
+All submissions should refer to file 
+number SR–CboeBZX–2026–010. This file number should be included on the subject line if email is used. To help the Commission process and review your comments more efficiently, please use only one method. The Commission will post all comments on the Commission’s internet website (https://www.sec.gov/ rules/sro.shtml). Copies of the filing will be available for inspection and copying at the principal office of the Exchange. Do not include personal identifiable information in submissions; you should submit only information that you wish to make available publicly. We may redact in part or withhold entirely from publication submitted material that is obscene or subject to copyright protection. All submissions should refer to file number SR–CboeBZX–2026–010 and should be submitted on or before February 25, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.33 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02220 Filed 2–3–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104754; File No. SR– 
+CboeEDGX–2026–005] 
+Self-Regulatory Organizations; Cboe 
+EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 11.10(d) (‘‘EdgeRisk Self Trade Prevention (‘‘ERSTP’’) Modifiers’’) To Revise the Definition of 
+Unique Identifier 
+January 30, 2026. 
+Pursuant to Section 19(b)(1) of the 
+Securities Exchange Act of 1934 (the ‘‘Act’’),
+1and Rule 19b–4 thereunder,2 
+notice is hereby given that on January 28, 2026, Cboe EDGX Exchange, Inc. (the ‘‘Exchange’’ or ‘‘EDGX’’) filed with the Securities and Exchange Commission (the ‘‘Commission’’) the proposed rule change as described in Items I and II below, which Items have been prepared by the Exchange. The Exchange filed the proposal as a ‘‘non- controversial’’ proposed rule change pursuant to Section 19(b)(3)(A)(iii) of the Act
+3and Rule 19b–4(f)(6) 
+thereunder.4The Commission is 
+publishing this notice to solicit comments on the proposed rule change from interested persons. 
+I. Self-Regulatory Organization’s 
+Statement of the Terms of Substance of the Proposed Rule Change 
+Cboe EDGX Exchange, Inc. (the 
+‘‘Exchange’’ or ‘‘EDGX’’) proposes to amend Exchange Rule 11.10(d) (‘‘EdgeRisk Self Trade Prevention (‘‘ERSTP’’) Modifiers’’) to revise the definition of Unique Identifier. The Exchange has designated this proposal as non-controversial pursuant to Rule 19b–4(f)(6)(iii) under the Act.
+5The text 
+of the proposed rule change is provided in Exhibit 5. 
+The text of the proposed rule change 
+is also available on the Commission’s website (https://www.sec.gov/rules/ sro.shtml), the Exchange’s website (https://www.cboe.com/us/equities/ regulation/rule_ filings/bzx/), and at the 
+principal office of the Exchange. 
+II. Self-Regulatory Organization’s 
+Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change 
+In its filing with the Commission, the 
+Exchange included statements concerning the purpose of and basis for the proposed rule change and discussed any comments it received on the proposed rule change. The text of these statements may be examined at the places specified in Item IV below. The Exchange has prepared summaries, set forth in sections A, B, and C below, of the most significant aspects of such statements. 
+A. Self-Regulatory Organization’s 
+Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change 
+1. Purpose 
+The Exchange proposes to amend 
+Rule 11.10(d) (‘‘EdgeRisk Self Trade 
+Prevention (‘‘ERSTP’’) Modifiers) by revising the definition of Unique Identifier. This proposed change is a result of User feedback and implementation difficulties that the Exchange has encountered while trying to apply ERSTP based on current Rule 11.10(d), which requires Users
+6to have 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00041 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES5146 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+authorized to obtain access to the System pursuant 
+to Rule 11.3.’’ The ‘‘System’’ is ‘‘the electronic communications and trading facility designated by the Board through which securities orders of Users are consolidated for ranking, execution and, when applicable, routing away.’’ See Exchange Rule 
+1.5(cc). The term ‘‘Member’’ means any registered broker or dealer that has been admitted to membership in the Exchange. See Exchange Rule 
+1.5(n). 
+7An MPID is a four-character unique identifier 
+that is approved by the Exchange and assigned to a Member for use on the Exchange to identify the Member firm on the orders sent to the Exchange and resulting executions. 
+8See Exchange Rule 11.10(d). 9See Rule 11.10(d)(1)–(5). Generally, Users may 
+elect to cancel the incoming order, cancel the resting order, cancel both orders, cancel the smallest order, or reduce the size of the larger order by the size of the smaller order. the same Unique Identifier on each 
+order. As discussed infra, the current 
+rule text provides that a Unique Identifier may originate from a specific set of User characteristics. The Exchange now seeks to revise the definition of Unique Identifier and instead provide for three situations in which a Unique Identifier may be generated. The Exchange believes this change would allow for more flexibility in determining which Users are issued a Unique Identifier without compromising the purpose of Rule 11.10(d) and match trade prevention generally. Additionally, the Exchange proposes to include rule text that provides that a User requesting a Unique Identifier pursuant to item (iii) of Rule 11.10(d) must complete an Exchange-provided attestation. The Exchange emphasizes that ERSTP is entirely optional and is not required. As is the case with the existing risk tools, Users, and not the Exchange, have full responsibility for ensuring that their orders comply with applicable securities rules, laws, and regulations. Furthermore, as is the case with the existing risk settings, the Exchange does not believe that the use of the proposed ERSTP functionality can replace User- managed risk management solutions. 
+Currently, any incoming order 
+designated with an ERSTP modifier will be prevented from executing against a resting opposite side order also designated with an ERSTP modifier and originating from the same market participant identifier (‘‘MPID’’),
+7 
+Exchange Member identifier, ERSTP Group identifier, affiliate identifier, or Multiple Access identifier (any such identifier, a ‘‘Unique Identifier’’).
+8Both 
+the buy and the sell order must include the same Unique Identifier in order to prevent an execution from occurring and to effect a cancel instruction based on the ERSTP modifier appended to each order. In order to describe how ERSTP functionality may be applied by Users today, the Exchange has provided a brief description of how each Unique Identifier enables ERSTP. A User who enables ERSTP 
+functionality using the MPID Unique 
+Identifier will prevent contra side executions between the same MPID from occurring. A User who enables ERSTP using the Exchange Member Unique Identifier would prevent contra side executions between any MPID associated with that User and not just a single MPID. The ERSTP Group Unique Identifier permits Users to prevent matched trades amongst traders or desks within a certain firm but allows orders from outside such group or desk to interact with other firm orders. The affiliate identifier is a Unique Identifier that permits ERSTP to be enabled by firms with a control relationship. The affiliate identifier is only available to Users where: (i) greater than 50% ownership is identified in a User’s Form BD; and (ii) the Users execute an affidavit stating that a control relationship exists between the two Users. The Multiple Access identifier is available to Users that submit orders to the Exchange both through a direct connection as well as through Sponsored Access. In each instance where an order is appended with a Unique Identifier, the Exchange is utilizing an already existing identifier (e.g., MPID or Exchange Member 
+identifier) or creating an identifier in order to enable ERSTP between two separate Users where there would otherwise not be a common identifier (e.g., affiliate identifier or Multiple 
+Access identifier). 
+Based on User feedback and 
+implementation difficulties that the Exchange has encountered while seeking to apply ERSTP based its current definition of Unique Identifier, the Exchange now proposes to amend Rule 11.10(d) by revising the definition of Unique Identifier to eliminate the specific Unique Identifier types and instead providing for three situations in which a Unique Identifier may be generated. As proposed, Rule 11.10(d) would provide that a Unique Identifier may be created at: (i) the MPID level; (ii) the firm level (e.g., Exchange Member 
+identifier, ERSTP Group identifier); or (iii) where the User indicates that ERSTP is necessary in order to prevent transactions in securities in which there is no change in beneficial ownership. 
+The Exchange believes this change is 
+necessary as Users with legitimate reasons for seeking to enable ERSTP are choosing to submit order flow to the Exchange through various constructs that do not align with the current definitions applicable to Unique Identifiers available under current Rule 
+11.10(d). The proposed changes do not change how ERSTP will function from an operational perspective. Both the incoming order and the resting opposite side order must continue to be designated with an ERSTP modifier
+9(in 
+addition to a Unique Identifier) in order for ERSTP to apply. The ERSTP modifier on the incoming order will control the interaction between two orders marked with ERSTP modifiers. This proposal is only intended to amend when the Exchange may create a Unique Identifier for a User (or multiple Users) to enable ERSTP when there is otherwise no common identifier available. As is the case under existing Rule 11.10(d), a Unique Identifier will continue to include an MPID, an Exchange Member identifier, or an ERSTP Group identifier—each of which can be categorized under either the (i) MPID level or (ii) the firm level in the proposed rule text. These Unique Identifiers are based on existing identifiers that the Exchange does not specially create for Users and are already being utilized in other formats by the Exchange when a User requests to use ERSTP. However, when a User requests to utilize ERSTP and is doing so based on the current affiliate identifier or current Multiple Access identifier, the Exchange manually creates the applicable Unique Identifier for the User and must ensure that the User satisfies the requirements to obtain an affiliate identifier or Multiple Access identifier prescribed in Rule 11.10(d). 
+The Exchange has received feedback 
+from firms who would like to employ ERSTP utilizing the current affiliate identifier or the current Multiple Access identifier that it is unclear whether particular use cases would qualify for ERSTP utilizing those particular identifiers based on the definition of those terms currently found in Rule 11.10(d). As such, the Exchange is proposing to remove the terms affiliate identifier and Multiple Access identifier from the definition of Unique Identifier in Rule 11.10 and replace those terms with a concept that more accurately captures a User’s basis for wanting to utilize ERSTP as a basis for creating a Unique Identifier. The proposed rule text in Rule 11.10(d) that provides for the creation of a Unique Identifier ‘‘. . . (iii) where the User indicates that ERSTP is necessary in order to prevent transactions in securities in which there is no change in beneficial ownership[.]’’ is based in the concept of the federal securities laws’ prohibition on wash 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00042 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES5147 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+10A ‘‘wash sale’’ is generally defined as a trade 
+involving no change in beneficial ownership that is 
+intended to produce the false appearance of trading and is strictly prohibited under both the federal securities laws and FINRA rules. See, e.g., 15 U.S.C. 
+78i(a)(1); FINRA Rule 6140(b) (‘‘Other Trading Practices’’). 
+11Self-trades are ‘‘transactions in a security 
+resulting from the unintentional interaction of orders originating from the same firm that involve no change in beneficial ownership of the security.’’ FINRA requires members to have policies and procedures in place that are reasonably designed to review trading activity for, and prevent, a pattern or practice of self-trades resulting from orders originating from a single algorithm or trading desk, or related algorithms or trading desks. See FINRA 
+Rule 5210, Supplementary Material .02. 
+12The Exchange does not guarantee that ERSTP 
+is sufficiently comprehensive to be the exclusive means by which a User can satisfy its obligations under the Exchange’s rules regarding a User’s supervisory obligations. ERSTP is designed to serve as a supplemental tool that may be utilized by Users and the Exchange generally does not believe that its use can replace User-based managed risk solutions and notes that ERSTP was not designed as a sole means of risk control. The User, and not the Exchange, retains full responsibility for complying with such regulatory requirements and must perform its own appropriate due diligence to ensure that ERSTP is reasonably designed to be effective, and otherwise consistent with the User’s supervisory obligations. The Commission has stated that broker-dealers may not rely merely on representations of the technology provider, even if an exchange or other regulated entity, to meet this due diligence standard. See, Securities Exchange 
+Act Release No. 63241 (November 15, 2010), 75 FR 69792 at 69798. See also, Reponses to Frequently 
+Asked Questions Concerning Risk Management Controls for Brokers or Dealers with Market Access, Division of Trading and Markets, Question No. 5, April 15, 2014. Available at: https://www.sec.gov/ rules-regulations/staff-guidance/trading-markets- frequently-asked-questions/divisionsmarketregfaq- 0. 
+13The Exchange will not require an attestation 
+from Users who are able to utilize the MPID level or firm level Unique Identifiers as those Users have existing documentation in place that allows for the utilization of a Unique Identifier (e.g., MPID, 
+Exchange Member identifier, Sponsored Participant identifier, or trading group identifier) that is not manually created by the Exchange. 14See Rule 1.5(z). The term ‘‘Sponsored 
+Participant’’ shall mean a person which has entered 
+into a sponsorship arrangement with a Sponsoring Member pursuant to Rule 11.3. 
+15The Exchange notes that there may be instances 
+where transactions between two trading desks from 
+the same firm would be considered bona fide transactions (e.g., sufficient information barriers 
+exist), but if the firm is requesting to utilize ERSTP then there is a presumption that the firm believes that transactions between the subject trading desk would result in a self-trade. 
+16See Rule 1.5(aa). The term ‘‘Sponsoring 
+Member’’ shall mean a broker-dealer that has been issued a membership by the Exchange who has been designated by a Sponsored Participant to execute, clear and settle transactions resulting from the System. The Sponsoring Member shall be either (i) a clearing firm with membership in a clearing agency registered with the Commission that maintains facilities through which transactions may be cleared or (ii) a correspondent firm with a clearing arrangement with any such clearing firm. 
+17See Rule 1.5(y). The term ‘‘Regular Trading 
+Hours’’ shall mean the time between 9:30 a.m. and 4:00 p.m. Eastern Time. 
+18See Rule 1.5(jj). The term ‘‘Early Trading 
+Session’’ shall mean the time between 7:00 a.m. and 8:00 a.m. Eastern Time. sales10and FINRA Rule 5210 
+concerning self-trades.11 12Importantly, 
+the proposed revised definition of 
+Unique Identifier, particularly item (iii), would continue to capture the concepts of the affiliate identifier and Multiple Access identifier and as such, existing Users of those Unique Identifiers would not be harmed by the change in definition. The Exchange notes that any User seeking to utilize proposed item (iii) of Rule 11.10(d) will be required to complete an Exchange-provided attestation before the Unique Identifier is created.
+13 
+The Exchange proposes to introduce 
+subsection (iii) of Rule 11.10(d) to account for situations where a firm seeks to enable ERSTP in order to 
+prevent transactions in securities in which there is no change in beneficial ownership but where the User does not have an existing Unique Identifier at the MPID or firm level that may be utilized 
+to enable ERSTP. For instance, a firm may employ different trading strategies across different trading desks and choose to send orders for one strategy to the Exchange through one Sponsored Participant
+14while the other strategy is 
+sent through a third party who also accesses the Exchange as a Sponsored Participant.
+15While each trading desk is 
+sending its order flow as a Sponsored Participant, the Sponsored Participants are using different Sponsoring Members
+16to connect to the Exchange 
+and thus the Exchange cannot apply the same Unique Identifier to each respective trading desk even though the trading desks are from the same firm. Additionally, a firm may utilize multiple broker-dealers in multiple jurisdictions to implement its trading strategy at different hours of the day. For example, a firm’s US-based broker- dealer may be primarily responsible for entering orders during Regular Trading Hours,
+17while the firm’s European- 
+based broker-dealer may be primarily responsible for entering orders during the Early Trading Session.
+18Various 
+other considerations (e.g., business 
+needs, cost, technology limitations, etc.) also factor in to a firm’s decision into how it submits order flow to the Exchange. 
+For example, consider the following 
+scenario where a firm has multiple Users submitting orders to the Exchange. User 1 seeks to enable ERSTP against User 2, which is a related entity of the same firm. User 1 is a US-based broker-dealer that submits orders to the Exchange as a Sponsored Participant through Sponsoring Member 1. User 2 is a European-based broker-dealer that submits orders to the Exchange as a 
+Sponsored Participant through Sponsoring Member 2. User 1 and User 2 may not utilize the Sponsored Participant identifier because the Users submit orders through two different Sponsoring Members that have different Sponsored Participant identifiers. Additionally, User 1 and User 2 may not utilize the affiliate identifier because Form BD does not indicate at least a 50% ownership as proof that a control relationship exists. However, both User 1 and User 2 are controlled by the same parent company and believe that no change in beneficial ownership of the security will occur should User 1 and User 2 execute a transaction against one another. 
+Also consider the following scenario 
+where a firm has multiple Users submitting orders to the Exchange. User 1 is attempting to enable ERSTP against both User 2 and User 3, all of which are related entities of the same firm. User 1 is a US-based broker-dealer that submits orders directly to the Exchange and has its own MPID and Exchange Member identifier. User 2 is a US-based broker- dealer that submits orders to the Exchange as a Sponsored Participant through Sponsoring Member 1. User 3 is a foreign broker-dealer that submits orders to the Exchange through a US- based broker-dealer (Firm 1). Firm 1 submits orders to the Exchange as a Sponsored Participant through Sponsoring Member 2. In this particular example, User 1 would be eligible to enable ERSTP against User 2 using the multiple access Unique Identifier, as the firm has attested to being (i) a Member of the Exchange that submits orders directly to the System, and (ii) submitting orders to the System through a Sponsored Access arrangement. User 1 would also be eligible to enable ERSTP against User 3 using the multiple access Unique Identifier. While ultimately ERSTP can be enabled by User 1 against both User 2 and User 3, User 1 would need to complete multiple attestations in order to receive a multiple access identifier because User 2 and User 3 are submitting orders to the Exchange through different Sponsoring Members. 
+The Exchange plans to implement the 
+proposed rule change during the first quarter of 2026 and will announce the implementation date via Trade Desk Notice. 
+2. Statutory Basis 
+The Exchange believes the proposed 
+rule change is consistent with the Act 
+and the rules and regulations thereunder applicable to the Exchange and, in particular, the requirements of 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00043 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES5148 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+1915 U.S.C. 78f(b). 
+2015 U.S.C. 78f(b)(5). 
+21Id. 
+22Supra note 10. 
+23Supra note 11. 24Supra note 12. The Exchange reminds Users 
+that while they may utilize ERSTP to help prevent 
+potential transactions such as wash sales or self- trades, Users, not the Exchange, are ultimately responsible for ensuring that their orders comply with applicable rules, laws, and regulations. 
+25The Exchange notes that two of the proposed 
+instances (MPID and firm level) are not changing from the current definition of Unique Identifier. Only the proposed third instance is a change from the current rule text. Section 6(b) of the Act.19Specifically, 
+the Exchange believes the proposed rule 
+change is consistent with the Section 6(b)(5)
+20requirements that the rules of 
+an exchange be designed to prevent 
+fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, to foster cooperation and coordination with persons engaged in regulating, clearing, settling, processing information with respect to, and facilitating transactions in securities, to remove impediments to and perfect the mechanism of a free and open market and a national market system, and, in general, to protect investors and the public interest. Additionally, the Exchange believes the proposed rule change is consistent with the Section 6(b)(5)
+21requirement that 
+the rules of an exchange not be designed to permit unfair discrimination between customers, issuers, brokers, or dealers. 
+In particular, the Exchange believes 
+that the proposed revised definition of Unique Identifier promotes just and equitable principles of trade by allowing individual firms to better manage order flow and prevent undesirable trading activity such as wash sales’’
+22or self- 
+trades23that may occur as a result of the 
+velocity of trading in today’s high-speed marketplace. The proposed revised definition of Unique Identifier does not introduce any new or novel functionality, as the proposed amendment does not change the underlying ERSTP functionality, but rather will provide Users with the ability to request ERSTP in situations that do not fit under the Exchange’s current definition of Unique Identifier but for which the User has a valid reason to believe that no change in beneficial ownership will occur as a result of a transaction. For instance, a User may operate trading desk 1 that accesses the Exchange as a Sponsored Participant through one Sponsoring Member, as well as trading desk 2 that access the Exchange as a Sponsored Participant through a different Sponsoring Member. While these desks may operate different trading strategies, a User may desire to prevent these desks from trading versus each other in the marketplace because the orders are originating from the same entity. 
+As described in the above example, 
+Users may desire ERSTP functionality in order to help them achieve compliance
+24with regulatory rules 
+regarding wash sales and self-trades in a very similar manner to the way that current ERSTP functionality applies on the existing Sponsored Participant identifier level, but that the Exchange currently cannot enable because the Users are submitting order flow as Sponsored Participant through different Sponsoring Members. In this regard, the proposed revised definition of Unique Identifier will allow Users to enable ERSTP in situations where it is necessary in order to prevent transactions in securities in which there is no change in beneficial ownership but that the Exchange’s current rule does not contemplate. This proposed change does not change the operation or purpose of ERSTP, but rather provides Users with three situations
+25in which 
+a Unique Identifier may be created to enable ERSTP. The Exchange notes that the proposed revised definition of Unique Identifier would continue to capture the concepts of the affiliate identifier and Multiple Access identifier and as such, existing Users of those Unique Identifiers would not be harmed by the change in definition. 
+In addition, the Exchange believes 
+that the proposed rule text promotes just and equitable principles of trade, is designed to prevent fraudulent and manipulative acts and practices, and in general protects investors and the public interest because it requires a User requesting a Unique Identifier pursuant to item (iii) of Rule 11.10(d) to complete an attestation prior to the creation of the Unique Identifier. The Exchange believes that requiring Users requesting a Unique Identifier pursuant to item (iii) of Rule 11.10(d) to complete an Exchange-provided attestation will help ensure that a Unique Identifier created pursuant to item (iii) of Rule 11.10(d) is not done for frivolous reasons or to block executions between Users where a change of beneficial ownership would otherwise occur. 
+The Exchange also believes that the 
+proposed rule change is fair and equitable and is not designed to permit unfair discrimination as ERSTP is available to all Users, its functionality remains optional, and its use is not a prerequisite for trading on the 
+Exchange. 
+B. Self-Regulatory Organization’s 
+Statement on Burden on Competition 
+The Exchange does not believe that 
+the proposed rule change will impose any burden on competition that is not necessary or appropriate in furtherance of the purposes of the Act. ERSTP is an optional functionality offered by the Exchange and Users are free to decide whether to use ERSTP in their decision- making process when submitting orders to the Exchange. 
+The Exchange believes that the 
+proposed revised definition of Unique Identifier does not impose any intramarket competition as it seeks to enhance an existing functionality available to all Users. The Exchange is not proposing to introduce any new or novel functionality, but rather is proposing to provide an extension of its existing ERSTP functionality to Users who seek to prevent transactions in securities in which there is no change of beneficial ownership. Importantly, the proposed rule does not change how ERSTP operates on the Exchange and ERSTP will continue to be available to any User who requests a Unique Identifier and satisfies the required criteria. Additionally, the proposed revised definition of Unique Identifier would continue to capture the current concepts covered by the existing affiliate identifier and Multiple Access identifier. ERSTP will continue to be an optional functionality offered by the Exchange and the revised definition of Unique Identifier will not change how the current Unique Identifiers and ERSTP functionality operate. 
+The Exchange believes that the 
+proposed revised definition of Unique Identifier does not impose any undue burden on intermarket competition. ERSTP is an optional functionality offered by the Exchange and Users are not required to use ERSTP functionality when submitting orders to the Exchange. Further, the Exchange is not required to offer ERSTP and is choosing to do so as a benefit for Users who wish to enable ERSTP functionality. Moreover, the proposed change is not being submitted for competitive reasons, but rather to provide Users enhanced order processing functionality that may prevent undesirable executions by affiliated Users such as wash sales or self-trades when no change of beneficial ownership occurs. 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00044 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES5149 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+2615 U.S.C. 78s(b)(3)(A)(iii). 
+2717 CFR 240.19b–4(f)(6). 
+2815 U.S.C. 78s(b)(3)(A)(iii). 
+2917 CFR 240.19b–4(f)(6). In addition, Rule 19b– 
+4(f)(6)(iii) requires a self-regulatory organization to 
+give the Commission written notice of its intent to file the proposed rule change, along with a brief 
+description and text of the proposed rule change, at least five business days prior to the date of filing of the proposed rule change, or such shorter time as designated by the Commission. The Exchange has fulfilled this requirement. 
+3017 CFR 240.19b–4(f)(6). 
+3117 CFR 240.19b–4(f)(6)(iii). 32For purposes only of waiving the 30-day 
+operative delay, the Commission also has 
+considered the proposed rule’s impact on efficiency, competition, and capital formation. See 15 U.S.C. 78c(f). 
+3317 CFR 200.30–3(a)(12) and (59). C. Self-Regulatory Organization’s 
+Statement on Comments on the Proposed Rule Change Received From Members, Participants, or Others 
+The Exchange neither solicited nor 
+received comments on the proposed rule change. 
+III. Date of Effectiveness of the 
+Proposed Rule Change and Timing for Commission Action 
+The Exchange has filed the proposed 
+rule change pursuant to Section 19(b)(3)(A)(iii) of the Act
+26and Rule 
+19b–4(f)(6) thereunder.27Because the 
+proposed rule change does not (i) significantly affect the protection of investors or the public interest; (ii) impose any significant burden on competition; and (iii) become operative prior to 30 days from the date on which it was filed, or such shorter time as the Commission may designate, if consistent with the protection of investors and the public interest, the proposed rule change has become effective pursuant to Section 19(b)(3)(A)(iii) of the Act
+28and Rule 
+19b–4(f)(6)(iii) thereunder.29 
+A proposed rule change filed under 
+Rule 19b–4(f)(6)30normally does not 
+become operative prior to 30 days after the date of the filing. However, pursuant to Rule 19b–4(f)(6)(iii),
+31the 
+Commission may designate a shorter time if such action is consistent with the protection of investors and the public interest. The Exchange has requested that the Commission waive the 30-day operative delay so that the proposal may become operative immediately upon filing. The Exchange states that waiver of the operative delay is appropriate because the proposed rule change: (1) does not change how the current ERSTP functionality on the Exchange works, (2) will allow additional Users to enable ERSTP pursuant to the revised definition of Unique Identifier on an earlier timeline, and (3) revises the definition of Unique Identifier to prevent transactions in securities where there is no change in beneficial ownership in instances that an existing Unique Identifier would not enable ERSTP modifier. The Commission believes that waiver of the operative delay would be consistent with the protection of investors and the public interest because this proposed rule change does not present any novel issues. Accordingly, the Commission hereby waives the 30-day operative delay and designates the proposed rule change as operative upon filing.
+32 
+At any time within 60 days of the 
+filing of the proposed rule change, the Commission summarily may temporarily suspend such rule change if it appears to the Commission that such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of the Act. If the Commission takes such action, the Commission shall institute proceedings to determine whether the proposed rule should be approved or disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views and 
+arguments concerning the foregoing, including whether the proposed rule change is consistent with the Act. Comments may be submitted by any of the following methods: 
+Electronic Comments 
+•Use the Commission’s internet 
+comment form (https://www.sec.gov/ 
+rules/sro.shtml); or 
+•Send an email to rule-comments@
+sec.gov. Please include file number SR– 
+CboeEDGX–2026–005 on the subject line. 
+Paper Comments 
+•Send paper comments in triplicate 
+to Secretary, Securities and Exchange 
+Commission, 100 F Street NE, Washington, DC 20549–1090. 
+All submissions should refer to file 
+number SR-CboeEDGX–2026–005. This file number should be included on the subject line if email is used. To help the Commission process and review your comments more efficiently, please use only one method. The Commission will post all comments on the Commission’s internet website (https://www.sec.gov/ rules/sro.shtml). Copies of the filing will be available for inspection and copying at the principal office of the Exchange. Do not include personal identifiable information in submissions; you should submit only information that you wish to make available publicly. We may redact in part or withhold entirely from publication submitted material that is obscene or subject to copyright protection. All submissions should refer to file number SR–CboeEDGX–2026–005 and should be submitted on or before February 25, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.33 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02227 Filed 2–3–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+DEPARTMENT OF STATE 
+[Public Notice: 12940] 
+TITLE: Notice of Public Meeting To 
+Prepare for International Maritime Organization SSE 12 Session 
+The Department of State will conduct 
+a public meeting at 10:00 a.m. on Monday, March 2, 2026, by teleconference. The primary purpose of the meeting is to prepare for the twelfth session of the International Maritime Organization’s (IMO) Sub-Committee on Ship Systems and Equipment (SSE 12) to be held at IMO Headquarters in London, United Kingdom from Monday, March 9, 2026, to Friday, March 13, 2026. 
+The agenda items to be considered 
+include: 
+—Adoption of the agenda 
+—Decisions of other IMO bodies —New requirements for ventilation of 
+survival craft (7.36) 
+—Revision of the Revised guidelines for 
+the maintenance and inspections of 
+fixed carbon dioxide fire- extinguishing systems (MSC.1/ Circ.1318/Rev.1) to clarify the testing and inspection provisions for CO2 cylinders (7.25) 
+—Revision of SOLAS chapter III and the 
+LSA Code (2.16) 
+—Amendments to SOLAS chapter III 
+and chapter IV of the LSA Code to require the carriage of self-righting or canopied reversible liferafts for new ships (7.30) 
+—Development of amendments to 
+paragraph 2.1.2.5 of chapter 5 of the FSS Code on construction requirement for gaskets (1.13) 
+—Revision of the 2010 FTP Code to 
+allow for new fire protection systems and materials (7.34) 
+—Review and update SOLAS regulation 
+II–2/9 on containment of fire to incorporate existing guidance and clarify requirements (7.48) 
+—Unified interpretation of provisions of 
+IMO safety, security, environment, 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00045 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
