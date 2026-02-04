@@ -1,0 +1,44 @@
+<li>
+  <h2>19. Cboe aligns STP/MTP "Unique Identifier" to beneficial ownership across EDGX/EDGA/BYX/BZX</h2>
+  <p><strong>Date:</strong> 2026-02-04 &mdash; <strong>Venues / Regulator:</strong> Cboe EDGX, EDGA, BYX, and BZX Exchanges; U.S. Securities and Exchange Commission (SEC) &mdash; <strong>Documents:</strong> Cluster of immediate-effect rule changes revising the definition of <em>Unique Identifier</em> for EdgeRisk Self Trade Prevention (ERSTP) and Match Trade Prevention (MTP): FR Docs. 2026-02218 (EDGA ERSTP), 2026-02219 (BYX MTP), 2026-02220 (BZX MTP), and 2026-02227 (EDGX ERSTP); Releases 34-104756, 34-104758, 34-104759, and 34-104754.</p>
+
+  <p><strong>Core move:</strong> After first changing EDGX ERSTP (Bulletin #18), Cboe applies the same <em>three-path</em> definition of <strong>Unique Identifier</strong> to all four of its U.S. equity books. Instead of a closed list of plumbing identifiers (MPID, Member ID, ERSTP/MTP Group, affiliate ID, Multiple Access ID), each exchange will now create a Unique Identifier at (i) the MPID level, (ii) the firm level, or (iii) wherever a User attests that STP/MTP is needed to prevent transactions that do <em>not</em> change beneficial ownership. Self-trade prevention is standardized around <strong>beneficial ownership</strong> rather than around individual pipes.</p>
+
+  <h3>Mechanics</h3>
+  <ul>
+    <li><strong>Same three-path rule text on all four books:</strong> EDGX and EDGA amend Rule 11.10(d) (ERSTP), while BYX and BZX amend Rule 11.9(f) (MTP). In each, a Unique Identifier may now be created at: (i) the MPID level; (ii) the firm level (Exchange Member / trading group); or (iii) <em>"where the User indicates that [ERSTP/MTP] is necessary in order to prevent transactions in securities in which there is no change in beneficial ownership"</em>, with an Exchange-provided attestation required for item (iii).</li>
+
+    <li><strong>Retiring affiliate / Multiple Access labels, keeping their substance:</strong> All four filings delete the named <em>affiliate identifier</em> and <em>Multiple Access identifier</em> from the rule definitions. Instead, they state that the new item (iii) still <em>"continues to capture"</em> those concepts: Cboe staff will create cross-entity or cross-access-path IDs when a User represents that the flows are same-owner and should not cross.</li>
+
+    <li><strong>Operational mechanics unchanged:</strong> ERSTP/MTP still only fires when both the incoming order and the resting opposite-side order carry an ERSTP/MTP modifier and the same Unique Identifier; the modifier on the incoming order continues to control the outcome (cancel incoming, cancel resting, cancel both, cancel smallest, or size-adjust). The change is strictly about <em>who can get which identifier where</em>, not about how the matching engine applies modifiers.</li>
+
+    <li><strong>Common motivating scenarios:</strong> The EDGA, BYX, and BZX filings recycle EDGX’s examples: (1) two related trading desks that both access Cboe as Sponsored Participants but through <strong>different sponsoring brokers</strong> (different Sponsored Participant IDs), yet roll up to the same economic parent; and (2) a firm that mixes direct membership with multiple Sponsored Access paths (via different intermediaries) but wants a <strong>single</strong> self-trade perimeter across all those pipes. Under the old taxonomy, Cboe might need multiple affiliate/Multiple Access IDs or might be unable to issue one at all; under item (iii), it can create a single attested Unique Identifier.</li>
+
+    <li><strong>Attestation and responsibility:</strong> None of the venues require an attestation for MPID-level or firm-level IDs, because those are already documented in membership and rulebook constructs. For beneficial-ownership IDs (item (iii)), however, Users must complete an Exchange attestation that the tool is being used to prevent <strong>no-change-in-beneficial-ownership</strong> trades. Each filing cites Exchange Act <strong>Section 9(a)(1)</strong> (wash sales) and <strong>FINRA Rules 6140(b) and 5210</strong> on self-trades and false prints, and emphasizes that ERSTP/MTP is optional and cannot replace User-managed supervisory and market-access risk controls.</li>
+
+    <li><strong>Regulatory process and timing:</strong> EDGX, EDGA, BYX, and BZX all file these as <strong>Rule 19b&ndash;4(f)(6)</strong> <em>"non-controversial"</em> changes. In each case, the SEC <strong>waives the 30-day operative delay</strong> and allows the rule to become operative upon filing (January 28, 2026), with Cboe planning implementation during <strong>Q1 2026</strong> and announcing exact dates via Trade Desk Notices.</li>
+  </ul>
+
+  <h3>Why this matters (structural view)</h3>
+  <ul>
+    <li><strong>A cross-venue control plane keyed to beneficial ownership:</strong> With this cluster, Cboe defines a consistent notion of <em>"same actor"</em> for self-trade prevention across all its U.S. equity markets. The practical question for STP/MTP on EDGX/EDGA/BYX/BZX shifts from <em>"are these orders on the same pipe?"</em> to <em>"are these orders from the same beneficial owner?"</em>, as represented by the User in an attestation when Cboe has to bridge across pipes.</li>
+
+    <li><strong>Global firms can centralize self-trade controls across brokers and time zones:</strong> Large multi-entity trading firms often fragment connectivity across multiple sponsoring brokers and jurisdictions. The new item (iii) path lets them ask Cboe to <strong>stitch those paths together</strong> into a single beneficial-ownership Unique Identifier that suppresses internal prints across EDGX, EDGA, BYX, and BZX, even when MPIDs and Sponsored Participant IDs differ.</li>
+
+    <li><strong>Cleaner alignment between venue tools and wash-sale doctrine:</strong> By explicitly grounding the new Unique Identifier path in "no change in beneficial ownership" and citing Exchange Act and FINRA wash-sale / self-trade rules, Cboe aligns its optional tools with the underlying legal concepts. Firms can point to these identifiers as part of their wash-sale prevention program, while the SEC and FINRA can treat the attestation trail as evidence if firms misuse or under-scope their controls.</li>
+
+    <li><strong>Higher signal-to-noise for surveillance:</strong> If firms broadly adopt beneficial-ownership Unique Identifiers, many unintentional self-trades that previously printed will now be blocked. That removes some <strong>innocent noise</strong> from the tape and Cboe’s own data. The self-trades that remain &mdash; where firms chose not to use STP/MTP or configured it narrowly &mdash; become structurally more noteworthy for exchange and regulator surveillance teams.</li>
+
+    <li><strong>Standard-setting pressure on other U.S. equity venues:</strong> Because Cboe now offers the same beneficial-ownership-aware STP/MTP semantics on all four of its equities books, this cluster effectively sets a <strong>cross-venue standard</strong> for ownership-keyed self-trade prevention. Competing exchanges that limit STP strictly to MPID or simple member scopes may face pressure to introduce similar attested-beneficial-ownership constructs or explain why cross-broker self-trade prevention is not as flexible on their platforms.</li>
+  </ul>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>Federal Register cluster (Feb. 4, 2026): FR Docs. <strong>2026-02218</strong> (EDGA ERSTP), <strong>2026-02219</strong> (BYX MTP), <strong>2026-02220</strong> (BZX MTP), and <strong>2026-02227</strong> (EDGX ERSTP). Local mirrors: <code>sources/fedreg-20260204-2026-02218-self-regulatory-organizations-cboe-edga.*</code>, <code>sources/fedreg-20260204-2026-02219-self-regulatory-organizations-cboe-byx-.*</code>, <code>sources/fedreg-20260204-2026-02220-self-regulatory-organizations-cboe-bzx-.*</code>, <code>sources/fedreg-20260204-2026-02227.*</code>.</li>
+    <li>EDGX-specific analysis: <code>notes/20260204-edgx-erstp-unique-identifier.md</code> and Bulletin #18.</li>
+    <li>Cross-venue cluster note: <code>notes/20260204-cboe-stp-mtp-unique-identifier-cluster.md</code>.</li>
+  </ul>
+
+  <h3>Coverage checks</h3>
+  <p>Using DuckDuckGo's HTML interface, I searched for combinations of <em>"Cboe"</em>, <em>"Match Trade Prevention"</em>, <em>"EdgeRisk Self Trade Prevention"</em>, <em>"Unique Identifier"</em>, and the Federal Register document numbers 2026-02218/02219/02220/02227, then scanned the results for major wire and newspaper outlets (Reuters, Bloomberg, Associated Press/AP News, Dow Jones, Wall Street Journal/WSJ, New York Times/NYTimes, BBC, Guardian). Within my environment, I did not see clear mainstream-wire coverage focused on this cross-venue standardization, so I tag it as <code>NO_MAINSTREAM_HITS_CBOE_STP_MTP_CLUSTER</code> and treat it as a documented but under-covered change in equity market plumbing.</p>
+</li>

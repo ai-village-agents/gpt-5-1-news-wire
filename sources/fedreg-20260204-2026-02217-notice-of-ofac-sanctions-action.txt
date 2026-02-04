@@ -1,0 +1,143 @@
+5151 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+address, telephone number and email 
+address. 
+C. The respondent’s input to U.S. 
+DOT transportation digital infrastructure research and planning needs relating to any or all of the questions below. 
+Specific Information Required 
+This RFI seeks feedback from the 
+public, industry, technology developers, 
+State, local and tribal transportation agencies, researchers, and other stakeholders on the research, development and deployment activities necessary to develop a comprehensive, national Transportation Digital Infrastructure (TDI) strategy. This includes identifying opportunities for improved data exchange and interoperability, cyber-resilience, asset management, and technology integration across varied U.S. geographies and operational environments. The insights gained through this RFI will inform a research agenda that supports the development, deployment, and scaling of digital infrastructure nationwide. The following presents key questions in four critical topic areas. 
+A. Research, Development and 
+Deployment 
+1. How should Transportation Digital 
+Infrastructure be defined? 
+2. What TDI research needs should be 
+prioritized? 
+3. What travel corridors or regions 
+should be prioritized for TDI development and deployment? 
+4. Are there existing testbeds, pilots or 
+demonstrations that could be leveraged? 
+5. What TDI use cases or applications 
+should be prioritized? 
+6. How should U.S. DOT leverage or 
+expand existing programs to advance TDI development and deployment? 
+B. System Architecture, Interoperability 
+and Standards 
+1. What are the key elements of a TDI 
+system architecture that can accommodate the operation of all transportation modes including surface, maritime, and aviation? 
+2. How can TDI be integrated into 
+infrastructure planning, construction and asset management processes? 
+3. What methods should be used for 
+federating data sharing across States and regions? 
+4. What existing architecture 
+frameworks or standards could be used to underpin TDI development and deployment (e.g., U.S. DOT’s 
+Architecture Reference for Cooperative and Intelligent Transportation (ARC– IT))? 5. What are the necessary latency and 
+throughput requirements for safety- critical applications (e.g., Vehicle-to- 
+Everything (V2X) communications, Automated Driving Systems (ADS), and Cooperative Driving Automation (CDA))? 
+6. What are the highest-priority 
+research gaps and challenges to advancing interoperability across modes and sectors? 
+C. Artificial Intelligence and 
+Automation 
+1. How should AI applications be 
+leveraged to support TDI development and deployment? 
+2. How should TDI be best used to 
+accelerate the development and deployment of autonomous vehicles, drones and other transformative technologies? 
+3. What are the highest-value, near- 
+time AI and automation applications enabled by comprehensive sensing and data sharing? 
+4. How can AI applications be safely 
+deployed to accommodate data exchange and data use across jurisdictional boundaries? 
+D. Data Governance, Privacy, and 
+Cybersecurity 
+1. What data governance principles, 
+access controls, and cybersecurity measures are needed to ensure trust, accountability, and privacy? 
+2. What models or frameworks should 
+be used to ensure secure data exchange (e.g., data trusts, federated data sharing, 
+and public Application Programming Interfaces (APIs))? 
+3. What are the most significant threat 
+vectors introduced by extensive transportation system sensing and data integration, beyond traditional Information Technology (IT) and Operational Technology (OT) threats? 
+4. How should U.S. DOT apply the 
+National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to TDI development and deployment? 
+5. How should TDI be aligned with 
+federal data strategies and privacy frameworks? 
+6. How can legacy and proprietary 
+data sources be effectively incorporated into a new national data exchange environment? 
+Confidential Business Information 
+Do not submit information disclosure 
+of which is restricted by statute, such as 
+trade secrets and commercial or financial information (hereinafter referred to as Confidential Business Information ‘‘CBI’’) in response to this RFI. Responses submitted to OST–R cannot be claimed as CBI. Responses received by OST–R will waive any CBI claims for the information submitted. 
+Issued in Washington, DC, on January 30, 
+2026. 
+Michael A. Halem, Acting Assistant Secretary for Research and 
+Technology. 
+[FR Doc. 2026–02236 Filed 2–3–26; 8:45 am] 
+BILLING CODE 4910–9X–P 
+DEPARTMENT OF THE TREASURY 
+Office of Foreign Assets Control Notice of OFAC Sanctions Action 
+AGENCY : Office of Foreign Assets 
+Control, Treasury. 
+ACTION : Notice. 
+SUMMARY : The U.S. Department of the 
+Treasury’s Office of Foreign Assets 
+Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC’s Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC’s determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. persons are generally prohibited from engaging in transactions with them. 
+DATES : This action was issued on 
+January 30, 2026. See SUPPLEMENTARY  
+INFORMATION for relevant dates. 
+FOR FURTHER INFORMATION CONTACT : 
+OFAC: Associate Director for Global Targeting, 202–622–2420; Assistant Director for Sanctions Compliance, 202– 622–2490 or https://ofac.treasury.gov/ contact-ofac. 
+SUPPLEMENTARY INFORMATION : 
+Electronic Availability 
+The SDN List and additional 
+information concerning OFAC sanctions programs are available on OFAC’s website: https://ofac.treasury.gov. 
+Notice of OFAC Action 
+On January 30, 2026, OFAC 
+determined that the property and interests in property subject to U.S. jurisdiction of the following persons are blocked under the relevant sanctions authorities listed below. 
+Entities 
+1. ZEDCEX EXCHANGE LTD, 71–75 
+Shelton Street, London WC2H 9JQ, 
+United Kingdom; website www.zedcex.com; Additional Sanctions Information—Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00047 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+
+5152 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+as amended by Executive Order 13886; 
+Organization Established Date 22 Aug 2022; Organization Type: Financial and Insurance Activities; Digital Currency Address—TRX TCA9vmjsYw9MtPKEwRBtGhKFRfr4CLxJAv; alt. Digital Currency Address—TRX TGsNFrgWfbGN2gX25Wcf8oTejtxtQkvmEx; alt. Digital Currency Address—TRX TASWbk6X1wiTku5TMmMQYqYFvshVEtfJy8; alt. Digital Currency Address—TRX TTS9o5KkpGgH8cK9LofLmMAPYb5zfQvSNa; alt. Digital Currency Address—TRX TCzq6m2zxnQkrZrf8cqYcK6bbXQYAfWYKC; alt. Digital Currency Address—TRX TLvuvpfBKdxddxSsJefeiGCe9eVY8HUroE; alt. Digital Currency Address—TRX TNuA5CQ6LB4jTHoNrjEeQZJmcmhQuHMbQ7; Company Number 14311274 (United Kingdom) issued 22 Aug 2022 [SDGT] [IFSR] [IRAN–EO13902] (Linked To: ISLAMIC REVOLUTIONARY GUARD 
+CORPS). Designated pursuant to section 
+1(a)(iii)(C) of Executive Order 13224 of 
+September 23, 2001, ‘‘Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten to Commit, or Support Terrorism,’’ 66 FR 49079, as amended by Executive Order 13886 of September 9, 2019, ‘‘Modernizing Sanctions To Combat Terrorism,’’ 84 FR 48041 (E.O. 13224, as amended), for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the ISLAMIC REVOLUTIONARY GUARD CORPS, a person whose property and interests in property are blocked pursuant to E.O. 13224, as amended and section 1(a)(i) of Executive Order 13902 of January 10, 2020, ‘‘Imposing Sanctions With Respect to Additional Sectors of Iran,’’ 85 FR 2003, 3 CFR, 2020 Comp., p. 299 (E.O. 13902), for operating in the financial sector of the Iranian economy. 
+2. ZEDXION EXCHANGE LTD (a.k.a. 
+ZEDXION LIMITED), 71–75 Shelton 
+Street, London WC2H 9JQ, United Kingdom; website www.zedxion.io; Additional Sanctions Information— 
+Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 17 May 2021; Organization Type: Financial and 
+Insurance Activities; Company Number 13404089 (United Kingdom) issued 17 May 2021 [SDGT] [IFSR] [IRAN– EO13902] (Linked To: ISLAMIC REVOLUTIONARY GUARD CORPS). 
+Designated pursuant to section 
+1(a)(iii)(C) of E.O. 13224, as amended, for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, ISLAMIC REVOLUTIONARY GUARD CORPS, a person whose property and interests in property are blocked pursuant to E.O. 13224, as amended and section 1(a)(i) of E.O. 13902 for operating in the financial sector of the Iranian economy. 
+Individuals 
+BILLING CODE 4810–AL–P 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00048 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+
+5153 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00049 Fmt 4703 Sfmt 4725 E:\FR\FM\04FEN1.SGM 04FEN1
+EN04FE26.000</GPH>khammond on DSK9W7S144PROD with NOTICES
+
+5154 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+Bradley T. Smith, 
+Director, Office of Foreign Assets Control. 
+[FR Doc. 2026–02217 Filed 2–3–26; 8:45 am] 
+BILLING CODE 4810–AL–C 
+DEPARTMENT OF THE TREASURY 
+Internal Revenue Service Electronic Tax Administration 
+Advisory Committee; Request for Nominations—Correction of Application Deadline Date 
+AGENCY : Internal Revenue Service, 
+Department of Treasury. ACTION : Corrected application deadline 
+date. 
+SUMMARY : This document contains a 
+correction to the deadline date for submitting Electronic Tax Administration Advisory Committee (ETAAC) membership applications. The correct deadline date is February 28, 2026. The prior notice, that was published in the Federal Register on 
+December 31, 2025, stated the deadline date was January 31, 2026. More information, including the ETAAC application, is available at www.irs.gov/ etaac. FOR FURTHER INFORMATION CONTACT : 
+Anna Millikan at (202) 317–6564 or 
+send an email to publicliaison@irs.gov. 
+SUPPLEMENTARY INFORMATION : 
+Background 
+The ETAAC is a federal advisory 
+committee operating pursuant to the Federal Advisory Committee Act. The Internal Revenue Service is requesting applications for ETAAC membership from individuals with experience in such areas as state tax administration, cybersecurity and information security, tax software development, tax preparation, payroll and tax financial product processing, systems management and improvement, 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00050 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1
+EN04FE26.001</GPH>khammond on DSK9W7S144PROD with NOTICES
+
