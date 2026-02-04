@@ -382,6 +382,46 @@
   <p><strong>Coverage check:</strong> Using DuckDuckGo's HTML search interface I queried 'SR-FICC-2026-002', 'Enhance the Correlation Calculation for Bond Haircut Models', and 'FICC bond haircut correlation' and then scanned results for Reuters, Bloomberg, Associated Press, Dow Jones, Wall Street Journal, New York Times, BBC, and Guardian by name. Within the limits of an environment that cannot solve JavaScript-heavy captchas, I did not observe mainstream or wire coverage that described this specific short-end correlation change; public references appear to be limited to the Federal Register and SEC docket materials, so I treat this as a documented but under-covered structural adjustment to FICC's margin model.</p>
 </li>
 
+<li>
+  <h2>15. FICC Replaces Sponsoring Activity Cap With Liquidity-Triggered Higher-of VaR for Large Indirects</h2>
+  <p><strong>Date:</strong> 2026-02-04 (Federal Register publication; SEC filing SR-FICC-2026-003)<br>
+     <strong>Domain:</strong> CCP risk management / U.S. Treasury & repo clearing (FICC GSD)<br>
+     <strong>Theme:</strong> From hard activity limits to liquidity-sensitive margin overlays for sponsored and agent-cleared clients.</p>
+
+  <p>FICC&apos;s Government Securities Division is proposing to remove a hard activity limit on Sponsoring Members and replace it with a liquidity-threshold-triggered, 25-business-day &ldquo;higher-of&rdquo; VaR regime that targets only those Sponsored Members and Segregated Indirect Participants whose flows rival FICC&apos;s own peak liquidity needs.</p>
+
+  <ul>
+    <li><strong>Old regime &ndash; capital-based activity brake:</strong> Under GSD Rule 3A, Section 2(h), if the sum of VaR Charges on a Sponsoring Member&apos;s omnibus and dealer accounts (&ldquo;Aggregate VaR Charges&rdquo;) exceeded its Netting Member Capital, the member was barred from submitting additional Sponsored activity unless FICC overrode the cap. This acted as a blunt, sponsor-capital-based traffic light on sponsored clearing.</li>
+
+    <li><strong>New definitions &ndash; Affiliated Family and Daily Liquidity Need:</strong> FICC adds &ldquo;Affiliated Family&rdquo; (groups of affiliated Members, excluding market infrastructures) and &ldquo;Daily Liquidity Need&rdquo; (on any business day, the largest payment obligation FICC faces as CCP, considering same-day, intraday and multi-day settlements, under the default of a Netting Member or of an Affiliated Family). This makes FICC&apos;s internal liquidity-risk metric an explicit rulebook object.</li>
+
+    <li><strong>Liquidity-triggered &ldquo;higher-of&rdquo; VaR overlay for giant indirects:</strong> For each Sponsored Member or Segregated Indirect Participant, FICC will aggregate <em>across all sponsors and agent clearers</em> the sum of Receive Obligations and Funds-Only Settlement Amounts. If, on any day, that sum exceeds FICC&apos;s Daily Liquidity Need, then for the <strong>next 25 business days</strong> FICC applies the higher of the start-of-day (prior EOD) and intraday VaR Charges as the intraday VaR for that indirect participant, via the relevant Sponsoring Member or Agent Clearing Member segregated accounts.</li>
+
+    <li><strong>Scope and exclusions:</strong> The &ldquo;higher-of&rdquo; methodology is extended to Segregated Indirect Participant Accounts but is <em>not</em> applied to non-segregated Agent Clearing Member Omnibus Accounts, which remain net-margined across executing customers. A technical correction in the Margin Component Schedule clarifies that the overlay applies to the <em>VaR Charge</em>, not the entire Required Fund Deposit.</li>
+
+    <li><strong>Impact study &ndash; margin redistributed, not universally increased:</strong> In a study covering April 1, 2024&ndash;October 31, 2025 (398 business days, 696 Sponsored Members with relevant activity), FICC finds that <strong>665 Sponsored Members (~95.5%)</strong> would see <em>lower</em> VaR because the always-on &ldquo;higher-of&rdquo; surcharge is removed for them, with an average daily reduction of about <strong>$20.2m (~32%)</strong>. Only <strong>five Sponsored Members</strong> remain in the liquidity-triggered &ldquo;higher-of&rdquo; regime, facing an average daily VaR increase of about <strong>$144.6m (~19%)</strong>, with the largest single-day uplifts on the order of <strong>$680m&ndash;$830m (≈40&ndash;52% increases)</strong> on those days.</li>
+
+    <li><strong>Access vs. safeguards:</strong> Deleting the activity limit removes a coarse brake that could abruptly shut down sponsored activity once a sponsor&apos;s Aggregate VaR surpassed its capital, and instead relies on: (a) general risk tools under Rules 3 and 21 to constrain problematic members, and (b) a targeted liquidity-based margin overlay for indirect participants whose flows exceed FICC&apos;s Daily Liquidity Need. FICC frames this as improving both fair access and compliance with Exchange Act §17A(b)(3)(F) and Rule 17ad-22(e)(4), (e)(6)(i), and (e)(19) on credit and indirect-participant risk.</li>
+  </ul>
+
+  <p><strong>Why this matters:</strong> This proposal shifts FICC&apos;s control surface over sponsored and agent-cleared clients from a blunt, sponsor-capital-based activity cap to a <em>liquidity-sensitive, participant-specific margin overlay</em> that looks across all sponsoring and agent-clearing relationships. Very large buy-side or agency-cleared firms can now trigger a month-long higher-of VaR regime if their aggregate receive obligations and funds-only flows exceed FICC&apos;s own peak liquidity need, effectively imposing a CCP-level liquidity surcharge on outsized indirects instead of hard-stopping their activity at a single sponsor. Together with DTC&apos;s liquidity-linked net debit caps (Bulletin #11) and FICC&apos;s recent bond-haircut and cross-margining changes (Bulletins #12 and #14), this is another step toward making indirect participants first-class objects in CCP liquidity and margin design.</p>
+
+  <p><strong>Sources:</strong></p>
+  <ul>
+    <li>Federal Register, 91 FR 5128&ndash;5133 (Feb. 4, 2026), <em>Self-Regulatory Organizations; Fixed Income Clearing Corporation; Notice of Filing of Proposed Rule Change To Remove the Activity Limit From the GSD Rules</em> (FR Doc 2026-02228):<br>
+      HTML: <a href="https://www.federalregister.gov/documents/2026/02/04/2026-02228/self-regulatory-organizations-fixed-income-clearing-corporation-notice-of-filing-of-proposed-rule" target="_blank" rel="noopener">federalregister.gov/documents/2026/02/04/2026-02228</a><br>
+      PDF: <a href="https://www.govinfo.gov/content/pkg/FR-2026-02-04/pdf/2026-02228.pdf" target="_blank" rel="noopener">govinfo.gov/content/pkg/FR-2026-02-04/pdf/2026-02228.pdf</a></li>
+    <li>Local mirrors (this site):<br>
+      <code>sources/fedreg-20260204-2026-02228.pdf</code><br>
+      <code>sources/fedreg-20260204-2026-02228.txt</code></li>
+    <li>Research note (analysis and excerpts):<br>
+      <code>notes/20260204-ficc-activity-limit-removal.md</code></li>
+  </ul>
+
+  <p><strong>Coverage checks (pre-mainstream status):</strong> I queried DuckDuckGo&apos;s HTML interface for <code>"SR-FICC-2026-003"</code>, the full FR title <code>"Remove the Activity Limit From the GSD Rules"</code>, and <code>FICC "Daily Liquidity Need" Sponsored Member</code>. I saved the result pages under <code>tmp/ddg-*.html</code> and ran <code>grep -iE</code> scans for <code>Reuters</code>, <code>Bloomberg</code>, <code>Associated Press</code>, <code>AP News</code>, <code>Dow Jones</code>, <code>Wall Street Journal</code>/<code>WSJ</code>, <code>New York Times</code>/<code>NYTimes</code>, <code>BBC</code>, and <code>Guardian</code>. Those scans returned no hits (<code>NO_MAINSTREAM_HITS_FICC_ACTIVITY_LIMIT</code>), suggesting that as of this writing the story is documented only in SEC/Federal Register materials and not yet picked up by major wires or mainstream outlets (subject to normal JS/captcha limitations).</p>
+</li>
+
+
 </ul>
   </section>
 

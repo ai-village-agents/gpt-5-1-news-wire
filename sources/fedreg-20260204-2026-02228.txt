@@ -1,0 +1,1260 @@
+5128 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+34 15 U.S.C. 78s(b)(3)(A)(ii). 
+35 17 CFR 240.19b–4(f)(2). 
+36 17 CFR 200.30–3(a)(12). 
+1 15 U.S.C. 78s(b)(1). 
+2 17 CFR 240.19b–4. 
+3 Terms not defined herein are defined in the GSD 
+Rules, available at www.dtcc.com/legal/rules-and- 
+procedures. 
+4 GSD also clears and settles certain transactions 
+on securities issued or guaranteed by U.S. 
+government agencies and government sponsored 
+enterprises. 
+5 See GSD Margin Component Schedule, supra 
+note 3. FICC’s market risk management strategy is 
+designed to comply with Rule 17ad–22(e)(4) under 
+the Act, where these risks are referred to as ‘‘credit 
+risks.’’ 17 CFR 240.17ad–22(e)(4). 
+competition. These non-substantive 
+amendments will bring greater clarity to 
+the Fee Schedule. 
+C. Self-Regulatory Organization’s 
+Statement on Comments on the 
+Proposed Rule Change Received From 
+Members, Participants, or Others 
+No written comments were either 
+solicited or received. 
+III. Date of Effectiveness of the 
+Proposed Rule Change and Timing for 
+Commission Action Effectiveness 
+The foregoing rule change has become 
+effective pursuant to Section 
+19(b)(3)(A)(ii) of the Exchange Act
+34 
+and Rule 19b–4(f)(2) thereunder,35 
+because it establishes or changes a due, 
+or fee. 
+At any time within 60 days of the 
+filing of the proposed rule change, the 
+Commission summarily may 
+temporarily suspend the rule change if 
+it appears to the Commission that the 
+action is necessary or appropriate in the 
+public interest, for the protection of 
+investors, or would otherwise further 
+the purposes of the Act. If the 
+Commission takes such action, the 
+Commission shall institute proceedings 
+to determine whether the proposed rule 
+should be approved or disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views, and 
+arguments concerning the foregoing, 
+including whether the proposed rule 
+change is consistent with the Act. 
+Comments may be submitted by any of 
+the following methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (http://www.sec.gov/ 
+rules/sro.shtml); or 
+• Send an email to rule-comments@
+sec.gov. Please include File Number SR– 
+BOX–2026–03 on the subject line. 
+Paper Comments 
+• Send paper comments in triplicate 
+to Secretary, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549–1090. 
+All submissions should refer to file 
+number SR–BOX–2026–03. This file 
+number should be included on the 
+subject line if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method. The Commission will 
+post all comments on the Commission’s 
+internet website (https://www.sec.gov/ 
+rules/sro.shtml). Copies of the filing will 
+be available for inspection and copying 
+at the principal office of the Exchange. 
+Do not include personal identifiable 
+information in submissions; you should 
+submit only information that you wish 
+to make available publicly. We may 
+redact in part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. All submissions should refer 
+to file number SR–BOX–2026–03 and 
+should be submitted on or before 
+February 25, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.36 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02224 Filed 2–3–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104755; File No. SR–FICC– 
+2026–003] 
+Self-Regulatory Organizations; Fixed 
+Income Clearing Corporation; Notice of 
+Filing of Proposed Rule Change To 
+Remove the Activity Limit From the 
+GSD Rules 
+January 30, 2026. 
+Pursuant to Section 19(b)(1) of the 
+Securities Exchange Act of 1934 
+(‘‘Act’’)
+1 and Rule 19b–4 thereunder,2 
+notice is hereby given that on January 
+29, 2026, Fixed Income Clearing 
+Corporation (‘‘FICC’’) filed with the 
+Securities and Exchange Commission 
+(‘‘Commission’’) the proposed rule 
+change as described in Items I, II and III 
+below, which Items have been prepared 
+by the clearing agency. The Commission 
+is publishing this notice to solicit 
+comments on the proposed rule change 
+from interested persons. 
+I. Clearing Agency’s Statement of the 
+Terms of Substance of the Proposed 
+Rule Change 
+The proposed rule change consists of 
+modifications to FICC’s Government 
+Securities Division (‘‘GSD’’) Rulebook 
+(‘‘GSD Rules’’)
+3 in order to enhance the 
+risk management of indirect participants 
+by (i) removing the activity limit 
+currently applied to Sponsoring 
+Members and, in lieu thereof, (ii) 
+modifying the application of the ‘‘higher 
+of’’ calculation methodology that 
+currently applies the higher of start-of- 
+day (‘‘SOD’’) VaR Charge and intraday 
+VaR Charge to all Sponsoring Member 
+Omnibus Accounts to apply to only 
+those Sponsored Members and/or 
+Segregated Indirect Participants whose 
+activity level exceeds a specified 
+liquidity threshold. 
+II. Clearing Agency’s Statement of the 
+Purpose of, and Statutory Basis for, the 
+Proposed Rule Change 
+In its filing with the Commission, the 
+clearing agency included statements 
+concerning the purpose of and basis for 
+the proposed rule change and discussed 
+any comments it received on the 
+proposed rule change. The text of these 
+statements may be examined at the 
+places specified in Item IV below. The 
+clearing agency has prepared 
+summaries, set forth in sections A, B, 
+and C below, of the most significant 
+aspects of such statements. 
+(A) Clearing Agency’s Statement of the 
+Purpose of, and Statutory Basis for, the 
+Proposed Rule Change 
+1. Purpose 
+FICC is proposing to enhance the risk 
+management of indirect participants by 
+removing the activity limit currently 
+applied to Sponsoring Members and, in 
+lieu thereof, modifying the application 
+of the ‘‘higher of’’ calculation 
+methodology that currently applies the 
+higher of SOD VaR Charge and intraday 
+VaR Charge to all Sponsoring Member 
+Omnibus Accounts, to apply to only 
+those Sponsored Members and/or 
+Segregated Indirect Participants whose 
+activity level exceeds a specified 
+liquidity threshold. 
+Background 
+FICC, through GSD, serves as a central 
+counterparty and provider of clearance 
+and settlement services for transactions 
+in U.S. government securities, as well as 
+repurchase and reverse repurchase 
+transactions involving U.S. government 
+securities.
+4 As part of its market risk 
+management strategy, FICC manages its 
+credit exposure to Members by 
+determining the appropriate Required 
+Fund Deposit to the Clearing Fund and 
+monitoring its sufficiency, as provided 
+for in the GSD Rules.
+5 At GSD, FICC 
+calculates the Required Fund Deposit 
+amount for each Member twice a day. 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00024 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+5129 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+6 The GSD Rules identify when FICC may cease 
+to act for a Member and the types of actions FICC 
+may take. For example, FICC may suspend a firm’s 
+membership with FICC or prohibit or limit a 
+Member’s access to FICC’s services in the event that 
+Member defaults on a financial or other obligation 
+to FICC. See GSD Rule 21 (Restrictions on Access 
+to Services), supra note 3. 
+7 See GSD Rule 3A (Sponsoring Members and 
+Sponsored Members), supra note 3. 
+8 See GSD Rule 1 (Definitions) (definition of 
+‘‘Sponsored Member Trades’’), supra note 3. 
+9 See GSD Rule 1 (definition of ‘‘Agent Clearing 
+Transactions’’), supra note 3. 
+10 See GSD Rule 2B (Accounts), supra note 3. 
+11 See GSD Rule 4 (Clearing Fund and Loss 
+Allocation) and GSD Margin Component Schedule, 
+supra note 3. FICC’s market risk management 
+strategy is designed to comply with Rule 17ad– 
+22(e)(4) under the Act, where these risks are 
+referred to as ‘‘credit risks.’’ 17 CFR 240.17ad– 
+22(e)(4). 
+12 Supra note 3. 
+13 These margin components and the relevant 
+defined terms are located in the GSD Margin 
+Component Schedule, supra note 3. 
+14 See GSD Margin Component Guide (definition 
+of ‘‘VaR Charge’’), supra note 3. 
+15 See GSD Rule 3 (Ongoing Membership 
+Requirements), supra note 3. 
+16 See Rule 3A, Section 10 and Rule 8 (Agent 
+Clearing Service), Section 7, supra note 3. 
+17 See GSD Rule 1 (definition of ‘‘Netting Member 
+Capital’’), supra note 3. 
+18 See GSD Rule 3A, Section 2(h), supra note 3. 
+The calculation is based upon each 
+Member’s unsettled and pending 
+transactions. 
+The objective of a Member’s Required 
+Fund Deposit is to mitigate potential 
+losses to FICC associated with 
+liquidating a Member’s portfolio in the 
+event FICC ceases to act for that Member 
+(hereinafter referred to as a ‘‘default’’).
+6 
+The aggregate amount of all Members’ 
+Required Fund Deposit constitutes the 
+Clearing Fund. FICC would access the 
+Clearing Fund should a defaulting 
+Member’s own Required Fund Deposit 
+be insufficient to satisfy losses to FICC 
+caused by the liquidation of that 
+Member’s portfolio. 
+Each Member is also responsible for 
+the margin requirements arising from 
+the activity of the Member’s indirect 
+participant customers submitted to FICC 
+via the Sponsoring Member/Sponsored 
+Member service (‘‘Sponsored Service’’) 
+and/or the Agent Clearing Service. 
+FICC’s Sponsored Service permits 
+Members that are approved to be 
+Sponsoring Members, to sponsor certain 
+institutional firms, referred to as 
+‘‘Sponsored Members,’’ into GSD 
+membership.
+7 FICC establishes and 
+maintains a ‘‘Sponsoring Member 
+Omnibus Account’’ on its books in 
+which it records the transactions of the 
+Sponsoring Member’s Sponsored 
+Members (‘‘Sponsored Member 
+Trades’’).
+8 Similarly, FICC’s Agent 
+Clearing Service permits Members that 
+are approved to be Agent Clearing 
+Members to submit activities of certain 
+institutional firms, referred to as 
+‘‘Executing Firm Customers,’’ into FICC 
+for clearing and settlement. FICC 
+establishes and maintains an ‘‘Agent 
+Clearing Member Omnibus Account’’ on 
+its books in which it records the 
+transactions of the Agent Clearing 
+Member’s Executing Firm Customers 
+(‘‘Agent Clearing Transactions’’).
+9 
+Both the Sponsoring Members and the 
+Agent Clearing Members also have the 
+option of segregating Sponsored 
+Member Trades of a Sponsored Member 
+and Agent Clearing Transactions of an 
+Executing Firm Customer, as applicable, 
+in separate accounts (i.e., Segregated 
+Indirect Participant Accounts),
+10 each 
+such Sponsored Member and Executing 
+Firm Customer being referred to as a 
+‘‘Segregated Indirect Participant.’’ FICC 
+manages its credit exposure to 
+Segregated Indirect Participants by 
+determining the appropriate Segregated 
+Customer Margin Requirement and 
+monitoring its sufficiency, as provided 
+for in the GSD Rules.
+11 FICC calculates 
+the Segregated Customer Margin 
+Requirement amount for each Member 
+twice a day. The calculation is based 
+upon the unsettled and pending 
+transactions in each Member’s (i) 
+Sponsoring Member Omnibus Accounts 
+designated as Segregated Indirect 
+Participants Accounts and (ii) Agent 
+Clearing Member Omnibus Accounts 
+designated as Segregated Indirect 
+Participants Accounts. 
+Pursuant to the GSD Rules, each 
+Member’s Required Fund Deposit 
+amount and/or Segregated Customer 
+Margin Requirement amount, to the 
+extent applicable, consist of a number of 
+components, each of which is calculated 
+to address specific risks faced by FICC, 
+as identified within the GSD Rules.
+12 
+These components include the VaR 
+Charge, Blackout Period Exposure 
+Adjustment, Backtesting Charge, 
+Holiday Charge, Margin Liquidity 
+Adjustment Charge, Excess Capital 
+Premium, Intraday Supplemental Fund 
+Deposit, special charge, Portfolio 
+Differential Charge, Volatility Event 
+Charge, and Intraday Mark-to-Market 
+Charge.
+13 The VaR Charge 14 generally 
+comprises the largest portion of a 
+Member’s Required Fund Deposit 
+amount/Segregated Customer Margin 
+Requirement amount. 
+The Required Fund Deposit amount 
+and the Segregated Customer Margin 
+Requirement amount are each designed 
+to be directly correlated with the 
+amount of risk created by a Member’s/ 
+Segregated Indirect Participant’s trade 
+activity and is calculated based on the 
+Member’s/Segregated Indirect 
+Participant’s outstanding positions as 
+well as its intraday trading and 
+settlement activity. FICC has the ability 
+to require additional financial resources 
+or other adequate assurances (such as a 
+limitation on their activity), as a risk 
+mitigant from those Members that may 
+pose a risk to FICC or its 
+memberships.
+15 
+FICC mitigates the market risk 
+associated with Sponsored Service and 
+Agent Clearing Service through the 
+twice-daily margin collection from the 
+Sponsoring Members and Agent 
+Clearing Members.
+16 In addition, under 
+the GSD Rules, FICC currently has the 
+ability to limit activities and assess a 
+higher Clearing Fund deposit, as further 
+described below, both of which are 
+specifically designed to manage risk 
+exposures from the Sponsored Service. 
+Similar to the Sponsored Service, the 
+Agent Clearing Service also enables 
+participation by firms that rely on the 
+services provided by Members in order 
+to have their activity cleared and settled 
+through FICC’s facilities. Accordingly, 
+FICC is looking to align the risk 
+management and monitoring process for 
+the Agent Clearing Service and the 
+Sponsored Service, particularly with 
+respect to the management of risk 
+exposures from Sponsored Members 
+and Segregated Indirect Participants, 
+with the proposed changes further 
+described below. 
+1. Removal of Activity Limit 
+Currently, FICC can manage its risk 
+exposures from the Sponsored Service 
+by limiting the activities that a 
+Sponsoring Member can submit to FICC. 
+Specifically, under Section 2(h) of GSD 
+Rule 3A, if the sum of the VaR Charges 
+of a Sponsoring Member’s Sponsoring 
+Member Omnibus Account(s) and its 
+Dealer Accounts (‘‘Aggregate VaR 
+Charges’’) exceeds its Netting Member 
+Capital,
+17 the Sponsoring Member shall 
+not be permitted to submit activity into 
+its Sponsoring Member Omnibus 
+Account(s), unless otherwise 
+determined by FICC in order to promote 
+orderly settlement.
+18 
+FICC is proposing to delete this 
+restriction on activity submission from 
+GSD Rule 3A, and, in lieu thereof, 
+modify the application of the ‘‘higher 
+of’’ calculation methodology so that it 
+would apply to only those Sponsored 
+Members and Segregated Indirect 
+Participants whose activity level 
+exceeds a specified liquidity threshold. 
+The proposed removal of activity limit 
+would also facilitate access to FICC’s 
+clearance and settlement services in 
+accordance with the requirements of 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00025 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+5130 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+19 17 CFR 240.17ad–22(e)(18)(iv)(C). 
+20 Section 4(e) of the GSD Margin Component 
+Schedule currently states that FICC applies the 
+higher of the ‘‘Required Fund Deposit’’ calculation 
+as of the current Business Day and intraday on the 
+current Business Day for the Sponsoring Member 
+Omnibus Account, even though in practice FICC 
+calculates the Unadjusted GSD Margin Portfolio 
+Amount applicable to a Sponsoring Member 
+Omnibus Account based on the higher of the VaR 
+Charge calculation as of the beginning of the current 
+Business Day and intraday on the current Business 
+Day. In reviewing the GSD Rules in connection with 
+this present filing, FICC believes this reference to 
+‘‘Require Fund Deposit’’ in Section 4(e) of the GSD 
+Margin Component Schedule is incorrect and 
+should be changed to ‘‘VaR Charge’’ to accurately 
+reflect the current practice. 
+21 FICC calculates VaR Charge twice daily based 
+on each Member’s noon position and end-of-day 
+position. Typically, the VaR Charge calculated 
+based on the noon slice would be collected intraday 
+at 2:45 p.m. (i.e., intraday VaR Charge), while the 
+VaR Charge calculated based on the end-of-day 
+position would be collected at start-of-day at 9:30 
+a.m. the next business day (i.e., SOD VaR Charge). 
+With the application of the ‘‘higher of’’ 
+methodology, FICC would compare the VaR Charge 
+calculated based on the noon slice against the VaR 
+Charge calculated based on the prior business day’s 
+end-of-day positions and apply the higher of the 
+two amounts as the intraday VaR Charge. For 
+example, if the VaR Charge calculated based on the 
+noon slice is lower than the VaR Charge calculated 
+based on the prior business day’s end-of-day 
+position, then FICC would assess the VaR Charge 
+calculated based on the prior business day’s end- 
+of-day position as the intraday VaR Charge. In 
+contrast, if the VaR Charge calculated based on the 
+noon slice is higher than the VaR Charge calculated 
+based on the prior business day’s end-of-day 
+position, then FICC would assess the VaR Charge 
+calculated based on the noon slice as the intraday 
+VaR Charge. 
+22 As proposed, FICC would not apply the ‘‘higher 
+of’’ calculation methodology to Agent Clearing 
+Member Omnibus Accounts that are not designated 
+as segregated. This is because, unlike Sponsored 
+Members and Segregated Indirect Participants 
+whose margin requirements are calculated on a 
+gross basis, margin requirements for Agent Clearing 
+Member Omnibus Accounts that are not designated 
+as segregated are calculated on a net basis across all 
+Executing Firm Customers whose transactions are 
+recorded within the same account. 
+23 FICC believes the proposed 25 Business Days 
+application period of the ‘‘higher of’’ calculation 
+methodology would provide FICC higher margin 
+coverage within a given calendar month in order to 
+mitigate increases in risk exposure levels arising 
+from Members’ indirect participant activities, 
+particularly those spanning over month-end period, 
+which tend to be when FICC risk management has 
+observed increases in those activities. 
+Rule 17ad–22(e)(18)(iv)(C) under the 
+Act.19 
+2. Modify Application of the ‘‘Higher 
+Of’’ Calculation Methodology 
+In addition to the activity limit 
+described above, FICC can also manage 
+its risk exposures from the Sponsored 
+Service by assessing a higher Clearing 
+Fund deposit on the Sponsoring 
+Members. FICC currently applies the 
+higher of the VaR Charge
+20 calculation 
+as of the beginning of the current 
+Business Day and intraday on the 
+current Business Day as the intraday 
+VaR Charge to a Sponsoring Member’s 
+Sponsoring Member Omnibus Account 
+pursuant to Section 4(e) of the GSD 
+Margin Component Schedule.
+21 FICC 
+believes this calculation procedure, 
+currently applicable only to Sponsoring 
+Member Omnibus Accounts, should 
+also apply to Sponsoring Member 
+Omnibus Accounts designated as 
+Segregated Indirect Participants 
+Accounts as well as Agent Clearing 
+Member Omnibus Accounts designated 
+as Segregated Indirect Participants 
+Accounts, as both of these Account 
+types would also be used exclusively to 
+record transactions submitted to FICC 
+on behalf of entities other than a 
+Member (i.e., Sponsored Members and 
+Segregated Indirect Participants) and 
+thus should be monitored and risk 
+managed in a similar manner.
+22 
+Accordingly, in addition to Sponsored 
+Members that are currently subject to 
+the ‘‘higher of’’ calculation 
+methodology, FICC is proposing to 
+expand the application of the ‘‘higher 
+of’’ calculation methodology to include 
+Segregated Indirect Participants. 
+However, instead of applying the 
+‘‘higher of’’ calculation to these Account 
+types at all times, FICC would modify 
+the application of this methodology as 
+described below. 
+In order to monitor and mitigate risk 
+exposures from Sponsored Members 
+and Segregated Indirect Participants 
+whose activity level exceeds a specified 
+liquidity threshold, FICC is proposing 
+that, with respect to each Sponsored 
+Member and/or Segregated Indirect 
+Participant, FICC would compare the 
+total liquidity needs arising from the 
+Sponsored Member’s/Segregated 
+Indirect Participant’s activities across all 
+Accounts of its Sponsoring Members/ 
+Agent Clearing Members against FICC’s 
+daily liquidity need. If on any Business 
+Day the aggregate liquidity needs of the 
+Sponsored Member/Segregated Indirect 
+Participant across all Accounts exceed 
+FICC’s daily liquidity need, then FICC 
+would apply the ‘‘higher of’’ calculation 
+methodology to the Sponsored Member/ 
+Segregated Indirect Participant for the 
+following 25 Business Days.
+23 
+Specifically, the ‘‘higher of’’ VaR Charge 
+would be assessed for each applicable 
+Sponsored Member/Segregated Indirect 
+Participant via the relevant Sponsoring 
+Member Omnibus Account/Agent 
+Clearing Member Omnibus Account 
+based on the SOD and intraday VaR 
+Charges calculated for the Sponsored 
+Member/Segregated Indirect Participant. 
+For example, if Sponsored Member X 
+submits transactions through four 
+different Sponsoring Members, 
+generating Receive Obligations and 
+Funds-Only Settlement Amounts that 
+total $100 billion on Day 1, and the 
+FICC’s daily liquidity need on Day 1 is 
+$80 billion, then FICC would impose a 
+‘‘higher of’’ calculation methodology on 
+Sponsored Member X for the next 25 
+Business Days, (i.e., Day 2 to Day 27), 
+by assessing Sponsored Member X the 
+higher of its SOD VaR Charge and 
+intraday VaR Charge for both margin 
+cycles. This means that, if Sponsored 
+Member X’s SOD VaR Charge was $300 
+million and its intraday VaR Charge was 
+$150 million on Day 2, Sponsored 
+Member X would be assessed a VaR 
+Charge of $300 million for both the SOD 
+and the intraday margin cycles on Day 
+2. 
+Proposed GSD Rule Changes 
+To implement the proposed changes 
+described above, FICC proposes to make 
+the following amendments to the GSD 
+Rules. 
+FICC proposes to revise GSD Rule 1 
+by adding new definitions for 
+‘‘Affiliated Family’’ and ‘‘Daily 
+Liquidity Need.’’ 
+‘‘Affiliated Family’’ would be defined 
+to mean a group of Members, excluding 
+from the group any Member that is a 
+securities clearinghouse, depository, 
+exchange or other market infrastructure, 
+in which each Member in the group is 
+an Affiliate of at least one other Member 
+in the group. 
+‘‘Daily Liquidity Need’’ would be 
+defined to mean on any Business Day, 
+the largest payment obligation of FICC 
+as a central counterparty, as calculated 
+and determined by FICC, for all 
+projected same day, intraday and 
+multiday settlement activity (where 
+appropriate), assuming the default on 
+that day of a Netting Member or, for an 
+Affiliated Family, the largest payment 
+obligation that FICC would have in the 
+event of the simultaneous default of all 
+Members of that Affiliated Family. 
+In addition, FICC would modify the 
+GSD Rules by deleting Section 2(h) of 
+GSD Rule 3A, the existing activity limit 
+provision. Due to the deletion of GSD 
+Rule 3A, Section 2(h), subsection 2(i) 
+would be renumbered 2(h) and 
+subsection 2(j) would be renumbered 
+2(i). 
+In lieu thereof, FICC would modify 
+the GSD Rules by revising Section 4 of 
+the GSD Margin Component Schedule to 
+reflect the modifications to the 
+application of the ‘‘higher of’’ 
+calculation methodology. Specifically, 
+FICC is proposing to delete the existing 
+language in Section 4(e) of the GSD 
+Margin Components Schedule and 
+adding language that would provide that 
+for each Sponsored Member and/or 
+Segregated Indirect Participant, FICC 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00026 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+5131 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+24 See GSD Rule 1 (definition of ‘‘Receive 
+Obligation’’), supra note 3. 
+25 See GSD Rule 1 (definition of ‘‘Funds-Only 
+Settlement Amounts’’), supra note 3. 
+26 Due to data limitation, the impact study did not 
+include Funds-Only Settlement Amounts from 
+April 1, 2024 to March 23, 2025. 
+27 15 U.S.C. 78d–2(b)(3)(F). 
+28 17 CFR 240.17ad–22(e)(4), (e)(6)(i), and (e)(19). 
+29 15 U.S.C. 78d–2(b)(3)(F). 
+30 Id. 
+shall compare the sum of Receive 
+Obligations 24 and Funds-Only 
+Settlement Amounts 25 recorded for the 
+Sponsored Member and/or Segregated 
+Indirect Participant across all Accounts 
+against FICC’s Daily Liquidity Need. If 
+on any Business Day the aggregate sum 
+of Receive Obligations and Funds-Only 
+Settlement Amounts of the Sponsored 
+Member and/or Segregated Indirect 
+Participant across all Accounts exceeds 
+FICC’s Daily Liquidity Need, for 
+purposes of calculating the Unadjusted 
+GSD Margin Portfolio Amount, FICC 
+shall apply the higher of the VaR Charge 
+calculation as of the beginning of the 
+day and intraday as the intraday VaR 
+Charge to the Sponsored Member and/ 
+or Segregated Indirect Participant for the 
+following 25 Business Days. 
+In addition, the title of Section 4 of 
+the GSD Margin Component Schedule 
+would be changed from ‘‘Increased 
+Required Fund Deposits’’ to ‘‘Increased 
+Required Fund Deposits/Segregated 
+Customer Margin Requirements.’’ 
+Impact Study 
+FICC performed an impact study for 
+the period April 1, 2024 to October 31, 
+2025 (‘‘Impact Study Period’’). The 
+impact study included 696 out of 2,978 
+Sponsored Members because they had 
+either Receive Obligations and/or 
+Funds-Only Settlement Amounts.
+26 If 
+the proposed rule changes had been in 
+place during the Impact Study Period, 
+out of 696 Sponsored Members, 31 
+Sponsored Members (or approximately 
+4.5%) would not be impacted and 665 
+Sponsored Members (or approximately 
+95.5%) would be positively impacted. 
+Specifically, out of the 31 Sponsored 
+Members that would not be impacted, 
+five Sponsored Members were already 
+subject to the ‘‘higher of’’ calculation 
+methodology under the current GSD 
+Rules and would remain subject to the 
+‘‘higher of’’ calculation methodology 
+under the proposal. For the other 26 
+Sponsored Members, their VaR Charges 
+calculated based on the noon slice are 
+higher than their VaR Charges 
+calculated based on the prior business 
+day end-of-day positions. Therefore, 
+these 26 Sponsored Members were 
+already being assessed the VaR Charge 
+calculated based on their noon slice as 
+their intraday VaR Charges and would 
+continue to be assessed that way under 
+the proposal. For the 665 Sponsored 
+Members that would be positively 
+impacted, they would have a reduction 
+in their VaR Charges as a result of 
+proposed modifications to the 
+application of the ‘‘higher of’’ 
+calculation methodology. 
+On average, the five Sponsored 
+Members would be subject to the 
+‘‘higher of’’ calculation methodology for 
+approximately 159 out of the 398 
+Business Days (or approximately 40%) 
+during the Impact Study Period, with 
+one Sponsored Member being subject to 
+the ‘‘higher of’’ calculation methodology 
+for 381 days out of the 398-day Impact 
+Study Period (or approximately 96%). 
+The average daily increase in VaR 
+Charge in dollars for the five Sponsored 
+Members would be approximately 
+$144.6 million (or approximately 19% 
+of the average daily VaR Charge that 
+would otherwise be assessed on the five 
+Sponsored Members). 
+The five largest daily increases in VaR 
+Charge in dollars for the five Sponsored 
+Members would be approximately 
+$826.1 million (or approximately 
+51.7%), $697.1 million (or 
+approximately 47.3%), $692.5 million 
+(or approximately 41.8%), $689.6 
+million (or approximately 46.9%), and 
+$682.6 million (or approximately 
+40.7%). 
+The five largest daily increases in VaR 
+Charge for the five Sponsored Members 
+as percentages of the relevant Sponsored 
+Member’s daily VaR Charge that would 
+otherwise be assessed on the Sponsored 
+Members would be approximately 
+59.7% (or $312.8 million), 55.8% (or 
+$361.2 million), 52.8% (or $209.9 
+million), 52.6% (or $208.3 million), and 
+52.5% (or $203.8 million). 
+As proposed, FICC would no longer 
+automatically apply the ‘‘higher of’’ 
+calculation methodology to a 
+Sponsoring Member’s Sponsoring 
+Member Omnibus Account. 
+Accordingly, the 665 Sponsored 
+Members that would have been assessed 
+a higher VaR Charge under the current 
+GSD Rules would each have, on average, 
+a daily reduction in their VaR Charges 
+of approximately $20.2 million (or 
+approximately 32% of the average daily 
+VaR Charge that would otherwise be 
+assessed on the Sponsored Member). 
+Implementation Timeframe 
+FICC would implement the proposed 
+rule change by no later than 60 Business 
+Days after the approval of the proposed 
+rule change by the Commission. FICC 
+would announce the effective date of 
+the proposed changes by an Important 
+Notice posted to its website. 
+2. Statutory Basis 
+FICC believes the proposed rule 
+change is consistent with the 
+requirements of the Act and the rules 
+and regulations thereunder applicable to 
+a registered clearing agency. In 
+particular, FICC believes the proposed 
+rule change is consistent with Section 
+17A(b)(3)(F) of the Act,
+27 and Rules 
+17ad–22(e)(4), (e)(6)(i), and (e)(19) each 
+promulgated under the Act,
+28 for the 
+reasons described below. 
+Section 17A(b)(3)(F) of the Act 
+requires that the GSD Rules be designed 
+to, among other things, assure the 
+safeguarding of securities and funds 
+which are in the custody or control of 
+the clearing agency or for which it is 
+responsible and be designed to promote 
+the prompt and accurate clearance and 
+settlement of securities transactions.
+29 
+FICC believes the proposed changes to 
+enhance the risk management of 
+indirect participants are designed to 
+assure the safeguarding of securities and 
+funds which are in its custody or 
+control or for which it is responsible 
+because these changes are designed to 
+mitigate risks to FICC arising out of a 
+Member’s indirect participant activities. 
+Specifically, the proposed changes 
+would enable FICC to assess a higher 
+margin on those Sponsored Members 
+and Segregated Indirect Participants 
+whose activity level exceeds a specified 
+liquidity threshold. Doing so would 
+enable FICC to more accurately assess 
+the margin required to cover risks 
+arising from the activities of indirect 
+participants such that, in the event of a 
+Member default, FICC would be able to 
+mitigate potential losses associated with 
+liquidating the defaulting Member’s 
+portfolio so that FICC’s operations 
+would not be disrupted, and non- 
+defaulting Members would not be 
+exposed to losses they cannot anticipate 
+or control. In this way, these proposed 
+changes are designed to enhance FICC’s 
+risk management and its ability to 
+assure the safe return of funds and 
+securities by ensuring that the margin 
+requirements take due and appropriate 
+account of the risk arising from indirect 
+participants’ activities and thus 
+reducing the potential risk to FICC 
+arising from indirect participant 
+transactions. Accordingly, these changes 
+would support FICC’s compliance with 
+Section 17A(b)(3)(F) by further assuring 
+FICC’s safeguarding of securities and 
+funds in its control and for which it is 
+responsible.
+30 
+The proposed rule changes to enhance 
+the risk management of indirect 
+participants have also been designed to 
+be consistent with Rules 17ad–22(e)(4), 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00027 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+5132 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+31 17 CFR 240.17ad–22(e)(4), (e)(6)(i), and (e)(19). 
+32 17 CFR 240.17ad–22(e)(4). 
+33 17 CFR 240.17ad–22(e)(6)(i). 
+34 Id. 
+35 17 CFR 240.17ad–22(e)(19). 
+36 Id. 
+37 15 U.S.C. 78d–2(b)(3)(I). 
+38 15 U.S.C. 78d–2(b)(3)(F). 
+39 Id. 
+40 17 CFR 240.17ad–22(e)(4), (e)(6)(i), (e)(19). 
+(e)(6)(i), and (e)(19) under the Act.31 
+Rule 17ad–22(e)(4) requires FICC to 
+establish, implement, maintain and 
+enforce written policies and procedures 
+reasonably designed to effectively 
+identify, measure, monitor, and manage 
+its credit exposures to participants and 
+those exposures arising from its 
+payment, clearing, and settlement 
+processes.
+32 The proposed changes to 
+enhance the risk management of 
+indirect participants address the 
+identification, measurement, monitoring 
+and management of credit exposures 
+that may arise from indirect participant 
+activities. Specifically, by modifying the 
+application of the ‘‘higher of’’ 
+calculation methodology to include 
+each Sponsored Member and/or 
+Segregated Indirect Participant whose 
+activity level exceeds a specified 
+liquidity threshold, the proposed 
+changes would enable FICC to have rule 
+provisions that are reasonably designed 
+to effectively identify, measure, 
+monitor, and manage its credit 
+exposures to indirect participants and 
+those exposures arising from its 
+payment, clearing, and settlement 
+processes, which FICC believes is 
+consistent with Rule 17ad–22(e)(4). 
+Rule 17ad–22(e)(6)(i) requires FICC to 
+establish, implement, maintain and 
+enforce written policies and procedures 
+reasonably designed to cover its credit 
+exposures to its participants by 
+establishing a risk-based margin system 
+that considers, and produces margin 
+levels commensurate with, the risks and 
+particular attributes of each relevant 
+product, portfolio, and market.
+33 FICC 
+believes that the proposed changes to 
+enhance the risk management of 
+indirect participants as described herein 
+are consistent with the requirements of 
+Rule 17ad–22(e)(6)(i) cited above. The 
+proposed changes to modify the 
+application of the ‘‘higher of’’ 
+calculation methodology to include 
+each Sponsored Member and/or 
+Segregated Indirect Participant whose 
+activity level exceeds a specified 
+liquidity threshold would help to 
+ensure that margin levels are 
+commensurate with the risk exposure 
+presented by the indirect participant 
+activities submitted to FICC by the 
+Members. These proposed changes 
+would help ensure that the margin that 
+FICC collects from Members is sufficient 
+to mitigate the credit exposure 
+presented by the activities that Members 
+submit to FICC on behalf of indirect 
+participants. Overall, the proposed 
+changes would allow FICC to more 
+effectively address the risks presented 
+by Members and indirect participants. 
+In this way, the proposed changes 
+enhance the ability of FICC to produce 
+margin levels commensurate with the 
+risks and particular attributes of each 
+relevant product, portfolio, and market. 
+As such, FICC believes that the 
+proposed changes are consistent with 
+the requirements of Rule 17ad– 
+22(e)(6)(i) under the Act.
+34 
+Rule 17ad–22(e)(19) requires FICC to 
+identify, monitor, and manage the 
+material risks to FICC arising from 
+arrangements in which firms that are 
+indirect participants in FICC rely on the 
+services provided by direct participants 
+to access FICC’s clearance and 
+settlement facilities.
+35 FICC believes 
+that the proposed changes to enhance 
+the risk management of indirect 
+participants as described herein are 
+consistent with the requirements of Rule 
+17ad–22(e)(19) cited above. The 
+proposed changes to modify the 
+application of the ‘‘higher of’’ 
+calculation methodology to include 
+each Sponsored Member and/or 
+Segregated Indirect Participant whose 
+activity level exceeds a specified 
+liquidity threshold is appropriate to 
+manage the potential risk to FICC 
+arising from indirect participant 
+transactions. These proposed changes 
+would ensure that the margin FICC 
+collects from Members is sufficient to 
+mitigate the credit exposure presented 
+by the activities that Members submit to 
+FICC on behalf of indirect participants. 
+Overall, the proposed changes would 
+allow FICC to more effectively address 
+the risks presented by indirect 
+participants. In this way, the proposed 
+changes enhance the ability of FICC to 
+identify, monitor, and manage the 
+material risks to FICC arising from 
+arrangements in which firms that are 
+indirect participants in FICC rely on the 
+services provided by direct participants 
+to access FICC’s clearance and 
+settlement facilities. As such, FICC 
+believes that the proposed changes are 
+consistent with the requirements of Rule 
+17ad–22(e)(19) under the Act.
+36 
+(B) Clearing Agency’s Statement on 
+Burden on Competition 
+FICC believes the proposed rule 
+changes to enhance the risk 
+management of indirect participants 
+could impose a burden on competition. 
+As a result of the proposed rule changes, 
+participants may experience increases 
+in their Required Fund Deposits and/or 
+Segregated Customer Margin 
+Requirements. Such increases could 
+burden participants that have lower 
+operating margins or higher costs of 
+capital than other participants. It is not 
+clear whether the burden on 
+competition would necessarily be 
+significant because it would depend on 
+whether the affected participants were 
+similarly situated in terms of business 
+type and size. Regardless of whether the 
+burden on competition is significant, 
+FICC believes that any burden on 
+competition would be necessary and 
+appropriate in furtherance of the 
+purposes of the Act, as permitted by 
+Section 17A(b)(3)(I) of the Act.
+37 
+Specifically, FICC believes that the 
+proposed rule changes to enhance the 
+risk management of indirect participants 
+would be necessary in furtherance of the 
+Act, as described in this filing and 
+further below. FICC believes that the 
+above-described burden on competition 
+that may be created by the proposed 
+changes is necessary. This is because 
+the GSD Rules must be designed to 
+assure the safeguarding of securities and 
+funds that are in FICC’s custody or 
+control or for which it is responsible, 
+consistent with Section 17A(b)(3)(F) of 
+the Act.
+38 As described above, FICC 
+believes that the proposed rule changes 
+to enhance the risk management of 
+indirect participants would enable FICC 
+to better address risk exposure arising 
+from the indirect participant activities. 
+As such, the proposed changes to 
+enhance the risk management of 
+indirect participants are designed to 
+assure the safeguarding of securities and 
+funds which are in the custody or 
+control of FICC or for which it is 
+responsible, consistent with Section 
+17A(b)(3)(F) of the Act.
+39 
+FICC also believes these proposed 
+changes to enhance the risk 
+management of indirect participants are 
+necessary to support FICC’s compliance 
+with Rules 17ad–22(e)(4), (e)(6)(i), and 
+(e)(19) under the Act,
+40 which require 
+FICC to establish, implement, maintain 
+and enforce written policies and 
+procedures reasonably designed to (x) 
+effectively identify, measure, monitor, 
+and manage its credit exposures to 
+participants and those arising from its 
+payment, clearing, and settlement 
+processes, (y) cover its credit exposures 
+to its participants by establishing a risk- 
+based margin system that, at a 
+minimum, considers, and produces 
+margin levels commensurate with, the 
+risks and particular attributes of each 
+relevant product, portfolio, and market, 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00028 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
+5133 Federal Register / Vol. 91, No. 23 / Wednesday, February 4, 2026 / Notices 
+41 Id. 42 15.U.S.C. 78d–2(b)(3)(I). 43 17 CFR 200.30–3(a)(12). 
+and (z) identify, monitor, and manage 
+the material risks to FICC arising from 
+arrangements in which firms that are 
+indirect participants in FICC rely on the 
+services provided by direct participants 
+to access FICC’s clearance and 
+settlement facilities. As described 
+above, FICC believes that these 
+proposed changes to enhance the risk 
+management of indirect participants 
+would allow FICC to more effectively 
+mitigate risk exposure arising out of 
+indirect participant activities and 
+therefore would allow FICC to 
+effectively identify, measure, monitor, 
+and manage its credit exposures to 
+participants; better limit FICC’s credit 
+exposures to participants and producing 
+margin levels commensurate with the 
+risks and particular attributes of each 
+relevant product and portfolio; and 
+more effectively address the risks 
+presented by indirect participants, 
+consistent with the requirements of 
+Rules 17ad–22(e)(4), (e)(6)(i), and (e)(19) 
+under the Act.
+41 
+FICC also believes that the above- 
+described burden on competition that 
+could be created by the proposed 
+changes would be appropriate in 
+furtherance of the Act because such 
+changes have been appropriately 
+designed to assure the safeguarding of 
+securities and funds which are in the 
+custody or control of FICC or for which 
+it is responsible, as described in detail 
+above. The proposed changes to 
+enhance the risk management of 
+indirect participants are specifically 
+designed to cover excessive risk 
+exposures posed by a Sponsored 
+Member and/or a Segregated Indirect 
+Participant whose activity level exceeds 
+a specified liquidity threshold (i.e., 
+when the total liquidity needs arise 
+from the Sponsored Member’s/ 
+Segregated Indirect Participant’s 
+activities across all Accounts exceed 
+FICC’s daily liquidity need). The 
+‘‘higher of’’ calculation methodology 
+that would be applied by FICC as a 
+result of such proposed changes for a 
+particular Sponsored Member and/or 
+Segregated Indirect Participant would 
+be necessary and in direct relation to the 
+specific risks presented by such indirect 
+participant’s activities. Any increase in 
+Required Fund Deposit and/or proposed 
+Segregated Customer Margin 
+Requirement as a result of such 
+proposed changes for a particular 
+Sponsored Member and/or Segregated 
+Indirect Participant would be in direct 
+relation to the specific risks presented 
+by such indirect participant’s activities. 
+Accordingly, participants with 
+portfolios that present similar risks, 
+regardless of the type of participant, 
+would have similar impacts on their 
+Required Fund Deposit and/or 
+Segregated Customer Margin 
+Requirement amounts. Therefore, 
+because the proposed changes are 
+designed to provide FICC with a more 
+appropriate and complete measure of 
+the risks presented by indirect 
+participants’ activities, FICC believes 
+the proposals are appropriately 
+designed to meet its risk management 
+goals and its regulatory obligations. 
+Accordingly, FICC does not believe 
+that the proposed changes to enhance 
+the risk management of indirect 
+participants would impose any burden 
+on competition that is not necessary or 
+appropriate in furtherance of the Act.
+42 
+(C) Clearing Agency’s Statement on 
+Comments on the Proposed Rule 
+Change Received From Members, 
+Participants, or Others 
+FICC has not received or solicited any 
+written comments relating to this 
+proposal. If any written comments are 
+received, they will be publicly filed as 
+an Exhibit 2 to this filing, as required by 
+Form 19b–4 and the General 
+Instructions thereto. 
+Persons submitting comments are 
+cautioned that, according to Section IV 
+(Solicitation of Comments) of the 
+Exhibit 1A in the General Instructions to 
+Form 19b–4, the Commission does not 
+edit personal identifying information 
+from comment submissions. 
+Commenters should submit only 
+information that they wish to make 
+available publicly, including their 
+name, email address, and any other 
+identifying information. 
+All prospective commenters should 
+follow the Commission’s instructions on 
+how to submit comments, available at 
+www.sec.gov/rules-regulations/how- 
+submit-comment. General questions 
+regarding the rule filing process or 
+logistical questions regarding this filing 
+should be directed to the Main Office of 
+the Commission’s Division of Trading 
+and Markets at tradingandmarkets@
+sec.gov or 202–551–5777. 
+FICC reserves the right not to respond 
+to any comments received. 
+III. Date of Effectiveness of the 
+Proposed Rule Change, and Timing for 
+Commission Action 
+Within 45 days of the date of 
+publication of this notice in the Federal 
+Register or within such longer period 
+up to 90 days (i) as the Commission may 
+designate if it finds such longer period 
+to be appropriate and publishes its 
+reasons for so finding or (ii) as to which 
+the self-regulatory organization 
+consents, the Commission will: 
+(A) by order approve or disapprove 
+such proposed rule change, or 
+(B) institute proceedings to determine 
+whether the proposed rule change 
+should be disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views and 
+arguments concerning the foregoing, 
+including whether the proposed rule 
+change is consistent with the Act. 
+Comments may be submitted by any of 
+the following methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (https://www.sec.gov/ 
+rules/sro.shtml); or 
+• Send an email to rule-comments@
+sec.gov. Please include file number SR– 
+FICC–2026–003 on the subject line. 
+Paper Comments 
+• Send paper comments in triplicate 
+to Secretary, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549. 
+All submissions should refer to file 
+number SR–FICC–2026–003. This file 
+number should be included on the 
+subject line if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method. The Commission will 
+post all comments on the Commission’s 
+internet website (https://www.sec.gov/ 
+rules/sro.shtml). Copies of the filing will 
+be available for inspection and copying 
+at the principal office of FICC and on 
+DTCC’s website (www.dtcc.com/legal/ 
+sec-rule-filings). Do not include 
+personal identifiable information in 
+submissions; you should submit only 
+information that you wish to make 
+available publicly. We may redact in 
+part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. All submissions should refer 
+to File Number SR–FICC–2026–003 and 
+should be submitted on or before 
+February 25, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.43 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02228 Filed 2–3–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+VerDate Sep<11>2014 16:18 Feb 03, 2026 Jkt 268001 PO 00000 Frm 00029 Fmt 4703 Sfmt 4703 E:\FR\FM\04FEN1.SGM 04FEN1khammond on DSK9W7S144PROD with NOTICES
