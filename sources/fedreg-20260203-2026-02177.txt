@@ -1,0 +1,861 @@
+4994 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+13 17 CFR 200.30–3(a)(12). 
+1 The CME is a derivatives clearing organization 
+(‘‘DCO’’) registered with the Commodity Futures 
+Trading Commission (‘‘CFTC’’). 
+2 15 U.S.C. 78mm. Section 36(a)(1) of the 
+Exchange Act gives the Commission the authority 
+to exempt any person, security or transaction or any 
+class or classes of persons, securities or 
+transactions, conditionally or unconditionally, from 
+any Exchange Act provision by rule, regulation or 
+order, to the extent that the exemption is necessary 
+or appropriate in the public interest and consistent 
+with the protection of investors. 
+3 15 U.S.C. 78a et seq. 
+4 17 CFR 240.0–12. Exchange Act Rule 0–12 sets 
+forth procedures for filing applications for orders 
+for exemptive relief pursuant to Section 36. The 
+application will not appear in the Federal Register 
+(‘‘Application’’). The Application is available on the 
+Commission’s internet website at www.sec.gov. 
+Defined terms in this notice are the same as used 
+in the Application, unless we note otherwise. 
+5 15 U.S.C. 78o(c)(3). 
+6 17 CFR 240.15c3–3. 
+7 See Standards for Covered Clearing Agencies for 
+U.S. Treasury Securities and Application of the 
+Broker-Dealer Customer Protection Rule With 
+Respect to U.S. Treasury Securities, Exchange Act 
+Release No. 99149 (Dec. 13, 2023), 89 FR 2714 (Jan. 
+16, 2024) (‘‘Treasury Clearing Adopting Release’’). 
+8 See Treasury Clearing Adopting Release, 89 FR 
+at 2750. 
+ETPs or other products with unique 
+structural characteristics, might favor 
+listing on other exchanges that provide 
+greater flexibility in compliance 
+timeframes, which could disadvantage 
+the Exchange and reduce competition 
+among listing venues. The proposed 
+rule change levels the competitive 
+playing field and ensures that listing 
+venue selection is based on factors other 
+than disparities in compliance 
+procedures. 
+The Exchange believes the proposed 
+rule change may enhance intermarket 
+competition by enabling the Exchange 
+to attract and retain listings of ETPs that 
+might otherwise list on competing 
+venues with more flexible compliance 
+frameworks. This increased competition 
+among listing venues benefits investors 
+by providing greater choice in where 
+and how to access investment products. 
+Other exchanges remain free to adopt 
+similar accommodations or to maintain 
+their existing compliance procedures, 
+ensuring that competition among 
+exchanges continues to drive 
+improvements in listing standards and 
+procedures. 
+For these reasons, the Exchange does 
+not believe the proposed rule change 
+will impose any burden on competition 
+that is not necessary or appropriate in 
+furtherance of the purposes of the Act. 
+C. Self-Regulatory Organization’s 
+Statement on Comments on the 
+Proposed Rule Change Received From 
+Members, Participants, or Others 
+The Exchange neither solicited nor 
+received comments on the proposed 
+rule change. 
+III. Date of Effectiveness of the 
+Proposed Rule Change and Timing for 
+Commission Action 
+Within 45 days of the date of 
+publication of this notice in the Federal 
+Register or within such longer period 
+up to 90 days (i) as the Commission may 
+designate if it finds such longer period 
+to be appropriate and publishes its 
+reasons for so finding or (ii) as to which 
+the Exchange consents, the Commission 
+will: 
+A. by order approve or disapprove 
+such proposed rule change, or 
+B. institute proceedings to determine 
+whether the proposed rule change 
+should be disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views and 
+arguments concerning the foregoing, 
+including whether the proposed rule 
+change is consistent with the Act. 
+Comments may be submitted by any of 
+the following methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (https://www.sec.gov/ 
+rules/sro.shtml); or 
+• Send an email to rule-comments@
+sec.gov. Please include file number SR– 
+CboeBZX–2026–005 on the subject line. 
+Paper Comments 
+• Send paper comments in triplicate 
+to Secretary, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549–1090. 
+All submissions should refer to file 
+number SR-CboeBZX–2026–005. This 
+file number should be included on the 
+subject line if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method. The Commission will 
+post all comments on the Commission’s 
+internet website (https://www.sec.gov/ 
+rules/sro.shtml). Copies of the filing will 
+be available for inspection and copying 
+at the principal office of the Exchange. 
+Do not include personal identifiable 
+information in submissions; you should 
+submit only information that you wish 
+to make available publicly. We may 
+redact in part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. All submissions should refer 
+to file number SR–CboeBZX–2026–005 
+and should be submitted on or before 
+February 24, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.13 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02120 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104748; File No. S7–2026– 
+03] 
+Notice of an Application of the Fixed 
+Income Clearing Corporation and 
+Chicago Mercantile Exchange Inc. for 
+an Exemption Pursuant to Section 36 
+of the Securities Exchange Act of 1934 
+in Connection With the Cross- 
+Margining of U.S. Treasury Securities 
+and Related Futures 
+January 30, 2026. 
+On December 11, 2025, the Securities 
+and Exchange Commission 
+(‘‘Commission’’) received an application 
+from the Fixed Income Clearing 
+Corporation (‘‘FICC’’), a clearing agency 
+registered with the Commission, and the 
+Chicago Mercantile Exchange Inc. 
+(‘‘CME’’)
+1 to obtain an exemption 
+pursuant to Section 36 2 of the 
+Securities Exchange Act of 1934 
+(‘‘Exchange Act’’),
+3 in accordance with 
+the procedures set forth in Exchange Act 
+Rule 0–12.
+4 Specifically, FICC and CME 
+are requesting exemptive relief, on 
+behalf of certain of their joint clearing 
+members that are dually-registered as 
+broker-dealers and futures commission 
+merchants, from Section 15(c)(3) of the 
+Exchange Act
+5 and Rule 15c3–3 6 
+thereunder in connection with a 
+program to cross-margin customer 
+positions in U.S. Treasury securities 
+positions cleared by FICC and related 
+futures cleared by CME in a futures 
+account from the period of novation 
+through settlement of a trade. The 
+Commission is publishing this notice to 
+provide interested persons with an 
+opportunity to comment. 
+I. Background 
+On December 13, 2023, the 
+Commission adopted rules under the 
+Exchange Act to amend the standards 
+applicable to certain clearing agencies to 
+enhance risk management practices for 
+central counterparties in the U.S. 
+Treasury market and facilitate 
+additional clearing of U.S. Treasury 
+securities.
+7 As described in the Treasury 
+Clearing Adopting Release, several 
+commenters discussed facilitating cross- 
+margining of indirect participants’ (i.e., 
+customers’ or end users’) transactions in 
+U.S. Treasury securities with those in 
+U.S. Treasury futures as a method to 
+lower costs of trading and thereby 
+incentivize additional clearing.
+8 In 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00134 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4995 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+9 Id. at 2751. Other organizations also have 
+recommended that the Commission permit 
+clearinghouse/DCO level cross-margining for 
+customers for certain U.S. Treasury securities 
+transactions cleared at a clearing agency and related 
+futures cleared at a DCO, and that the cross- 
+margining occur in a futures account. See CFTC 
+Global Markets Advisory Committee Advances Key 
+Recommendations, CFTC Release No. 8860–24 
+(Feb. 8, 2024); see also Treasury Market Practices 
+Group, Consultative White Paper: Non-Centrally 
+Cleared Bilateral Repo and Indirect Clearing in the 
+U.S. Treasury Market: Focus on Margining Practices 
+(Feb. 26, 2025). 
+10 15 U.S.C. 78o(b). 
+11 7 U.S.C. 6f(a)(1). 
+12 In connection with the Application, FICC also 
+has submitted a proposed rule change to the 
+Commission needed to implement the customer 
+cross-margin program with CME. See FICC, Notice 
+of Filing of Proposed Rule Change to Amend and 
+Restate the Second Amended and Restated Cross- 
+Margining Agreement Between FICC and CME and 
+Amend Related GSD Rules, Exchange Act Release 
+No. 104485 (Dec. 22, 2025), 90 FR 60791 (Dec. 29, 
+2025) [File No. SR–FICC–2025–025]. CME and FICC 
+have also submitted a petition for an exemptive 
+order from the CFTC in connection with the 
+proposal. See CFTC, Proposal to Provide Exemptive 
+Relief to Facilitate Cross-Margining of Customer 
+Positions Cleared at Chicago Mercantile Exchange, 
+Inc. and Fixed Income Clearing Corporation, 90 FR 
+58525 (Dec. 17, 2025). 
+13 17 CFR 240.15c3–3. 
+14 Section 15(c)(3)(A) of the Exchange Act 
+provides, in pertinent part, that no broker-dealer 
+shall make use of the mails or any means or 
+instrumentality of interstate commerce to effect any 
+transaction in, or to induce or attempt to induce the 
+purchase or sale of, any security (with exceptions 
+for certain securities) in contravention of such rules 
+and regulations as the Commission shall prescribe 
+as necessary or appropriate in the public interest or 
+for the protection of investors to provide safeguards 
+with respect to the financial responsibility and 
+related practices of broker-dealers including, but 
+not limited to, the acceptance of custody and use 
+of customers’ securities and the carrying and use of 
+customers’ deposits or credit balances. 15 U.S.C. 
+78o(c)(3)(A). 
+15 See 15 U.S.C. 78aaa et. seq.; see also Daily 
+Computation of Customer and Broker-Dealer 
+Reserve Requirements under the Broker-Dealer 
+Customer Protection Rule, Exchange Act Release 
+No. 102022 (Dec. 20, 2024), 90 FR 2790, 2791 (Jan. 
+13, 2025). 
+16 See Application, at p.1. 
+17 See e.g., notes 1 and 16 in the Application. 
+18 This arrangement was originally approved by 
+the Commission and CFTC in 2003 and amended 
+in 2023. See note 3 and accompanying text in the 
+Application; see also section II. of the Application. 
+19 See section I. of the Application. 
+20 See section IV.c. of the Application. This 
+bankruptcy treatment would be achieved through 
+the execution of a required non-conforming 
+subordination agreement between the XM Customer 
+and the Eligible BD–FCM. See proposed conditions 
+below and section VI. of the Application 
+(discussing the proposed conditions). 
+21 See section III. of the Application. 
+22 See section III. of the Application. 
+response to these comments, the 
+Commission agreed that cross-margining 
+can be beneficial to market 
+participants.
+9 
+FICC and CME currently have in place 
+a proprietary cross-margining 
+arrangement that allows a broker-dealer 
+that is: (1) registered under Section 
+15(b) of the Exchange Act
+10 and also 
+registered as a futures commission 
+merchant pursuant to Section 4f(a)(1) of 
+the Commodity Exchange Act
+11 
+(‘‘CEA’’) (a ‘‘BD–FCM’’), and (2) a joint 
+clearing member of both FICC and CME, 
+acting for itself or for certain non- 
+customer affiliates, to have initial 
+margin requirements for certain FICC- 
+cleared eligible securities positions and 
+certain CME-cleared eligible futures 
+positions calculated in a way that 
+recognizes the risk offsets across those 
+positions. Customers who clear 
+positions at FICC and CME through a 
+joint clearing member are not eligible to 
+have their positions cross-margined 
+under the current cross-margining 
+arrangement. FICC and CME have 
+requested that the Commission permit 
+FICC and CME to extend this existing 
+cross-margining arrangement to 
+customer positions.
+12 
+To implement a customer cross- 
+margin program, FICC and CME, on 
+behalf of their joint BD–FCM members, 
+filed the Application for exemptive 
+relief from Section 15(c)(3) of the 
+Exchange Act and Rule 15c3–3
+13 
+thereunder under Section 36 of the 
+Exchange Act. Rule 15c3–3 under the 
+Exchange Act,
+14 the broker-dealer 
+customer protection rule, requires 
+broker-dealers that hold customer cash 
+and securities to treat these assets in a 
+manner that facilitates their prompt 
+return to the customers if the broker- 
+dealer fails financially. The goal of Rule 
+15c3–3 is to place a broker-dealer in a 
+position where it is able to wind down 
+in an orderly self-liquidation without 
+the need of financial assistance 
+provided by the Securities Investor 
+Protection Corporation (‘‘SIPC’’) through 
+a formal proceeding under the 
+Securities Investor Protection Act of 
+1970 (‘‘SIPA’’), or through proceedings 
+under subchapter III of Chapter 7 of the 
+U.S. Bankruptcy Code (i.e., the 
+stockbroker liquidation provisions).
+15 
+II. Summary of the Application and 
+Proposed Conditions 
+FICC and CME request that, pursuant 
+to Section 36 of the Exchange Act, the 
+Commission provide exemptive relief to 
+a firm that is a BD–FCM and a joint 
+clearing member of FICC and CME 
+(‘‘Eligible BD–FCMs’’) from Section 
+15(c)(3) of the Exchange Act and Rule 
+15c3–3 thereunder to permit Eligible 
+BD–FCMs to hold certain securities and 
+customer assets used to margin, secure, 
+or guarantee such positions in a ‘‘futures 
+account’’ as defined in CFTC Regulation 
+1.3 and subject to CEA Section 4d(a) 
+and (b) and related CFTC regulations 
+thereunder.
+16 As described in the 
+Application, the requested relief would 
+not apply to any transactions that are 
+not novated to FICC and any cash and 
+securities that have been received upon 
+final settlement of any such 
+transactions.
+17 
+In its Application, FICC and CME 
+state that they currently have in place a 
+cross-margining arrangement that allows 
+a joint clearing member to have the 
+initial margin requirements for certain 
+FICC-cleared Treasury securities and 
+certain CME-cleared Treasury and 
+interest rate futures contracts (together, 
+‘‘Eligible Positions’’) calculated in a way 
+that recognizes the risk offsets across 
+these positions (‘‘Proprietary XM 
+Arrangement’’).
+18 The Application 
+requests that customers of a firm that is 
+an Eligible BD–FCM (‘‘Eligible 
+Customers’’) be permitted to elect to 
+cross-margin for Eligible Positions 
+cleared by the Eligible BD–FCM at FICC 
+and at CME respectively. As described 
+in the Application, the participating 
+Eligible Customer (an ‘‘XM Customer’’) 
+would be able to designate Eligible 
+Positions that are securities (‘‘XM 
+Securities Positions’’) and associated 
+margin to be carried in a futures account 
+that also contains Eligible Positions that 
+are futures (together with XM Securities 
+Positions, the ‘‘XM Customer 
+Positions’’) and associated margin on 
+the books and records of an Eligible BD– 
+FCM and generally subject to the 
+requirements and protections of the 
+CEA and the CFTC regulations, rather 
+than in a securities account subject to 
+the Exchange Act and the rules 
+thereunder.
+19 The XM Customer 
+Positions and associated margin would 
+also, in the event of an Eligible BD– 
+FCM’s insolvency proceeding under 
+SIPA, be subject to subchapter IV of 
+Chapter 7 of the U.S. Bankruptcy Code 
+(i.e., the commodity broker liquidation 
+provisions) and the CFTC’s Part 190 
+regulations thereunder rather than SIPA 
+or subchapter III of Chapter 7 of the U.S. 
+Bankruptcy Code.
+20 
+In the Application, FICC and CME 
+describe the features of the ‘‘Proposed 
+Customer XM Framework,’’
+21 including 
+eligible positions, eligible participants, 
+margin calculation and collection, 
+account structure at the clearinghouse 
+and clearing member level, and default 
+management process.
+22 Further, FICC 
+and CME describe the treatment of XM 
+Customer Positions and associated 
+margin of an Eligible BD–FCM under 
+the CEA and CFTC regulations, and the 
+treatment of the XM Customer Positions 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00135 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4996 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+23 See section IV. of the Application. 
+24 See section V. of the Application. 
+25 See section V. of the Application. 
+26 See section VI. of the Application; see also 
+section III. of the Application for a description of 
+the features of the Proposed Customer Framework. 27 See section VI. of the Application. 
+28 See section VI. of the Application. 
+29 See, e.g., section V. of the Application; see also 
+supra note 25 and accompanying text in this Notice. 
+30 See note 27 and accompanying text in this 
+Notice. 
+and associated margin in the event of an 
+Eligible BD–FCM’s insolvency.23 
+FICC and CME also describe the 
+reasons that they believe support the 
+Commission finding that the requested 
+exemptive relief is consistent with 
+Section 36 of the Exchange Act.
+24 These 
+reasons described in detail in the 
+Application include: (1) aligning initial 
+margin requirements more closely with 
+the risk profile of the portfolio; (2) 
+incentivizing XM Customers to post 
+initial margin for XM Securities 
+Positions, rather than rely on their 
+clearing member to do so; (3) 
+incentivizing Eligible Customers to use 
+the same Eligible BD–FCMs for 
+securities and futures clearing and 
+therefore facilitate the development of 
+done-away clearing; and (4) ensure 
+robust protection of customer assets for 
+participating XM Customers.
+25 
+Finally, in the Application, FICC and 
+CME also propose certain conditions in 
+support of their request for exemptive 
+relief from Section 15(c)(3) of the 
+Exchange Act and Rule 15c3–3 
+thereunder for the ‘‘Proposed Customer 
+XM Framework.’’
+26 Specifically, in the 
+Application, FICC and CME propose 
+that: 
+• All money, securities, or property 
+received by an Eligible BD–FCM to 
+margin, guarantee, or secure XM 
+Customer Positions or accruing as a 
+result of such trades or contracts, and 
+held subject to the terms of a 
+Commission order shall be carried in a 
+futures account for or on behalf of the 
+XM Customers and shall be deemed to 
+have been received by the Eligible BD– 
+FCM and be accounted for and treated 
+and dealt with as belonging to the XM 
+Customers of the Eligible BD–FCM 
+consistent with CEA Section 4d(a)(2). 
+• Each Eligible BD–FCM shall enter 
+into a non-conforming subordination 
+agreement with each XM Customer prior 
+to the XM Customer’s participation in 
+cross-margining under the Proposed 
+Customer XM Framework, pursuant to 
+which the XM Customer shall 
+specifically agree and acknowledge that 
+(i) its XM Securities Positions and 
+associated FICC-held margin will not 
+receive customer treatment under the 
+Exchange Act or SIPA or be treated as 
+‘‘customer property’’ as defined in 11 
+U.S.C. 741 in a liquidation of the 
+Eligible BD–FCM; (ii) its XM Securities 
+Positions and associated FICC-held 
+margin will be subject to any applicable 
+protections under Subchapter IV of 
+Chapter 7 of Title 11 of the United 
+States Code and rules and regulations 
+thereunder; and (iii) claims to 
+‘‘customer property’’ as defined in SIPA 
+or 11 U.S.C. 741 against the Eligible BD– 
+FCM with respect to its XM Securities 
+Positions and associated FICC-held 
+margin will be subordinated to the 
+claims of all other customers, as the 
+term ‘‘customer’’ is defined in 11 U.S.C. 
+741 or SIPA.
+27 
+• Cross-margining shall be applied to 
+XM Customer Positions only if both the 
+Eligible Customer and its Eligible BD– 
+FCM agree to participate. 
+• Positions of an Eligible Customer 
+shall be eligible for cross-margining if 
+such positions are otherwise Eligible 
+Positions under the Proprietary XM 
+Arrangement, as the same may be 
+amended from time to time. 
+• Each of FICC and CME shall 
+calculate initial margin requirements for 
+XM Customer Positions on a gross basis 
+(i.e., customer-by-customer) using the 
+same margin reduction methodology as 
+used in the Proprietary XM 
+Arrangement. 
+• FICC and CME shall amend their 
+rulebooks as may be necessary to effect 
+the Proposed Customer XM Framework 
+and the terms of any Commission order. 
+• Each Eligible BD–FCM shall require 
+each of its XM Customers to deposit, at 
+a minimum, the aggregate amount of 
+initial margin required by each 
+clearinghouse in respect of the XM 
+Customer’s XM Customer Positions. 
+• Each Eligible BD–FCM must be in 
+compliance with applicable laws and 
+regulations relating to risk management, 
+capital, and liquidity, and must be in 
+compliance with applicable FICC and 
+CME rules and CFTC requirements 
+(including segregation and related books 
+and records provisions) for the futures 
+accounts in connection with the 
+Proposed Customer XM Framework. 
+• Before receiving any money, 
+securities, or property of an Eligible 
+Customer to margin, guarantee, or 
+secure XM Customer Positions in 
+connection with the Proposed Customer 
+XM Framework, the Eligible BD–FCM 
+must furnish to the Eligible Customer a 
+disclosure document containing (i) a 
+statement indicating that such money, 
+securities, or property will be held in an 
+futures account, and that the Eligible 
+Customer has elected to seek protections 
+under Subchapter IV of Chapter 7 of 
+Title 11 of the United States Code and 
+the rules and regulations thereunder 
+with respect to such property; and (ii) 
+a statement that the broker-dealer 
+segregation requirements of Section 
+15(c)(3) of the Exchange Act and the 
+rules thereunder, and any customer 
+protections under SIPA and the 
+stockbroker liquidation provisions, will 
+not apply to such money, securities, or 
+property of the Eligible Customer.
+28 
+III. Request for Comment 
+We request and encourage any 
+interested person to submit comments 
+regarding the Application, including 
+whether the Commission should grant 
+the request. In particular, we solicit 
+comment on the following questions: 
+1. Do commenters agree with FICC’s 
+and CME’s reasons described in the 
+Application
+29 in support of the 
+Commission finding that the exemptive 
+relief is consistent with Section 36 of 
+the Exchange Act? If so, why or why 
+not. 
+2. Are there other or alternative 
+conditions not outlined in the 
+Application that the Commission 
+should consider? If so, please describe 
+those conditions. 
+3. Does the proposed language 
+required in the non-conforming 
+subordination agreement
+30 achieve the 
+objectives of: (1) removing customers 
+participating in cross-margining under 
+the Proposed Customer XM Framework 
+from the definition of ‘‘customer’’ under 
+Rule 15c3–3, SIPA, and the stockbroker 
+liquidation provisions with respect to 
+securities or cash held in CFTC futures 
+accounts; (2) not undermining the 
+protections afforded to customers 
+participating in cross-margining under 
+the Proposed Customer XM Framework 
+under the rules of the CFTC, the CEA, 
+and commodity broker liquidation 
+provisions; and (3) not requiring 
+customers participating in cross- 
+margining under the Proposed Customer 
+XM Framework to subordinate their 
+claims, in the event that their customer 
+claims are not fully satisfied by the 
+distribution of assets held in their CFTC 
+futures accounts, to assets that may be 
+included in the debtor’s general estate? 
+Is there alternative language that would 
+be better to achieve these objectives? 
+4. Should the Commission consider 
+requiring FICC or CME to provide 
+Eligible BD–FCMs and their Eligible 
+Customers with the ability to select a 
+securities account as an alternative to a 
+CFTC futures account as a condition to 
+granting exemptive relief? 
+5. Should there be any limitations on 
+the type of customers that may 
+participate in cross-margining under the 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00136 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4997 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+1 15 U.S.C. 78s(b)(1). 
+2 17 CFR 240.19b–4. 
+3 Each capitalized term not otherwise defined 
+herein has its meaning as set forth in the Rules, By- 
+Laws and Organization Certificate of DTC (‘‘Rules’’), 
+available at www.dtcc.com/-/media/Files/ 
+Downloads/legal/rules/dtc_rules.pdf, or the DTC 
+Settlement Service Guide (‘‘Settlement Guide’’), 
+available at www.dtcc.com/-/media/Files/ 
+Downloads/legal/service-guides/Settlement.pdf. 
+4 See Securities Exchange Act Release No. 104484 
+(Dec. 22, 2025). 90 FR 61205 (Dec. 30, 2025) (File 
+No. SR–DTC–2025–019) (‘‘Notice of Filing’’) 
+5 A ‘‘central securities depository’’ means a 
+securities depository who: (1) acts as a custodian of 
+securities in connection with a system for the 
+central handling of securities whereby all securities 
+of a particular class or series of any issuer deposited 
+within the system are treated as fungible and may 
+be transferred, loaned, or pledged by bookkeeping 
+entry without physical delivery of securities 
+certificates; or, (2) otherwise permits or facilitates 
+the settlement of securities transactions or the 
+hypothecation or lending of securities without 
+physical delivery of securities certificates. See 17 
+CFR 240.17ad–22(a) (referencing the definition of 
+‘‘securities depository’’ described in Section 
+3(a)(23)(A) of the Act,15 U.S.C. 78c(a)(23)(A)). 
+6 ‘‘Delivery Versus Payment’’ means a Delivery 
+against a settlement debit to the Account of the 
+Receiver See Rule 1, supra note 3 (definitionof 
+‘‘Delivery Versus Payment’’). See also The 
+Depository Trust Company, Disclosure Framework 
+for Covered Clearing Agencies and Financial Market 
+Infrastructures (Mar. 2023) (‘‘Disclosure 
+Framework’’), at 18, available at https://
+www.dtcc.com/-/media/Files/Downloads/legal/ 
+policy-and-compliance/DTC_Disclosure_
+Framework.pdf. 
+7 See Disclosure Framework, supra note 6, at 61; 
+Notice of Filing, supra note 4, at 61205. 
+8 See Disclosure Framework, supra note 6,. at 12. 
+9 Notice of Filing, supra note 4, at 61205. A 
+Participant’s collateral refers to the sum of (i) the 
+Actual Participants Fund Deposit of the Participant, 
+(ii) the Actual Preferred Stock Investment of a 
+Participant, (iii) all Net Additions of the Participant 
+and (iv) any SPP wired by the Participant to the 
+Corporation. See Rule 1, supra note 3 (definition of 
+‘‘Collateral’’). 
+10 See Notice of Filing, supra note 4, at 61205– 
+61206 
+Proposed Customer XM Framework as a 
+condition to granting exemptive relief? 
+If so, what type of limitation(s)? If not, 
+why not? 
+6. Would the exemption requested in 
+the Application have a competitive 
+impact—either positive or negative—on 
+broker-dealers and their customers in 
+the context of clearing for U.S. Treasury 
+securities? What would be the potential 
+benefits and costs of the exemption? 
+Would the exemption and conditions 
+impact investor protection? If so, what 
+would those impacts be? 
+7. Should the Commission consider 
+broadening the exemptive relief 
+requested by FICC and CME to be 
+available to any clearing agency and 
+DCO and their joint clearing members 
+with a cross-margining program that 
+meets the conditions of an exemptive 
+order? Why or why not? 
+8. If the exemptive relief was 
+broadened, how would the conditions 
+proposed by FICC and CME in the 
+Application be modified? 
+Comments should be received on or 
+before March 5, 2026. Comments may be 
+submitted by any of the following 
+methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (http://www.sec.gov/ 
+rules/other.shtml); or 
+• Send an email to rule-comments@
+sec.gov. Please include File Number S7– 
+2026–03 on the subject line. 
+Paper Comments 
+• Send paper comments to Secretary, 
+Securities and Exchange Commission, 
+100 F Street NE, Washington, DC 
+20549–1090. 
+All submissions should refer to File 
+Number S7–2026–03. This file number 
+should be included on the subject line 
+if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method of submission. The 
+Commission will post all comments on 
+the Commission’s internet website 
+(http://www.sec.gov/rules/other.shtml). 
+Do not include personal identifiable 
+information in submissions; you should 
+submit only information that you wish 
+to make available publicly. We may 
+redact in part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. 
+For further information, you may 
+contact Michael A. Macchiaroli, 
+Associate Director; Raymond A. 
+Lombardo, Assistant Director; Sheila 
+Dombal Swartz, Senior Special Counsel; 
+or Nina Kostyukovsky, Special Counsel 
+at (202) 551–5500, Office of Broker- 
+Dealer Finances, Division of Trading 
+and Markets, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549–7010. 
+By the Commission. 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02177 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104740; File No. SR–DTC– 
+2025–019] 
+Self-Regulatory Organizations; The 
+Depository Trust Company; Order 
+Approving Proposed Rule Change To 
+Modify the DTC Settlement Service 
+Guide and DTC Rules as They Relate 
+to the DTC Net Debit Cap 
+January 29, 2026. 
+I. Introduction 
+On December 18, 2025, the Depository 
+Trust Company (‘‘DTC’’) filed with the 
+Securities and Exchange Commission 
+(‘‘Commission’’) proposed rule change 
+SR–DTC–2025–019, pursuant to Section 
+19(b)(1) of the Securities Exchange Act 
+of 1934 (‘‘Act’’)
+1 and Rule 19b–4 
+thereunder.2 The Proposed Rule Change 
+would modify the DTC Settlement 
+Service Guide (‘‘Settlement Guide’’) and 
+the Rules, By-Laws and Organization 
+Certificate of DTC (‘‘Rules’’)
+3 regarding 
+how DTC sets its maximum debit caps 
+for Participants, Unaffiliated 
+Participants, and Affiliated Families, as 
+well as other corresponding changes. 
+The Proposed Rule Change was 
+published for comment in the Federal 
+Register on December 30, 2025.
+4 The 
+Commission has received no comments 
+on the changes proposed. 
+For the reasons discussed below, the 
+Commission is approving the Proposed 
+Rule Change. 
+II. Background 
+DTC serves as a central securities 
+depository
+5 and operates a securities 
+settlement system. DTC’s activities 
+include holding securities in physical or 
+dematerialized form, maintaining 
+securities accounts for Participants, 
+providing central safekeeping and asset 
+services, transfers and pledges of 
+securities, and the settlement of 
+transactions by book entry (free of 
+payment or DVP).
+6 DTC’s liquidity risk 
+management strategy is designed to 
+facilitate its maintenance of sufficient 
+liquid resources to complete settlement 
+each Business Day.
+7 To that end, DTC 
+uses certain risk management controls, 
+including its Collateral Monitor and Net 
+Debit Cap, to protect its settlement 
+system in the event of a Participant 
+default, by ensuring that at any time the 
+settlement obligation of any Participant 
+will be fully collateralized and that the 
+amount to be settled cannot exceed 
+DTC’s liquidity resources.
+8 
+Collateral Monitor. The Collateral 
+Monitor is a calculation by which DTC 
+measures the sufficiency of the 
+Collateral in a Participant’s account to 
+cover its net settlement obligation.
+9 The 
+Collateral Monitor prevents the 
+completion of transactions that would 
+cause a Participant’s Net Debit Balance 
+to exceed the value of Collateral in its 
+account.
+10 The settlement obligation of 
+each Participant must be fully 
+collateralized, based on the Collateral 
+Monitor. This is designed so that if a 
+Participant fails to pay for its settlement 
+obligation, DTC will have sufficient 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00137 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
