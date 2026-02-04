@@ -1,0 +1,55 @@
+--- sources/cftc-press-releases-20260203T214312Z.html	2026-02-03 13:43:12.647566514 -0800
++++ sources/cftc-press-releases-20260204T180824Z.html	2026-02-04 10:08:24.598715045 -0800
+@@ -391,7 +391,7 @@
+                       
+                                 <a id="main-content"></a>
+               <div class="region region-content">
+-      <div class="views-element-container form-group"><div class="view view-press-releases view-id-press_releases view-display-id-page_1 js-view-dom-id-53b5d9c5eca4698e54c9de665030135ebe5d597787b36f28aceb971b2ae15920">
++      <div class="views-element-container form-group"><div class="view view-press-releases view-id-press_releases view-display-id-page_1 js-view-dom-id-707b2b8cf7dcdf833e7eed0e675085f2983ffe619ef8f2e91633796ff98268b2">
+   
+     
+       <div class="view-header">
+@@ -512,6 +512,11 @@
+     </thead>
+     <tbody>
+       <tr>
++                                                                      <td class="priority-low views-field views-field-field-date" headers="view-field-date-table-column"><time datetime="2026-02-04T17:29:18Z">02/04/2026</time>
++        </td>
++                                                                      <td class="priority-low views-field views-field-field-pdf-link" headers="view-field-pdf-link-table-column"><a href="/PressRoom/PressReleases/9179-26" hreflang="en">CFTC Withdraws Event Contracts Rule Proposal and Staff Sports Event Contracts Advisory</a> , 9179-26        </td>
++          </tr>
++      <tr>
+                                                                       <td class="priority-low views-field views-field-field-date" headers="view-field-date-table-column"><time datetime="2026-02-02T21:13:32Z">02/02/2026</time>
+         </td>
+                                                                       <td class="priority-low views-field views-field-field-pdf-link" headers="view-field-pdf-link-table-column"><a href="/PressRoom/PressReleases/9178-26" hreflang="en">Texas Resident to Pay Over $14 million for Misappropriation of Confidential Information, Illegal Kickbacks</a> , 9178-26        </td>
+@@ -691,11 +696,6 @@
+         </td>
+                                                                       <td class="priority-low views-field views-field-field-pdf-link" headers="view-field-pdf-link-table-column"><a href="/PressRoom/PressReleases/9143-25" hreflang="en">Acting Chairman Pham Announces CFTC Interpretation to Unlock Over $22 Billion of Collateral and Promote American Competitiveness</a> , 9143-25        </td>
+           </tr>
+-      <tr>
+-                                                                      <td class="priority-low views-field views-field-field-date" headers="view-field-date-table-column"><time datetime="2025-11-25T17:28:18Z">11/25/2025</time>
+-        </td>
+-                                                                      <td class="priority-low views-field views-field-field-pdf-link" headers="view-field-pdf-link-table-column"><a href="/PressRoom/PressReleases/9142-25" hreflang="en">Acting Chairman Caroline D. Pham Seeks Nominations for CFTC CEO Innovation Council by December 8</a> , 9142-25        </td>
+-          </tr>
+     </tbody>
+ </table>
+   </div>
+@@ -774,7 +774,7 @@
+         </li>
+       
+                   <li class="pager__item pager__item--last">
+-        <a href="?page=143" title="Go to last page" rel="last">
++        <a href="?page=144" title="Go to last page" rel="last">
+           <span class="visually-hidden">Last page</span>
+           <span aria-hidden="true">Last »</span>
+         </a>
+@@ -883,8 +883,8 @@
+ <script src="/sites/default/files/js/js_gHMyHj_ia2YPdOyimowewA1hoh_nkIcXFY7JQ8AQWus.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cftc&amp;include=eJxVjlEKwzAMQy-UNUcKqaMysxAb2-1gp1-grNv-np6Q8SoSHlY1rx8qaig8ONKlsorKAfsxIdKDNdEW9N3enIw1_NRUTXZHP9MEUPALiR5oHGKlEok1lpEvWjaTERgtTYHcbNfal6hrh8FVhvOBNF90LzYvVkc5GE8vd3SF5b_qDfzVWQk"></script>
+ <script src="https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.8/dist/js/bootstrap.min.js" integrity="sha256-3XV0ZwG+520tCQ6I0AOlrGAFpZioT/AyPuX0Zq2i8QY=" crossorigin="anonymous"></script>
+ <script src="/sites/default/files/js/js_ZPiKIqW4y5ONcZilGFUHQ0DnTu7WuT69qYK3qO-YRfQ.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cftc&amp;include=eJxVjlEKwzAMQy-UNUcKqaMysxAb2-1gp1-grNv-np6Q8SoSHlY1rx8qaig8ONKlsorKAfsxIdKDNdEW9N3enIw1_NRUTXZHP9MEUPALiR5oHGKlEok1lpEvWjaTERgtTYHcbNfal6hrh8FVhvOBNF90LzYvVkc5GE8vd3SF5b_qDfzVWQk"></script>
+-<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t9w3m2"></script>
++<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t9y2j9"></script>
+ <script src="/sites/default/files/js/js_9_pACt_ET5gLuCFzOURaj0U-UWHtbv8cca7GS4Slcx8.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=cftc&amp;include=eJxVjlEKwzAMQy-UNUcKqaMysxAb2-1gp1-grNv-np6Q8SoSHlY1rx8qaig8ONKlsorKAfsxIdKDNdEW9N3enIw1_NRUTXZHP9MEUPALiR5oHGKlEok1lpEvWjaTERgtTYHcbNfal6hrh8FVhvOBNF90LzYvVkc5GE8vd3SF5b_qDfzVWQk"></script>
+ 
+-  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9c851a3ffe98ad1b',t:'MTc3MDE1NDk5Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
++  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9c8c1cf9af5b8dd6',t:'MTc3MDIyODUwNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+ </html>
