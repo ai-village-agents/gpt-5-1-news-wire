@@ -1,0 +1,1044 @@
+4975 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+6 Id. 
+7 17 CFR 200.30–3(a)(31). 
+1 15 U.S.C. 78s(b)(1). 
+2 17 CFR 240.19b–4. 
+3 Capitalized terms used herein and not defined 
+shall have the meaning assigned to such terms in 
+the FICC Government Securities Division (‘‘GSD’’) 
+Rulebook (‘‘GSD Rules’’), available at 
+www.dtcc.com/legal/rules-and-procedures. 
+4 The QRM Methodology Document was filed as 
+a confidential exhibit in the rule filing and advance 
+notice for GSD sensitivity VaR. See Securities 
+Exchange Act Release Nos. 83362 (June 1, 2018), 83 
+FR 26514 (June 7, 2018) (SR–FICC–2018–001) and 
+83223 (May 11, 2018), 83 FR 23020 (May 17, 2018) 
+(SR–FICC–2018–801). The QRM Methodology 
+Document has been subsequently amended. See 
+Securities Exchange Act Release Nos. 85944 (May 
+24, 2019), 84 FR 25315 (May 31, 2019) (SR–FICC– 
+2019–001), 90182 (Oct. 14, 2020), 85 FR 66630 (Oct. 
+20, 2020) (SR–FICC–2020–009), 93234 (Oct. 1, 
+2021), 86 FR 55891 (Oct. 7, 2021) (SR–FICC–2021– 
+007), 95605 (Aug. 25, 2022), 87 FR 53522 (Aug. 31, 
+2022) (SR–FICC–2022–005), 97342 (Apr. 21, 2023), 
+88 FR 25721 (Apr. 27, 2023) (SR–FICC–2023–003), 
+99447 (Jan. 30, 2024), 89 FR 8260 (Feb. 6, 2024) 
+(SR–FICC–2024–001), 101569 (Nov. 8, 2024), 89 FR 
+90109 (Nov. 14, 2024) (SR–FICC–2024–003), and 
+104116 (Sept. 29, 2025), 90 FR 47437 (Oct. 1, 2025) 
+(SR–FICC–2025–018). 
+5 17 CFR 240.24b–2. 
+6 See GSD Rule 4 (Clearing Fund and Loss 
+Allocation), supra note 3. FICC’s market risk 
+management strategy is designed to comply with 
+Rule 17ad–22(e)(4) under the Act, where these risks 
+are referred to as ‘‘credit risks.’’ 17 CFR 240.17ad– 
+22(e)(4). 
+7 The GSD Rules identify when FICC may cease 
+to act for a Member and the types of actions FICC 
+may take. For example, FICC may suspend a firm’s 
+membership with FICC or prohibit or limit a 
+Member’s access to FICC’s services in the event that 
+Member defaults on a financial or other obligation 
+to FICC. See GSD Rule 21 (Restrictions on Access 
+to Services), supra note 3. 
+8 See GSD Rule 3A (Sponsoring Members and 
+Sponsored Members), supra note 3. 
+9 See GSD Rule 1 (definition of ‘‘Sponsored 
+Member Trades’’), supra note 3. 
+10 See GSD Rule 8 (Agent Clearing Service), supra 
+note 3. 
+In order to provide the Commission 
+with sufficient time to consider the 
+Proposed Rule Change, the Commission 
+finds that it is appropriate to designate 
+a longer period within which to take 
+action on the Proposed Rule Change. 
+Accordingly, the Commission, 
+pursuant to Section 19(b)(2) of the 
+Exchange Act,
+6 designates April 13, 
+2026, as the date by which the 
+Commission shall either approve, 
+disapprove, or institute proceedings to 
+determine whether to disapprove the 
+Proposed Rule Change. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.7 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02118 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104735; File No. SR–FICC– 
+2026–002] 
+Self-Regulatory Organizations; Fixed 
+Income Clearing Corporation; Notice of 
+Filing of Proposed Rule Change To 
+Enhance the Correlation Calculation 
+for Bond Haircut Models and Make 
+Other Changes 
+January 29, 2026. 
+Pursuant to Section 19(b)(1) of the 
+Securities Exchange Act of 1934 
+(‘‘Act’’)
+1 and Rule 19b–4 thereunder,2 
+notice is hereby given that on January 
+27, 2026, Fixed Income Clearing 
+Corporation (‘‘FICC’’) filed with the 
+Securities and Exchange Commission 
+(‘‘Commission’’) the proposed rule 
+change as described in Items I, II and III 
+below, which Items have been prepared 
+by the clearing agency. The Commission 
+is publishing this notice to solicit 
+comments on the proposed rule change 
+from interested persons. 
+I. Clearing Agency’s Statement of the 
+Terms of Substance of the Proposed 
+Rule Change 
+The proposed rule change
+3 consists of 
+amendments to the Methodology 
+Document—GSD Initial Market Risk 
+Margin Model (‘‘QRM Methodology 
+Document’’)
+4 in order to enhance the 
+correlation calculation for bond haircut 
+models. In addition, FICC is proposing 
+a technical change to the QRM 
+Methodology Document. 
+FICC is requesting confidential 
+treatment of the QRM Methodology 
+Document and has filed it separately 
+with the Secretary of the Commission.
+5 
+II. Clearing Agency’s Statement of the 
+Purpose of, and Statutory Basis for, the 
+Proposed Rule Change 
+In its filing with the Commission, the 
+clearing agency included statements 
+concerning the purpose of and basis for 
+the proposed rule change and discussed 
+any comments it received on the 
+proposed rule change. The text of these 
+statements may be examined at the 
+places specified in Item IV below. The 
+clearing agency has prepared 
+summaries, set forth in sections A, B, 
+and C below, of the most significant 
+aspects of such statements. 
+(A) Clearing Agency’s Statement of the 
+Purpose of, and Statutory Basis for, the 
+Proposed Rule Change 
+1. Purpose 
+The purpose of this proposed rule 
+change is to amend the QRM 
+Methodology Document in order to 
+enhance the correlation calculation for 
+bond haircut models. FICC is also 
+proposing to make a technical change to 
+the QRM Methodology Document. 
+Background 
+FICC, through GSD, serves as a central 
+counterparty and provider of clearance 
+and settlement services for transactions 
+in U.S. government securities, as well as 
+repurchase and reverse repurchase 
+transactions involving U.S. government 
+securities. GSD also clears and settles 
+certain transactions on securities issued 
+or guaranteed by U.S. government 
+agencies and government sponsored 
+enterprises. As part of its market risk 
+management strategy, FICC manages its 
+credit exposure to Members by 
+determining the appropriate Required 
+Fund Deposit to the Clearing Fund and 
+monitoring its sufficiency, as provided 
+for in the GSD Rules.
+6 The Required 
+Fund Deposit serves as each Member’s 
+margin. 
+The objective of a Member’s Required 
+Fund Deposit is to mitigate potential 
+losses to FICC associated with 
+liquidating a Member’s portfolio in the 
+event FICC ceases to act for that Member 
+(hereinafter referred to as a ‘‘default’’).
+7 
+The aggregate amount of all Members’ 
+Required Fund Deposits constitutes the 
+Clearing Fund. FICC would access the 
+Clearing Fund should a defaulting 
+Member’s own Required Fund Deposit 
+be insufficient to satisfy losses to FICC 
+caused by the liquidation of that 
+Member’s portfolio. 
+At GSD, each Member is also 
+responsible for the margin obligations 
+arising from the activity of the Member’s 
+indirect participant customers 
+submitted to FICC via the sponsored 
+membership service (‘‘Sponsored 
+Service’’) and/or the Agent Clearing 
+Service. FICC’s Sponsored Service 
+permits Members that are approved to 
+be Sponsoring Members, to sponsor 
+certain institutional firms, referred to as 
+‘‘Sponsored Members,’’ into GSD 
+membership.
+8 FICC establishes and 
+maintains a ‘‘Sponsoring Member 
+Omnibus Account’’ on its books in 
+which it records the transactions of the 
+Sponsoring Member’s Sponsored 
+Members (‘‘Sponsored Member 
+Trades’’).
+9 Similarly, FICC’s Agent 
+Clearing Service permits Members that 
+are approved to be Agent Clearing 
+Members to submit activities of certain 
+institutional firms, referred to as 
+‘‘Executing Firm Customers,’’ into FICC 
+for clearing and settlement.
+10 FICC 
+establishes and maintains an ‘‘Agent 
+Clearing Member Omnibus Account’’ on 
+its books in which it records the 
+transactions of the Agent Clearing 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00115 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4976 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+11 See GSD Rule 1 (definition of ‘‘Agent Clearing 
+Transactions’’), supra note 3. 
+12 See GSD Margin Component Schedule, supra 
+note 3. 
+13 Supra note 3. 
+14 These margin components and the relevant 
+defined terms are located in GSD Rule 1 
+(Definitions) and/or the GSD Margin Component 
+Schedule, supra note 3. 
+15 During the initial methodology development, 
+the overall impact to the haircut charge due to 
+correlations was expected to be limited. 
+Consequently, when vendor index data is 
+unavailable, correlations for Treasury 0–6 months, 
+Treasury 6–12 months, and TIPS 0–12 months 
+maturity buckets are set to zero. The decision to set 
+such correlations to zero is intended to provide a 
+clear and consistent framework for margin 
+calculation, pending the availability of reliable 
+index data from external vendors. 
+16 FICC can deploy Margin Proxy as a back-up 
+VaR Charge calculation in the event that FICC 
+experiences a data disruption with its third-party 
+vendor. See GSD Margin Component Schedule 
+(definition of ‘‘Margin Proxy’’), supra note 3. 
+Member’s Executing Firm Customers 
+(‘‘Agent Clearing Transactions’’).11 
+Both the Sponsoring Members and the 
+Agent Clearing Members have the 
+option of segregating Sponsored 
+Member Trades of a Sponsored Member 
+and Agent Clearing Transactions of an 
+Executing Firm Customer, as applicable, 
+in separate accounts (i.e., Segregated 
+Indirect Participants Accounts), each 
+such Sponsored Member and Executing 
+Firm Customer being referred to as a 
+‘‘Segregated Indirect Participant.’’ FICC 
+manages its credit exposure to 
+Segregated Indirect Participants by 
+determining the appropriate Segregated 
+Customer Margin Requirement and 
+monitoring its sufficiency, as provided 
+for in the GSD Rules.
+12 
+Pursuant to the GSD Rules, each 
+Member’s Required Fund Deposit 
+amount (and Segregated Customer 
+Margin Requirement amount, to the 
+extent applicable) consists of a number 
+of components, each of which is 
+calculated to address specific risks faced 
+by FICC, as identified within the GSD 
+Rules.
+13 At GSD, these components 
+include the VaR Charge, Blackout 
+Period Exposure Adjustment, 
+Backtesting Charge, Excess Capital 
+Premium, Holiday Charge, Intraday 
+Supplemental Fund Deposit, Intraday 
+Mark-to-Market Charge, Margin 
+Liquidity Adjustment Charge, Portfolio 
+Differential Charge, Volatility Event 
+Charge, and special charge.
+14 The VaR 
+Charge generally comprises the largest 
+portion of a Member’s Required Fund 
+Deposit and Segregated Customer 
+Margin Requirement amounts. 
+The VaR Charge is based on the 
+potential price volatility of unsettled 
+positions using a sensitivity-based 
+Value-at-Risk (‘‘sensitivity VaR’’) 
+methodology and is designed to cover 
+FICC’s projected liquidation losses with 
+respect to a defaulted Member’s 
+portfolio at a 99% confidence level. The 
+sensitivity VaR methodology provides 
+an estimate of the possible losses for a 
+given portfolio based on: (1) confidence 
+level, (2) a time horizon, and (3) 
+historical market volatility. FICC uses 
+historical simulation to estimate the 
+impact of market volatilities on the 
+Member’s portfolio. A haircut method is 
+applied to securities with insufficient 
+requisite data used to employ the 
+sensitivity VaR approach, e.g., short- 
+term bonds. 
+Enhancing the Correlation Calculation 
+for Bond Haircut Models 
+The QRM Methodology Document 
+provides the methodologies by which 
+FICC calculates the VaR Charge, i.e., 
+sensitivity VaR methodology and 
+haircut methodology. Specifically, the 
+QRM Methodology Document provides 
+model inputs, parameters, and 
+assumptions, among other information, 
+for these methodologies. 
+Pursuant to the QRM Methodology 
+Document, all short-term bonds (i.e., 
+bonds with maturity of one-year or less) 
+(including Treasury Inflation Protected 
+Securities (‘‘TIPS’’)) and bonds with no 
+vendor provided sensitivity analytics 
+data are subject to a haircut calculation. 
+The haircut charges are calculated by 
+placing the bonds into relevant maturity 
+buckets, using correlations to account 
+for cross-bucket effects. The correlations 
+are calculated based on fixed income 
+indices provided by a designated 
+vendor. However, because the 
+designated vendor does not currently 
+provide index data for Treasury 0–6 
+months, Treasury 6–12 months, and 
+TIPS 0–12 months maturity buckets, the 
+correlations involving any of these three 
+maturity buckets are manually set by 
+FICC to zero.
+15 Setting the correlation to 
+zero for Treasury 0–6 months, Treasury 
+6–12 months, and TIPS 0–12 months 
+maturity buckets may result in 
+understated haircut charges. This is 
+particularly true for directional 
+portfolios with securities in adjacent 
+maturity buckets, for example, one bond 
+with 5 months to maturity and another 
+with 7 months to maturity, because 
+historical evidence shows short-term 
+maturity buckets are substantially 
+intercorrelated. To strengthen FICC’s 
+assessment of market risk for portfolios 
+with bond positions in maturity buckets 
+where the designated vendor does not 
+provide index data, FICC proposes to 
+enhance the correlation calculation for 
+bond haircut models by permitting the 
+use of index data from an alternate 
+vendor in such cases. 
+FICC is proposing modifications to 
+the QRM Methodology Document in 
+order to enhance the correlation 
+calculation for bond haircut models. 
+Specifically, in the subsection of the 
+QRM Methodology Document that 
+describes calculation of haircut of 
+Treasury and agency bonds without 
+sensitivity analytics data, FICC would 
+delete existing language regarding 
+correlation parameter alternatives and 
+replace it with new language to make it 
+clear that, for fixed income indices not 
+provided by the designated vendor, 
+FICC may use data from another vendor 
+to calculate the correlation. In addition, 
+FICC would delete existing language 
+that describes the current practice of 
+assuming zero correlation for certain 
+maturity buckets of short-term bonds. 
+Furthermore, FICC is also proposing a 
+technical change that corrects a section 
+reference. 
+Impact Study 
+FICC performed an impact study for 
+the period beginning September 1, 2024 
+through August 31, 2025 (‘‘Impact Study 
+Period’’), looking at Treasury 0–6 
+months, Treasury 6–12 months, and 
+TIPS 0–12 months maturity buckets 
+with a different correlation number than 
+zero calculated based on index data 
+provided by an alternate vendor. If the 
+proposed rule change had been in place 
+during the Impact Study Period 
+compared to the existing GSD Rules, the 
+average increase to the aggregate VaR 
+Charges at GSD would be approximately 
+$46 million (or 0.09%), with the largest 
+increase of approximately $85 million 
+(or 0.15%). The impact study indicated 
+that, if the proposed rule change had 
+been in place, the VaR model 
+backtesting coverage would have 
+remained unchanged at 99.85%. 
+Margin Proxy was not deployed 
+during the Impact Study Period;
+16 
+however, if the proposed rule change 
+had been in place and Margin Proxy 
+were deployed during the Impact Study 
+Period, the average increase to the 
+aggregate VaR Charges at GSD would be 
+approximately $88 million (or 0.16%), 
+with the largest increase of 
+approximately $163 million (or 0.38%). 
+The impact study indicated that, if the 
+proposed rule change had been in place 
+and Margin Proxy were deployed during 
+the Impact Study Period, the VaR model 
+backtesting coverage would have 
+remained unchanged at 99.92%. 
+Impact to Members Over the Impact 
+Study Period 
+If the proposed rule change had been 
+in place during the Impact Study Period 
+compared to the existing GSD Rules, on 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00116 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4977 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+17 15 U.S.C. 78q–1(b)(3)(F). 
+18 17 CFR 240.17ad–22(e)(4)(i) and (e)(6)(i). 
+19 15 U.S.C. 78q–1(b)(3)(F). 
+20 Id. 
+21 Id. 
+22 17 CFR 240.17ad–22(e)(4)(i) and (e)(6)(i). 
+23 17 CFR 240.17ad–22(e)(4)(i). 
+24 Id. 
+25 17 CFR 240.17ad–22(e)(6)(i). 
+average, at the Member Margin Portfolio 
+level, the proposed rule change would 
+have increased the start of day (‘‘SOD’’) 
+VaR Charge by approximately $0.22 
+million, or 0.09%, over the Impact 
+Study Period. The largest average 
+percentage increase in SOD VaR Charge 
+for any Member Margin Portfolio would 
+have been approximately 14.52%, or 
+$0.38 million. The largest average dollar 
+increase in SOD VaR Charge for any 
+Member Margin Portfolio would have 
+been approximately $5.91 million, or 
+0.79%. 
+If the proposed rule change had been 
+in place and Margin Proxy were 
+deployed during the Impact Study 
+Period, on average, at the Member 
+Margin Portfolio level, the proposed 
+rule change would have increased the 
+SOD VaR Charge by approximately 
+$0.42 million, or 0.16% over the Impact 
+Study Period. The largest average 
+percentage increase in SOD VaR Charge 
+for any Member Margin Portfolio would 
+have been approximately 23.18%, or 
+$0.59 million. The largest average dollar 
+increase in SOD VaR Charge for any 
+Member Margin Portfolio would have 
+been approximately $17.35 million, or 
+0.34%. 
+2. Statutory Basis 
+FICC believes this proposal is 
+consistent with the requirements of the 
+Act, and the rules and regulations 
+thereunder applicable to a registered 
+clearing agency. Specifically, FICC 
+believes that the proposed rule change 
+is consistent with Section 17A(b)(3)(F) 
+of the Act
+17 and Rules 17ad–22(e)(4)(i) 
+and (e)(6)(i) promulgated thereunder 18 
+for the reasons described below. 
+Section 17A(b)(3)(F) of the Act 
+requires that the rules of a clearing 
+agency be designed to, among other 
+things, assure the safeguarding of 
+securities and funds which are in the 
+custody or control of the clearing 
+agency.
+19 FICC believes the proposed 
+change to enhance the correlation 
+calculation for bond haircut models is 
+designed to assure the safeguarding of 
+securities and funds which are in its 
+custody or control because it is designed 
+to mitigate FICC’s risk exposure from 
+bond positions held in Members’ 
+portfolios. Specifically, the proposed 
+enhancement would allow FICC to 
+collect financial resources to mitigate 
+credit risk exposure resulting from 
+bonds held in Members’ portfolios. 
+The Clearing Fund/Segregated 
+Customer Margin is a key tool that FICC 
+uses to mitigate potential losses to FICC 
+associated with liquidating a Member’s 
+portfolio in the event of Member 
+default. Therefore, the proposed change 
+to enhance the correlation calculation 
+for bond haircut models would enable 
+FICC to better address credit risk 
+exposure resulting from bonds held in 
+Members’ portfolios such that, in the 
+event of a Member default, FICC’s 
+operations would not be disrupted, and 
+non-defaulting Members would not be 
+exposed to losses they cannot anticipate 
+or control. In this way, the proposed 
+change to enhance the correlation 
+calculation for bond haircut models 
+would assure the safeguarding of 
+securities and funds which are in the 
+custody or control of FICC, consistent 
+with Section 17A(b)(3)(F) of the Act.
+20 
+FICC believes the proposed change to 
+make a technical change to the QRM 
+Methodology Document would enhance 
+the accuracy of the QRM Methodology 
+Document for FICC. The QRM 
+Methodology Document is used by FICC 
+risk management personnel for the 
+calculation of margin requirements. 
+Having an accurate QRM Methodology 
+Document will help facilitate the 
+accurate and smooth functioning of the 
+margining process at FICC. The 
+proposed technical change would 
+promote such accuracy. This would in 
+turn enable FICC risk management to 
+assess an appropriate level of margin for 
+Members. As such, FICC believes that 
+the proposed technical change to the 
+QRM Methodology Document would 
+assure the safeguarding of securities and 
+funds which are in the custody or 
+control of FICC, consistent with Section 
+17A(b)(3)(F) of the Act.
+21 
+The proposed change to enhance the 
+correlation calculation for bond haircut 
+models has also been designed to be 
+consistent with Rules 17ad–22(e)(4)(i) 
+and (e)(6)(i) under the Act.
+22 Rule 17ad– 
+22(e)(4)(i) under the Act requires a 
+covered clearing agency to establish, 
+implement, maintain, and enforce 
+written policies and procedures 
+reasonably designed to effectively 
+identify, measure, monitor, and manage 
+its credit exposures to participants and 
+those exposures arising from its 
+payment, clearing, and settlement 
+processes by maintaining sufficient 
+financial resources to cover its credit 
+exposure to each participant fully with 
+a high degree of confidence.
+23 As 
+described above, the proposed change to 
+permit the use of index data from an 
+alternate vendor when the designated 
+vendor does not provide such data 
+would enhance the correlation 
+calculation for bond haircut models, 
+which in turn would help address the 
+identification, measurement, monitoring 
+and management of credit exposures 
+that may arise from bonds held in 
+Members’ portfolios. By enhancing the 
+correlation calculation for bond haircut 
+models, the proposed change would 
+enable FICC to have rule provisions that 
+are reasonably designed to effectively 
+identify, measure, monitor, and manage 
+its credit exposures to Members and 
+those exposures arising from its 
+payment, clearing, and settlement 
+processes, which FICC believes is 
+consistent with Rule 17ad–22(e)(4)(i). 
+Moreover, the proposed change would 
+enable FICC to better identify, measure, 
+monitor, and, through the collection of 
+Members’ Required Fund Deposits and 
+Segregated Customer Margin 
+Requirements, manage its credit 
+exposures to Members by maintaining 
+sufficient resources to cover those credit 
+exposures fully with a high degree of 
+confidence. The proposed correlation 
+calculation change for bond haircut 
+models as described above would help 
+improve FICC’s ability to determine the 
+appropriate bond haircut charges, thus 
+ensuring Members’ portfolio risks are 
+adequately identified, measured and 
+monitored. It would help ensure that the 
+margin FICC collects from Members is 
+sufficient to mitigate the credit exposure 
+presented by the Members. As a result, 
+FICC believes that the proposal would 
+enhance FICC’s ability to effectively 
+identify, measure, and monitor its credit 
+exposures and would enhance its ability 
+to maintain sufficient financial 
+resources to cover its credit exposure to 
+each participant fully with a high degree 
+of confidence, consistent with the 
+requirements of Rule 17ad–22(e)(4)(i) 
+under the Act.
+24 
+Rule 17ad–22(e)(6)(i) under the Act 
+requires, among other things, a covered 
+clearing agency to establish, implement, 
+maintain, and enforce written policies 
+and procedures reasonably designed to 
+cover its credit exposures to its 
+participants by establishing a risk-based 
+margin system that, at a minimum, 
+considers, and produces margin levels 
+commensurate with, the risks and 
+particular attributes of each relevant 
+product, portfolio, and market.
+25 FICC 
+believes that the proposed change to 
+enhance the correlation calculation for 
+bond haircut models is consistent with 
+the requirements of Rule 17ad– 
+22(e)(6)(i) cited above. The Required 
+Fund Deposits and Segregated Customer 
+Margin Requirements are comprised of 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00117 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4978 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+26 Id. 
+27 15 U.S.C. 78q–1(b)(3)(F). 
+28 17 CFR 240.17ad–22(e)(4)(i) and (e)(6)(i). 
+29 Id. 30 15 U.S.C. 78q–1(b)(3)(I). 
+risk-based components (as margin) that 
+are calculated and assessed daily to 
+limit FICC’s credit exposures to 
+Members. FICC is proposing a change 
+that is designed to make the bond 
+haircut models more effective in 
+measuring and addressing credit risk. 
+The proposed change to the correlation 
+calculation for bond haircut models 
+would help to ensure margin levels are 
+commensurate with the risk exposure 
+that arises from bonds held in Members’ 
+portfolios. It would also help ensure the 
+margin that FICC collects from Members 
+is sufficient to mitigate the credit 
+exposure presented by the Members. 
+Overall, this proposed change would 
+allow FICC to more effectively address 
+the risks presented by Members. In this 
+way, the proposed change to the 
+correlation calculation for bond haircut 
+models would enhance the ability of 
+FICC to produce margin levels 
+commensurate with the risks and 
+particular attributes of each relevant 
+product, portfolio, and market. As such, 
+FICC believes that this proposed change 
+is consistent with the requirements of 
+Rule 17ad–22(e)(6)(i) under the Act.
+26 
+(B) Clearing Agency’s Statement on 
+Burden on Competition 
+FICC believes the proposed change to 
+enhance the correlation calculation for 
+bond haircut models could impose a 
+burden on competition. As a result of 
+this proposed change, participants may 
+experience increases in their Required 
+Fund Deposits and/or Segregated 
+Customer Margin Requirements. Such 
+increases could burden participants that 
+have lower operating margins or higher 
+costs of capital than other participants. 
+It is not clear whether the burden on 
+competition would necessarily be 
+significant because it would depend on 
+whether the affected participants were 
+similarly situated in terms of business 
+type and size; however, regardless of 
+whether the burden on competition is 
+significant, FICC believes that any 
+burden on competition would be 
+necessary and appropriate in 
+furtherance of the purposes of the Act. 
+Specifically, as described in this filing 
+and further below, FICC believes that 
+the above-described burden on 
+competition that may be created by this 
+proposed change would be necessary in 
+furtherance of the purposes of the Act 
+because the rules of a clearing agency 
+must be designed to assure the 
+safeguarding of securities and funds that 
+are in FICC’s custody or control, 
+consistent with Section 17A(b)(3)(F) of 
+the Act.
+27 FICC believes that the 
+proposed change to the correlation 
+calculation for bond haircut models as 
+described above would enable FICC to 
+further improve margin resilience with 
+respect to bonds held in Members’ 
+portfolios such that, in the event of a 
+Member default, FICC’s operations 
+would not be disrupted and non- 
+defaulting Members would not be 
+exposed to losses they cannot anticipate 
+or control. As such, this proposed 
+change is designed to assure the 
+safeguarding of securities and funds 
+which are in the custody or control of 
+FICC, consistent with Section 
+17A(b)(3)(F) of the Act. 
+FICC also believes the proposed 
+change to the correlation calculation for 
+bond haircut models is necessary to 
+support FICC’s compliance with Rules 
+17ad–22(e)(4)(i) and (e)(6)(i) under the 
+Act,
+28 which require FICC to establish, 
+implement, maintain, and enforce 
+written policies and procedures 
+reasonably designed to (x) effectively 
+identify, measure, monitor, and manage 
+its credit exposures to participants and 
+those arising from its payment, clearing, 
+and settlement processes and (y) cover 
+its credit exposures to its participants by 
+establishing a risk-based margin system 
+that, at a minimum, considers, and 
+produces margin levels commensurate 
+with, the risks and particular attributes 
+of each relevant product, portfolio, and 
+market. 
+As described above, FICC believes 
+that the proposed change to the 
+correlation calculation for bond haircut 
+models would allow FICC to better 
+mitigate risk exposure resulting from 
+bonds held in Members’ portfolios. 
+Accordingly, FICC believes that this 
+proposed change would allow FICC to 
+effectively identify, measure, monitor, 
+and manage its credit exposures to 
+participants and better limit FICC’s 
+credit exposures to participants and 
+cover its credit exposures to its 
+participants by producing margin levels 
+commensurate with the risks and 
+particular attributes of each relevant 
+product, portfolio, and market, 
+consistent with the requirements of 
+Rules 17ad–22(e)(4)(i) and (e)(6)(i) 
+under the Act.
+29 
+FICC also believes that the above- 
+described burden on competition that 
+could be created by the proposed 
+change to the correlation calculation for 
+bond haircut models would be 
+appropriate in furtherance of the 
+purposes of the Act because such 
+change has been appropriately designed 
+to assure the safeguarding of securities 
+and funds which are in the custody or 
+control of FICC, as described in detail 
+above. The proposed change to the 
+correlation calculation for bond haircut 
+models is specifically designed to cover 
+risk exposures from bonds held in 
+Members’ portfolios. Any increase in 
+Required Fund Deposit and/or 
+Segregated Customer Margin 
+Requirement as a result of such 
+proposed change for a particular 
+participant would be in direct relation 
+to the specific risks presented by such 
+participant’s portfolio, and each 
+participant’s Required Fund Deposit 
+and/or Segregated Customer Margin 
+Requirement would continue to be 
+calculated with the same parameters 
+and at the same confidence level. 
+Therefore, participants with portfolios 
+that present similar risks, regardless of 
+the type of participant, would have 
+similar impacts on their Required Fund 
+Deposit and/or Segregated Customer 
+Margin Requirement amounts. In 
+addition, the proposed change to the 
+correlation calculation for bond haircut 
+models would improve the risk-based 
+margining methodology that FICC 
+employs to set margin requirements and 
+better limit FICC’s credit exposures to 
+its participants. Therefore, because the 
+proposed change is designed to provide 
+FICC with a more appropriate and 
+complete measure of the risks presented 
+by participants’ portfolios, FICC 
+believes this proposed change is 
+appropriately designed to meet its risk 
+management goals and its regulatory 
+obligations. 
+Accordingly, FICC does not believe 
+that the proposed change to the 
+correlation calculation for bond haircut 
+models would impose any burden on 
+competition that is not necessary or 
+appropriate in furtherance of the 
+purposes of the Act.
+30 
+FICC does not believe the proposed 
+technical change to the QRM 
+Methodology Document would have any 
+impact on competition. This proposed 
+change would enhance the QRM 
+Methodology Document by providing 
+additional accuracy. The proposed 
+technical change would not advantage 
+or disadvantage any particular Member 
+of FICC or unfairly inhibit access to 
+FICC’s services. FICC therefore does not 
+believe the proposed technical change 
+would have any impact, or impose any 
+burden, on competition. 
+(C) Clearing Agency’s Statement on 
+Comments on the Proposed Rule 
+Change Received From Members, 
+Participants, or Others 
+FICC has not received or solicited any 
+written comments relating to this 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00118 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
+4979 Federal Register / Vol. 91, No. 22 / Tuesday, February 3, 2026 / Notices 
+31 17 CFR 200.30–3(a)(12). 
+1 15 U.S.C. 78k–1(a)(3). 
+2 17 CFR 242.608. 
+3 The Commission approved the Symbology Plan 
+on November 6, 2008. See Securities Exchange Act 
+Release No. 58904, 73 FR 67218 (November 13, 
+2008) (File No. 4–533). 
+4 ‘‘Plan Securities’’ are defined in the Symbology 
+Plan as securities that: (i) are NMS securities as 
+currently defined in Rule 600(a)(46) under the Act; 
+and (ii) any other equity securities quoted, traded 
+and/or trade reported through an SRO facility. 
+5 Sections I(c) and V(a) of the Plan. 
+proposal. If any written comments are 
+received, they will be publicly filed as 
+an Exhibit 2 to this filing, as required by 
+Form 19b–4 and the General 
+Instructions thereto. 
+Persons submitting comments are 
+cautioned that, according to Section IV 
+(Solicitation of Comments) of the 
+Exhibit 1A in the General Instructions to 
+Form 19b–4, the Commission does not 
+edit personal identifying information 
+from comment submissions. 
+Commenters should submit only 
+information that they wish to make 
+available publicly, including their 
+name, email address, and any other 
+identifying information. 
+All prospective commenters should 
+follow the Commission’s instructions on 
+how to submit comments, available at 
+www.sec.gov/rules-regulations/how- 
+submit-comment. General questions 
+regarding the rule filing process or 
+logistical questions regarding this filing 
+should be directed to the Main Office of 
+the Commission’s Division of Trading 
+and Markets at tradingandmarkets@
+sec.gov or 202–551–5777. 
+FICC reserves the right not to respond 
+to any comments received. 
+III. Date of Effectiveness of the 
+Proposed Rule Change, and Timing for 
+Commission Action 
+Within 45 days of the date of 
+publication of this notice in the Federal 
+Register or within such longer period 
+up to 90 days (i) as the Commission may 
+designate if it finds such longer period 
+to be appropriate and publishes its 
+reasons for so finding or (ii) as to which 
+the self-regulatory organization 
+consents, the Commission will: 
+(A) by order approve or disapprove 
+such proposed rule change, or 
+(B) institute proceedings to determine 
+whether the proposed rule change 
+should be disapproved. 
+IV. Solicitation of Comments 
+Interested persons are invited to 
+submit written data, views and 
+arguments concerning the foregoing, 
+including whether the proposed rule 
+change is consistent with the Act. 
+Comments may be submitted by any of 
+the following methods: 
+Electronic Comments 
+• Use the Commission’s internet 
+comment form (https://www.sec.gov/ 
+rules-regulations/self-regulatory- 
+organization-rulemaking); or 
+• Send an email to rule-comments@
+sec.gov. Please include File Number SR– 
+FICC–2026–002 on the subject line. 
+Paper Comments 
+• Send paper comments in triplicate 
+to Secretary, Securities and Exchange 
+Commission, 100 F Street NE, 
+Washington, DC 20549. 
+All submissions should refer to File 
+Number SR–FICC–2026–002. This file 
+number should be included on the 
+subject line if email is used. To help the 
+Commission process and review your 
+comments more efficiently, please use 
+only one method. The Commission will 
+post all comments on the Commission’s 
+internet website (https://www.sec.gov/ 
+rules-regulations/self-regulatory- 
+organization-rulemaking). Copies of the 
+filing will be available for inspection 
+and copying at the principal office of 
+FICC and on DTCC’s website 
+(www.dtcc.com/legal/sec-rule-filings). 
+Do not include personal identifiable 
+information in submissions; you should 
+submit only information that you wish 
+to make available publicly. We may 
+redact in part or withhold entirely from 
+publication submitted material that is 
+obscene or subject to copyright 
+protection. All submissions should refer 
+to File Number SR–FICC–2026–002 and 
+should be submitted on or before 
+February 24, 2026. 
+For the Commission, by the Division of 
+Trading and Markets, pursuant to delegated 
+authority.31 
+Sherry R. Haywood, 
+Assistant Secretary. 
+[FR Doc. 2026–02112 Filed 2–2–26; 8:45 am] 
+BILLING CODE 8011–01–P 
+SECURITIES AND EXCHANGE 
+COMMISSION 
+[Release No. 34–104742; File No. 4–533] 
+Joint Industry Plan; Notice of Filing 
+and Immediate Effectiveness of 
+Amendment to the National Market 
+System Plan for the Selection and 
+Reservation of Securities Symbols To 
+Add Texas Stock Exchange LLC as a 
+Party Thereto 
+January 29, 2026. 
+Pursuant to Section 11A(a)(3) of the 
+Securities Exchange Act of 1934 
+(‘‘Act’’)
+1 and Rule 608 thereunder,2 
+notice is hereby given that on January 
+23, 2026, Texas Stock Exchange LLC 
+(‘‘TXSE’’ or the ‘‘Exchange’’) filed with 
+the Securities and Exchange 
+Commission (‘‘Commission’’) an 
+amendment to the National Market 
+System Plan for the Selection and 
+Reservation of Securities Symbols 
+(‘‘Symbology Plan’’ or ‘‘Plan’’).
+3 The 
+amendment proposes to add TXSE as a 
+party to the Symbology Plan. The 
+Commission is publishing this notice to 
+solicit comments on the proposed 
+amendment from interested persons. 
+I. Description and Purpose of the 
+Amendment 
+The current parties to the Symbology 
+Plan are 24X National Exchange LLC, 
+BOX Exchange, LLC, Nasdaq BX, Inc., 
+Cboe BZX Exchange, Inc., Cboe EDGA 
+Exchange, Inc., Cboe EDGX Exchange, 
+Inc., Cboe Exchange, Inc., NYSE Texas, 
+Inc, Financial Industry Regulatory 
+Authority, Inc., Investors Exchange, 
+LLC, Long-Term Stock Exchange, Inc., 
+MEMX LLC, Miami International 
+Securities Exchange, LLC, MIAX 
+PEARL, LLC, Nasdaq ISE, LLC, The 
+Nasdaq Stock Market LLC, New York 
+Stock Exchange LLC, NYSE American 
+LLC, NYSE National, Inc., NYSE Arca, 
+Inc., and Nasdaq PHLX LLC. The 
+proposed amendment to the Symbology 
+Plan would add TXSE as a party to the 
+Symbology Plan. A self-regulatory 
+organization (‘‘SRO’’) may become a 
+party to the Symbology Plan if it 
+satisfies the requirements of Section I(c) 
+of the Plan. Specifically, an SRO may 
+become a party to the Symbology Plan 
+if: (i) it maintains a market for the listing 
+or trading of Plan Securities
+4 in 
+accordance with rules approved by the 
+Commission; (ii) it signs a current copy 
+of the Plan; and (iii) becomes a party to 
+any contract required pursuant to 
+Section III of the Plan with the 
+Processor (as such term is defined in the 
+Plan).
+5 
+The Exchange has submitted a signed 
+copy of the Symbology Plan to the 
+Commission in accordance with the 
+requirement set forth in the Symbology 
+Plan regarding new parties to the plan. 
+Additionally, the Exchange has 
+represented that it maintains a market 
+for the listing or trading of Plan 
+Securities. Finally, the Exchange has 
+represented that it has become a party 
+to any contract with the Processor. 
+II. Effectiveness of the Proposed 
+Symbology Plan Amendment 
+The foregoing proposed Symbology 
+Plan amendment has become effective 
+VerDate Sep<11>2014 17:01 Feb 02, 2026 Jkt 268001 PO 00000 Frm 00119 Fmt 4703 Sfmt 4703 E:\FR\FM\03FEN1.SGM 03FEN1khammond on DSK9W7S144PROD with NOTICES
