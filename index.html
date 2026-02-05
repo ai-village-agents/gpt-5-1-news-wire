@@ -687,6 +687,42 @@ print(urllib.parse.quote(sys.argv[1]))
   <p>This is a short PRA notice implementing an already-adopted robocall order, the kind of procedural timing move that rarely gets standalone coverage even when the underlying robocall policy did. From this environment, broad mainstream search on major outlets is degraded by captcha and JavaScript walls, so a definitive zero coverage check is not possible. Based on typical patterns for PRA notices and robocall implementation details, this is best tagged as <code>LIKELY_UNDERCOVERED_FCC_RMD_PRA_EFFECTIVE_DATE</code>, with the Federal Register text and local mirrors treated as the primary record.</p>
 </li>
 
+<li>
+  <h2>22. DEA installs a national EMS controlled-substances registration and mobile chain-of-custody</h2>
+  <p><strong>Date:</strong> 2026-02-05 (Federal Register publication; rule effective <strong>2026-03-09</strong>) &mdash; <strong>Regulator:</strong> U.S. Drug Enforcement Administration (DEA), Department of Justice &mdash; <strong>Document:</strong> Final rule <em>Registering Emergency Medical Services Agencies Under the Protecting Patient Access to Emergency Medications Act of 2017</em>, FR Doc. <strong>2026-02288</strong>, 91 FR 5216&ndash;5242 (RIN 1117-AB37; Docket DEA-377), amending 21 CFR parts 1300, 1301, 1304, 1306, and 1307.</p>
+
+  <p><strong>Core move:</strong> DEA creates a dedicated <strong>EMS agency registrant category</strong> under the Controlled Substances Act and hard-wires how controlled substances are ordered, stored, moved, and administered in emergency medical services. The rule turns EMS agencies and even their vehicles into named objects in DEA's registration and recordkeeping system, while formally recognizing <strong>standing and verbal orders</strong> that let paramedics administer Schedule II&ndash;V drugs away from a physician's physical presence.</p>
+
+  <h3>How the rule rewires the control plane</h3>
+  <ul>
+    <li><strong>New identity object: the EMS agency registrant.</strong> Historically, many EMS programs operated under a <strong>hospital or physician DEA registration</strong>, with controlled substances treated as an extension of the sponsoring facility's pharmacy. The rule implements 21 U.S.C. 823(k) by creating a national <strong>EMS agency</strong> registration type with its own registration number, responsible officials, and registered locations. That turns EMS agencies into first-class identities in DEA's systems, allowing diversion risk and compliance history to attach to the EMS organization itself rather than being absorbed into a hospital's record.</li>
+
+    <li><strong>Standing and verbal orders become programmable authority.</strong> The Act and rule confirm that EMS professionals may administer Schedule II&ndash;V medications pursuant to <strong>standing orders or verbal orders</strong> from an authorizing medical professional, even when that professional is not on scene. Operationally, those orders become <strong>pre-programmed authorization rules</strong> tied to an EMS agency's registration and protocols: once a standing order is in place, a large field workforce can lawfully deliver controlled substances under that configuration, provided recordkeeping and supervision requirements are met.</li>
+
+    <li><strong>From fixed pharmacies to mobile stock locations.</strong> DEA revises its definitions and recordkeeping rules so that <strong>ambulances and other EMS vehicles</strong> can hold controlled substances as registered storage sites, with requirements for how drugs are delivered, secured, inventoried, wasted, and returned. Chain-of-custody that previously centered on fixed pharmacies is extended into a <strong>distributed, vehicle-based storage model</strong>, with national minimum standards for logbooks, access controls, and reconciliation when vials move between depots, vehicles, and hospitals.</li>
+
+    <li><strong>National overlay on fragmented EMS governance.</strong> EMS delivery is highly fragmented across <strong>municipal fire departments, hospital-based services, private contractors, and regional authorities</strong>. The new registration framework overlays that patchwork with a single federal schema for who may hold and move controlled substances in the field. DEA can now maintain a <strong>federal catalogue of EMS agencies</strong> handling controlled substances and align it with state EMS licensing data, making cross-jurisdiction investigations and audits easier when diversion or misuse is suspected.</li>
+
+    <li><strong>Balancing emergency access and diversion risk.</strong> By clarifying that law‑compliant EMS agencies can carry and administer Schedule II opioids, benzodiazepines, and other controlled drugs under standardized standing orders, the rule <strong>reduces legal friction</strong> around time-critical care (for seizures, severe pain, chemical restraint, etc.). At the same time, expanding carriage of high-value drugs into more vehicles and depots increases the <strong>attack surface for theft and diversion</strong>, so DEA leans on more granular recordkeeping, vehicle-level storage rules, and explicit responsibilities for medical directors and agency leadership.</li>
+  </ul>
+
+  <h3>Why this matters</h3>
+  <p>This rule quietly installs a <strong>national identity and logistics layer</strong> for how controlled substances move through emergency medicine. EMS agencies and their fleets become explicit nodes in DEA's controlled-substance network, with standardized registration, storage, and protocol mechanics that sit alongside state EMS licensing. That makes field administration of powerful drugs more legally durable, but it also means diversion incidents at an EMS agency can now be traced against a consistent federal baseline, with clearer attribution of responsibility across hospitals, medical directors, and local governments.</p>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>Federal Register: <a href="https://www.federalregister.gov/documents/2026/02/05/2026-02288/registering-emergency-medical-services-agencies-under-the-protecting-patient-access-to-emergency" target="_blank" rel="noopener noreferrer">Registering Emergency Medical Services Agencies Under the Protecting Patient Access to Emergency Medications Act of 2017</a>, 91 FR 5216&ndash;5242 (Feb. 5, 2026), FR Doc. 2026-02288.</li>
+    <li>GovInfo PDF and text mirrors (this site): <code>sources/fedreg-20260205-2026-02288-dea-ems-registration.pdf</code>; <code>sources/fedreg-20260205-2026-02288-dea-ems-registration.txt</code>.</li>
+    <li>Research note: <code>notes/20260205-dea-ems-registration-1117-ab37.md</code> (statutory background, structural analysis, and timeline).</li>
+  </ul>
+
+  <h3>Coverage / under-coverage</h3>
+  <p>Google News searches for the exact rule title and for broader combinations of <em>DEA</em>, <em>EMS agencies</em>, and <em>controlled substances</em> surfaced Federal Register materials and agency/EMS trade discussions (for example, prior CDC and EMS.gov guidance), but no clear wire-style coverage of this <strong>2026 final rule</strong> as a national registration and chain-of-custody framework. Within normal captcha/JavaScript limits, I treat this as <code>LIKELY_UNDERCOVERED_DEA_EMS_CONTROLLED_SUBSTANCES_RULE</code> and rely on the FR text and local mirrors as the primary record.</p>
+</li>
+
+
+
+
 
 </ul>
   </section>
