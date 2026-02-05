@@ -1,0 +1,32 @@
+<li>
+  <h2>21. FCC activates Robocall Mitigation Database as an annual recertification gatekeeper</h2>
+  <p><strong>Date:</strong> 2026-02-05 &mdash; <strong>Regulator:</strong> Federal Communications Commission (FCC) &mdash; <strong>Document:</strong> Federal Register notice <strong>FR Doc. 2026-02311</strong>, 91 FR 5242&ndash;5243, <em>Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System</em> (Paperwork Reduction Act effective-date notice implementing FCC 24-135, 91 FR 343).</p>
+
+  <p><strong>Core move:</strong> The FCC is not rewriting the robocall rules here; instead, this Paperwork Reduction Act (PRA) notice flips key obligations in FCC 24-135 from paper to live. By announcing OMB approval for the new information collections in 47 CFR parts 1 and 64 (including §§ 1.8002(b)(2) and 64.6305(h)), the Commission <strong>activates an annual recertification regime for the Robocall Mitigation Database (RMD)</strong> that is tightly bound to the FCC's CORES/FRN identity system. Voice service providers and intermediate providers must now log into CORES, confirm and update their RMD filings, and <strong>recertify every year</strong> rather than treating RMD as a one-time registration.</p>
+
+  <h3>What this PRA notice actually does</h3>
+  <ul>
+    <li><strong>Sets the PRA effective date:</strong> Confirms that OMB has approved the relevant information collections under control numbers <strong>3060-0918</strong> and <strong>3060-1285</strong>, and makes the associated RMD/CORES requirements effective as of <strong>2026-02-05</strong>.</li>
+    <li><strong>Starts the recertification clock:</strong> Ties the first annual RMD recertification deadline to <strong>2026-03-01</strong>. Providers that previously registered must log in and recertify by that date, and then annually, or risk being treated as out of compliance.</li>
+    <li><strong>Binds RMD to CORES/FRN identity:</strong> Providers can no longer treat RMD as a standalone portal. The PRA notice confirms that <strong>CORES FRN credentials are the gatekeeper</strong> for accessing and updating RMD entries, turning FRNs into the canonical identity key for who is allowed to originate calls on U.S. networks.</li>
+    <li><strong>Clarifies enforcement leverage:</strong> Under the underlying order, providers that fail to register or keep their RMD filings current can have their traffic blocked by other carriers. With PRA approval in place, those blocking obligations and related certification duties now sit on a firmer legal foundation.</li>
+  </ul>
+
+  <h3>Why this is structural</h3>
+  <ul>
+    <li><strong>RMD as a call-origination control plane:</strong> The RMD already functions as a routing whitelist: if a voice service provider or intermediate provider is missing or non-compliant, others are expected to block their traffic. Moving from one-time registration to <strong>mandatory annual recertification</strong> turns the RMD into a living <strong>authorization and identity control plane</strong> for who is allowed to originate calls into the U.S. telephone network.</li>
+    <li><strong>PRA timing defines the real enforcement calendar:</strong> The substantive robocall rules in FCC 24-135 technically took effect earlier, but without OMB approval the associated data collections could not be fully enforced. This notice quietly <strong>sets the true start date</strong> for many of the practical compliance obligations and makes March 1, 2026 a hard timing hook for providers and their counsel.</li>
+    <li><strong>CORES as a systemic identity anchor:</strong> By requiring providers to use CORES and maintain a valid FRN to manage RMD entries, the FCC is further consolidating <strong>provider identity, contact information, and enforcement history</strong> around a single credentialing system. That strengthens the Commission's ability to correlate filings across proceedings and to tie robocall mitigation behavior back to specific legal entities.</li>
+    <li><strong>Network-level consequences for paperwork failures:</strong> Because RMD status flows into network-wide blocking obligations, a missed recertification or stale filing is not just a paperwork violation. It can translate directly into <strong>call routing changes and loss of service reachability</strong>, giving this PRA notice outsized structural impact compared with a typical back-office form approval.</li>
+  </ul>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>Federal Register, <em>Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System</em>, FR Doc. 2026-02311, 91 FR 5242&ndash;5243 (Feb. 5, 2026). Local mirrors: <code>sources/fedreg-20260205-2026-02311-fcc-robocall-mitigation-effective-date.pdf</code> and <code>sources/fedreg-20260205-2026-02311-fcc-robocall-mitigation-effective-date.txt</code>.</li>
+    <li>FCC Report and Order FCC 24-135, <em>Improving the Effectiveness of the Robocall Mitigation Database; CORES Registration System</em>, previously published at 91 FR 343 (Jan. 6, 2026), which established the underlying RMD/CORES framework that this PRA notice makes operational.</li>
+    <li>Research note: <code>notes/20260205-fcc-robocall-mitigation-effective-date.md</code> (timeline, structural analysis, and monitoring hooks for the March 1, 2026 recertification deadline).</li>
+  </ul>
+
+  <h3>Coverage / under-coverage</h3>
+  <p>This is a short PRA notice implementing an already-adopted robocall order, the kind of procedural timing move that rarely gets standalone coverage even when the underlying robocall policy did. From this environment, broad mainstream search on major outlets is degraded by captcha and JavaScript walls, so a definitive zero coverage check is not possible. Based on typical patterns for PRA notices and robocall implementation details, this is best tagged as <code>LIKELY_UNDERCOVERED_FCC_RMD_PRA_EFFECTIVE_DATE</code>, with the Federal Register text and local mirrors treated as the primary record.</p>
+</li>
