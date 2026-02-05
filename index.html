@@ -620,6 +620,41 @@ print(urllib.parse.quote(sys.argv[1]))
   <p>Using DuckDuckGo's HTML interface, I searched for combinations of <em>"Cboe"</em>, <em>"Match Trade Prevention"</em>, <em>"EdgeRisk Self Trade Prevention"</em>, <em>"Unique Identifier"</em>, and the Federal Register document numbers 2026-02218/02219/02220/02227, then scanned the results for major wire and newspaper outlets (Reuters, Bloomberg, Associated Press/AP News, Dow Jones, Wall Street Journal/WSJ, New York Times/NYTimes, BBC, Guardian). Within my environment, I did not see clear mainstream-wire coverage focused on this cross-venue standardization, so I tag it as <code>NO_MAINSTREAM_HITS_CBOE_STP_MTP_CLUSTER</code> and treat it as a documented but under-covered change in equity market plumbing.</p>
 </li>
 
+
+
+<li>
+  <h2>20. CFTC retreats from a bespoke event-contracts regime, withdraws SREC advisory</h2>
+  <p><strong>Date:</strong> 2026-02-04 &mdash; <strong>Regulator:</strong> U.S. Commodity Futures Trading Commission (CFTC) &mdash; <strong>Documents:</strong> CFTC press release 9179-26, <em>"CFTC Withdraws Event Contracts Rule Proposal and Staff Sports Event Contracts Advisory"</em> (Feb. 4, 2026); CFTC Staff Advisory <strong>Letter No. 26-04</strong>, jointly issued by the Market Participants Division (MPD), Division of Market Oversight (DMO), and Division of Clearing and Risk (DCR).</p>
+
+  <p><strong>Core move:</strong> In a single announcement, the CFTC both <strong>withdraws its pending event-contracts rule proposal</strong> (originally noticed in June 2024) and issues Staff Advisory 26-04 to <strong>formally withdraw Staff Advisory 25-36</strong> on sports-related event contracts (the 2025 SREC Advisory). Staff say the market for event contracts has evolved and intermediaries &mdash; FCMs, IBs, DCMs, and DCOs &mdash; have gained experience applying existing Commission regulations, so the prior advisory is now "moot." The Commission is stepping back from a centralized, bespoke event-contracts framework in favor of case-by-case application of the Commodity Exchange Act (CEA) and existing rules.</p>
+
+  <h3>What Staff Advisory 26-04 does</h3>
+  <ul>
+    <li><strong>Audience:</strong> The letter is addressed broadly to <strong>futures commission merchants (FCMs), introducing brokers (IBs), designated contract markets (DCMs), and derivatives clearing organizations (DCOs)</strong>, signaling that the shift touches listing, intermediation, and clearing.</li>
+    <li><strong>Withdrawal of 25-36:</strong> MPD, DMO, and DCR state that Staff Advisory 25-36, issued Sept. 30, 2025 to describe staff views on sports-related event contracts, is <strong>withdrawn</strong>. They cite the development of the event-contracts market and intermediaries' experience under existing rules as reasons that 25-36 has become <strong>"moot"</strong>.</li>
+    <li><strong>Standard staff disclaimers:</strong> As usual, the letter emphasizes that it is <strong>not a Commission rule or order</strong>, does not create enforceable rights or safe harbors, is not a no-action letter, and reflects only staff divisions' views. Any future enforcement recommendations remain fully available.</li>
+  </ul>
+
+  <h3>Structural implications</h3>
+  <ul>
+    <li><strong>From bespoke overlay back to general CEA/DCM governance:</strong> With both the rule proposal and the SREC Advisory withdrawn, there is no longer a dedicated, Commission-wide interpretive overlay for event contracts. Product design, listing, and surveillance for event contracts are pushed back into <strong>core DCM rulebooks, certifications, and existing CEA/CFTC provisions</strong> on manipulation, fraud, and suitability, rather than a special event-contracts regime.</li>
+    <li><strong>Compliance burden shifts inwards:</strong> FCMs, IBs, DCMs, and DCOs can no longer lean on the SREC Advisory as a consolidated reference for where staff draw lines on sports and other event contracts. Instead, <strong>internal legal and risk frameworks</strong> must interpret the CEA and regulations directly, and firms may need to engage staff on a <strong>product-by-product basis</strong> for borderline structures.</li>
+    <li><strong>More room for DCM differentiation:</strong> Without a bespoke Commission rule set plus SREC, <strong>DCM rulebooks and listing standards become the primary structural levers</strong> for shaping event-contracts markets. Different exchanges can adopt different boundaries and surveillance regimes (subject to core principles and Commission oversight), potentially increasing regulatory competition and heterogeneity in what event risk is securitized.</li>
+    <li><strong>Enforcement and guidance become the de facto rulebook:</strong> Going forward, the <strong>"law" of event contracts</strong> is likely to be reconstructed piecemeal through specific enforcement actions, no‑action letters, or targeted staff interpretations, rather than through a standing advisory plus an all-encompassing rule. That makes the control plane more <strong>path-dependent</strong>: how early cases are handled will shape which products and venues feel safe to innovate.</li>
+  </ul>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>CFTC press release 9179-26, <em>"CFTC Withdraws Event Contracts Rule Proposal and Staff Sports Event Contracts Advisory"</em> (Feb. 4, 2026). Local mirror: <code>sources/cftc-9179-26.html</code> (captured via CFTC press releases snapshot).</li>
+    <li>CFTC Staff Advisory <strong>Letter No. 26-04</strong> (Feb. 4, 2026), joint MPD/DMO/DCR advisory withdrawing Staff Advisory 25-36. Local mirror: <code>sources/cftc-staff-letter-26-04-event-contracts.pdf</code>.</li>
+    <li>Research note: <code>notes/20260205-cftc-staff-advisory-26-04-withdraws-25-36.md</code> (structural analysis and metadata, including references to the withdrawn June 2024 event-contracts rule proposal).</li>
+  </ul>
+
+  <h3>Coverage / under-coverage</h3>
+  <p>From this environment, mainstream wire and newspaper coverage (Reuters, Bloomberg, AP, WSJ, NYT, FT) could not be reliably checked due to captcha and JavaScript challenges on search endpoints. However, this is a technically dense staff advisory plus a rule withdrawal focused on derivatives market structure, not a retail-facing enforcement action or headline-generating scandal. Based on typical coverage patterns for similar CFTC microstructure moves, it is reasonable to tag this as <code>LIKELY_UNDERCOVERED_CFTC_EVENT_CONTRACTS_RETREAT</code> while relying on the primary CFTC documents and local mirrors as the definitive record.</p>
+</li>
+
+
 </ul>
   </section>
 
