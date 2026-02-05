@@ -923,186 +923,87 @@ print(urllib.parse.quote(sys.argv[1]))
 
 
 <li>
-  <h2>26. SEC slows decision on a DLT-based Paxos clearing agency that would plug directly into DTC.</h2>
-  <p>
-    On February 3, 2026, the Securities and Exchange Commission published a one-page notice designating a
-    <strong>90-day extension</strong> of the deadline to decide whether <strong>Paxos Securities Settlement Company, LLC
-    (PSSC)</strong> can register as a clearing agency under Exchange Act section 17A. The notice points to PSSC's
-    <strong>"novel" private, permissioned distributed-ledger settlement service</strong>&mdash;designed for bilateral
-    delivery-versus-payment (DvP) settlement and intended to operate <strong>as a participant in the Depository
-    Trust Company (DTC)</strong>&mdash;and states that the Commission needs more time to assess whether the
-    application satisfies section 17A's risk-management and default-management standards.
-  </p>
+  <h2>28. ITC opens a live exclusion rail on GaN power semiconductors: Infineon vs Innoscience</h2>
+  <p><strong>Date:</strong> 2026-02-05 (Federal Register publication) &mdash; <strong>Agency:</strong> U.S. International Trade Commission (ITC) &mdash; <strong>Document:</strong> <em>"Certain Semiconductor Devices and Products Containing the Same; Notice of a Commission Determination To Review in Part a Final Initial Determination Finding a Violation; Request for Written Submissions on Remedy, the Public Interest, and Bonding"</em>, FR Doc. <strong>2026-02297</strong>, 91 FR 5259&ndash;5261, Inv. No. <strong>337-TA-1414</strong>.</p>
 
-  <h3>What the notice does</h3>
+  <p><strong>Core move:</strong> The ITC has opened a <strong>live exclusion rail</strong> on a class of power-semiconductor devices, agreeing with its Administrative Law Judge that respondent <strong>Innoscience</strong> infringed complainant <strong>Infineon</strong>&rsquo;s U.S. Patent No. <strong>9,899,481</strong> (the &ldquo;'481 patent&rdquo;) while finding no violation on U.S. Patent No. 9,070,755 (the &ldquo;'755 patent&rdquo;). The Commission is now <strong>reviewing in part</strong> the Final Initial Determination &mdash; specifically the claim construction, infringement, domestic-industry, and validity analysis for the '481 patent &mdash; and is actively soliciting submissions on <strong>remedy, public interest, and bonding</strong> before deciding whether to impose a limited exclusion order and cease-and-desist orders that would constrain Innoscience&rsquo;s ability to supply the U.S. market.</p>
+
+  <h3>How 337-TA-1414 sits in the power-semiconductor stack</h3>
+  <p>This investigation covers <strong>"certain semiconductor devices and products containing the same"</strong> that, given the patent families and party identities, are best understood as a slice of the <strong>GaN / power-transistor</strong> space:</p>
   <ul>
-    <li>
-      <strong>Freezes the clock at the edge of the clearing-agency perimeter.</strong> Under Exchange Act
-      <strong>section 19(a)(1)(B)</strong> (15 U.S.C. 78s(a)(1)(B)), once an application for clearing-agency
-      registration is noticed in the Federal Register, the SEC normally has <strong>180 days</strong> to conclude
-      proceedings by order granting or denying registration. The statute allows a <strong>single extension of up
-      to 90 days</strong> for good cause.
-    </li>
-    <li>
-      <strong>Formally extends PSSC's deadline.</strong> The initial notice of PSSC's Form CA-1 application (Release
-      No. <strong>34-103624</strong>, 90 FR 37940) was published on <strong>August 6, 2025</strong>, starting the 180-day clock.
-      The Frontier date for a decision was therefore <strong>February 2, 2026</strong>. The new notice extends that period
-      by 90 days and designates <strong>May 3, 2026</strong> as the date by which the Commission must either grant or
-      deny the application.
-    </li>
-    <li>
-      <strong>Ties the extension to a very specific technology and topology.</strong> The Commission states that PSSC
-      would provide services via a <strong>private, permissioned settlement service supporting a distributed
-      ledger</strong>, designed to conduct <strong>bilateral DvP settlement</strong>, and that PSSC would become a
-      <strong>DTC participant</strong> so that its services can be made available to other DTC participants. The notice
-      characterizes this as a <strong>"novel structure"</strong> that affects PSSC's risk management, risk surveillance,
-      and rules for managing participant defaults, and cites these features as the reason for invoking the
-      90-day extension.
-    </li>
-    <li>
-      <strong>Anchors the extension in the prior proceedings.</strong> The notice recaps that the SEC has already
-      instituted proceedings (the November 4, 2025 OIP, Release No. <strong>34-104174</strong>, 90 FR 51416) to determine
-      whether PSSC's application is consistent with <strong>section 17A(b)(3)</strong>, and that at least one public
-      comment was received on the application.
-    </li>
-  </ul>
-
-  <h3>How this rewires (or delays rewiring) the settlement control plane</h3>
-  <ul>
-    <li>
-      <strong>A potential new clearing node inside the DTC fabric.</strong> PSSC is not proposing a peripheral fintech
-      service; it is seeking full <strong>clearing-agency registration</strong> and plans to operate as a
-      <strong>participant in DTC</strong>. If approved, its private, permissioned DLT rail would effectively become an
-      <strong>alternate settlement track embedded within the existing U.S. central securities depository</strong>
-      topology. Other DTC participants could access that track via their existing DTC connectivity, making
-      PSSC a new node in the core <strong>financial market infrastructure (FMI)</strong> graph rather than an external
-      experiment.
-    </li>
-    <li>
-      <strong>Bilateral DvP vs. multilateral netting and default management.</strong> The notice highlights that PSSC's
-      service is designed for <strong>bilateral</strong> DvP settlement, in contrast to the <strong>multilateral netting and
-      novation</strong> that underpin NSCC/DTC's current model. That raises structural questions the SEC now has 90
-      extra days to resolve: How would bilateral exposures interact with DTC's netted positions? How would
-      <strong>margin, collateral, and default resources</strong> be structured? Could stresses in a private DLT book of
-      bilateral trades propagate through PSSC's participant status into DTC and onward into other CCPs and
-      banks?</n    </li>
-    <li>
-      <strong>Governance and ledger design as regulatory risk factors.</strong> Because PSSC's proposal centers on a
-      private, permissioned distributed ledger, the usual §17A questions about safeguarding securities and
-      funds now also implicate <strong>ledger governance</strong>: who controls validator sets, software upgrades,
-      consensus parameters, key management, and incident response. The Commission's decision to invoke the
-      90-day extension explicitly to study this "novel structure" is a signal that <strong>DLT design choices are
-      now first-class inputs</strong> into clearing-agency registration decisions.
-    </li>
-    <li>
-      <strong>A regulatory rate-limiter on DLT in systemically important plumbing.</strong> The extension does not
-      decide the merits of PSSC's application, but it functions as a <strong>temporal gate</strong> on whether a
-      DLT-based clearing node will be allowed to join the U.S. settlement core. An approval by May 3, 2026
-      could create a <strong>regulatory template</strong> for similar permissioned-ledger clearing services inside
-      existing FMIs; a denial could signal a much <strong>narrower appetite</strong> for embedding bilateral DLT rails in
-      systemically important clearing and settlement functions.
-    </li>
-  </ul>
-
-  <h3>Why this is structurally important and (very likely) under-covered</h3>
-  <p>
-    This notice is framed as a routine scheduling action and spans a single Federal Register page. But the
-    only reason to extend the deadline is that the Commission is still working through whether and how a
-    <strong>DLT-native clearing agency</strong> can safely operate from inside DTC. That makes this one-page
-    "longer-period" designation a <strong>control lever over the admissibility of distributed-ledger constructs in
-    the core U.S. securities-settlement stack</strong>.
-  </p>
-  <p>
-    From this environment I cannot reliably scrape mainstream-news search results due to search-engine
-    HTTP 302 / bot-gating, but FR metadata shows only <strong>~64 page views</strong> as of February 5, 2026&mdash;a very
-    low number for a decision point about whether a new clearing agency node can be added inside DTC.
-    That, plus the highly technical framing, suggests this development is being tracked mainly by niche
-    market-structure specialists, not general financial press.
-  </p>
-  <p>
-    <strong>COVERAGE TAG:</strong> <code>LIKELY_UNDERCOVERED_PSSC_DLT_CLEARING_AGENCY_LONGER_PERIOD</code>
-  </p>
-
-  <h3>Sources</h3>
-  <ul>
-    <li>
-      <strong>Federal Register notice:</strong><br>
-      <a href="https://www.federalregister.gov/documents/2026/02/03/2026-02197/paxos-securities-settlement-company-llc-notice-of-designation-of-a-longer-period-for-commission">
-        FR Doc 2026-02197, 91 FR 4974 (Feb. 3, 2026)
-      </a>
-    </li>
-    <li>
-      <strong>Full text (local mirrors):</strong><br>
-      <code>sources/FR-2026-02197-Paxos-clearing-agency-longer-period.pdf</code><br>
-      <code>https://www.federalregister.gov/documents/full_text/text/2026/02/03/2026-02197.txt</code>
-    </li>
-    <li>
-      <strong>Research note:</strong><br>
-      <code>notes/20260203-pssc-clearing-agency-longer-period.md</code>
-    </li>
-  </ul>
-</li>
-
-<li>
-  <h2>27. Treasury quietly unifies pandemic-era aid programs into a single DO-wide financial-assistance data spine.</h2>
-  <p><strong>Date:</strong> 2026-02-04 (Federal Register publication) &mdash; <strong>Agency:</strong> U.S. Department of the Treasury, Departmental Offices (DO) &mdash; <strong>Document:</strong> Privacy Act system-of-records notice <em>"Department of the Treasury, Departmental Offices DO .0197&mdash;Financial Assistance Programs"</em>, FR Doc. <strong>2026-02234</strong>, 91 FR 5155&ndash;5158.</p>
-
-  <p><strong>Core move:</strong> Treasury Departmental Offices are standing up a new Privacy Act system of records, <strong>DO .0197&mdash;Financial Assistance Programs</strong>, that centralizes detailed data on <strong>beneficiaries, intermediaries, and contractors</strong> across a broad slate of federal financial-assistance programs (including Emergency Rental Assistance, Homeowner Assistance Fund, State and Local Fiscal Recovery Funds, State Small Business Credit Initiative, Capital Projects Fund, RESTORE Act programs, LATCF, and SIPPRA). The SORN formalizes DO-wide collection and reuse of this data for <strong>compliance, fraud detection, debt collection, and research</strong>, turning what began as crisis-era funding streams into a long-lived, shareable data asset.</p>
-
-  <h3>What DO .0197 actually covers</h3>
-  <ul>
-    <li><strong>Programs in scope:</strong> The system explicitly lists the <strong>Capital Projects Fund (CPF)</strong>, <strong>Emergency Rental Assistance (ERA)</strong> programs, <strong>Homeowner Assistance Fund (HAF)</strong>, <strong>Local Assistance and Tribal Consistency Fund (LATCF)</strong>, <strong>RESTORE Act</strong> programs (Direct Component and Centers of Excellence Research Grants), the <strong>Social Impact Partnerships to Pay for Results Act (SIPPRA)</strong> program, <strong>State and Local Fiscal Recovery Funds (SLFRF)</strong>, and the <strong>State Small Business Credit Initiative (SSBCI)</strong>, as well as "other such programs Treasury may administer." These are many of the <strong>largest pandemic-era and post-pandemic fiscal interventions</strong> run by Treasury DO.</li>
-
-    <li><strong>Who is in the file:</strong> Categories of individuals include not only <strong>individual beneficiaries</strong> of these programs but also:
+    <li><strong>Complainants:</strong> Infineon Technologies Americas Corp. (El Segundo, CA) and Infineon Technologies Austria AG (Villach, Austria).</li>
+    <li><strong>Respondents:</strong> A set of Innoscience entities in China and Innoscience America, Inc. (Santa Clara, CA).</li>
+    <li><strong>Patents at issue:</strong> the notice focuses on the '481 patent (claims 1&ndash;4, 6, 17) and the '755 patent (claims 1&ndash;4, 8, 9).</li>
+    <li><strong>ALJ findings:</strong>
       <ul>
-        <li>individuals associated with small businesses, non-profits, and other entities that receive assistance (e.g., <strong>owners and employees</strong>),</li>
-        <li>employees, agents, or representatives of <strong>recipients</strong> (states, local governments, Tribes, territories, public authorities, non-profits, for-profits),</li>
-        <li>employees, agents, or representatives of <strong>subrecipients</strong> and their <strong>contractors or vendors</strong>, and</li>
-        <li><strong>any other individuals</strong> whose information reaches Treasury DO in the course of program administration, compliance, audit, oversight, or research.</li>
+        <li><strong>Violation</strong> of section 337 by Innoscience with respect to the '481 patent (infringement + domestic industry proven, no invalidity shown).</li>
+        <li><strong>No violation</strong> with respect to the '755 patent (no infringement / technical-prong failure).</li>
+        <li>Infineon satisfied the <strong>economic prong</strong> of the domestic-industry requirement for the '481 patent.</li>
       </ul>
-      In practice, this creates a <strong>people-and-entities graph</strong> tying together households, firms, governments, subrecipients, and vendors across these assistance flows.</li>
-
-    <li><strong>What data is stored:</strong> Records include whatever recipients, subrecipients, and their contractors collect to run the programs: application materials and supporting documentation; award amounts and periods; contracts funded with Treasury assistance; and a wide range of personal and financial identifiers, including <strong>full legal names, contact details, reported income and household financial information, self-attestations and certifications, employment data, and Social Security numbers or taxpayer identification numbers</strong>. Treasury can retrieve records "by name or another unique identifier," anchoring assistance histories to specific persons or entities.</li>
+    </li>
+    <li><strong>Recommended remedy:</strong> The ALJ&rsquo;s recommended determination (RD) urges the Commission, if it ultimately finds a violation, to issue a <strong>limited exclusion order</strong> plus <strong>cease and desist orders</strong> against Innoscience based on its significant U.S. inventory and operations, with a recommended <strong>100% bond</strong> rate during Presidential review.</li>
   </ul>
 
-  <h3>How Treasury is allowed to reuse and share this data</h3>
+  <p>The Commission is not rubber-stamping that outcome. Instead, it is reopening key pieces of the '481 analysis &mdash; particularly the construction of <strong>"lateral transistor devices"</strong>, infringement, and both prongs of the domestic-industry test &mdash; and asking the parties to brief <strong>how far Infineon&rsquo;s patent fence should reach</strong> and <strong>how much U.S. economic activity is enough</strong> to justify ITC trade remedies when fabrication is largely offshore.</p>
+
+  <h3>Why this is structural: claim language as an import gate</h3>
+  <p>The Commission&rsquo;s decision to review the Final ID&rsquo;s treatment of <strong>"lateral transistor devices"</strong> is not a technical curiosity; it is a decision about <strong>which GaN / power-device architectures are inside the exclusion perimeter</strong> and which remain available for competitors and second sources:</p>
   <ul>
-    <li><strong>Program-integrity and eligibility control plane:</strong> Under Routine Use (2), Treasury may share DO .0197 data with other federal agencies, non-federal entities (including state and local governments), and their contractors/agents to:
-      <ul>
-        <li>identify, prevent, and recover <strong>improper payments</strong>,</li>
-        <li>identify and prevent <strong>fraud, waste, and abuse</strong> in federal programs, and</li>
-        <li><strong>establish or verify eligibility</strong> and continuing compliance for applicants, recipients, and providers, and to <strong>recoup payments or recover delinquent debts</strong>.</li>
-      </ul>
-      That effectively turns DO .0197 into a shared **eligibility and integrity service** for multiple federal and state-administered aid streams.</li>
-
-    <li><strong>Research and statistical uses:</strong> Routine Use (3) allows disclosures to contractors, grantees, other federal agencies, state and local governments, and research institutions for <strong>statistical analysis and research</strong> in support of program operations, performance monitoring, evaluation, risk management, and policy development, or for other research and statistical purposes not prohibited by law. This converts the combined beneficiary/intermediary dataset into a <strong>research backbone</strong> for evaluating how, and to whom, these programs actually delivered funds.</li>
-
-    <li><strong>Debt collection and credit reporting:</strong> Other routine uses authorize sharing with agencies conducting salary or administrative offsets, with <strong>consumer reporting agencies</strong> (for credit reports), and with <strong>debt collection agencies</strong>, including in some cases using IRS-derived mailing addresses. Assistance data documented here can thus feed directly into <strong>collection and credit-reporting workflows</strong> when Treasury pursues overpayments or delinquent debts.</li>
-
-    <li><strong>Law enforcement and professional-standards hooks:</strong> As in other Treasury SORNs, DO .0197 supports referrals to law enforcement and licensing bodies when records suggest violations of civil, criminal, or professional standards, and standard breach-notification and litigation-related disclosures. In combination with the broad categories of individuals, this means that <strong>beneficiaries, subrecipients, and vendors</strong> are all potentially visible to enforcement systems through this data spine.</li>
+    <li>A <strong>broad construction</strong> of that term could sweep in a wide range of Innoscience devices (and potentially create precedent against other suppliers), turning a single Infineon patent into a <strong>thick fence</strong> around large chunks of the U.S.-bound GaN power market.</li>
+    <li>A <strong>narrow construction</strong> leaves more room for alternative device geometries and packaging topologies that avoid the claims, limiting the scope of any eventual exclusion and keeping more of the competitive design space open.</li>
+    <li>Because the ALJ has already tied the '481 claims to a domestic industry, the Commission&rsquo;s tweaks to claim construction and validity directly surveil which <strong>switch architectures data centers, EVs, chargers, and industrial equipment can rely on</strong> without risking mid‑life exclusion.</li>
   </ul>
+  <p>Put differently: the exact meaning of a few words in the '481 patent will determine whether <strong>Innoscience can be structurally present in the U.S. power‑electronics stack</strong>, and under what constraints.</p>
 
-  <h3>Why this is structurally important</h3>
+  <h3>Domestic-industry math in an offshored fabrication world</h3>
+  <p>The notice also flags a deeper structural question: how to measure the <strong>"domestic industry"</strong> behind asserted patents when much of the actual fabrication, assembly, and test is done <strong>outside</strong> the United States. The Commission explicitly asks for briefing on:</p>
   <ul>
-    <li><strong>From one-off rescue programs to a persistent data infrastructure:</strong> ERA, HAF, SLFRF, SSBCI, and related programs were launched as crisis or recovery tools with rushed field implementations and fragmented data. DO .0197 retrofits them with a <strong>single, DO-wide Privacy Act system</strong> that centralizes information across programs and years. That makes the past decade of ad hoc assistance flows into a **long-lived analytical asset** Treasury can reuse for integrity checks and policy design.</li>
-
-    <li><strong>Building a cross-program identity and relationship graph:</strong> By explicitly covering individual beneficiaries, owners and employees of assisted entities, and the people working at recipients, subrecipients, and contractors, DO .0197 creates the schema for a <strong>multi-layer identity and relationship graph</strong> of who touched Treasury-administered funds and how. That graph can be used to detect patterns of misuse, but also to map which intermediaries and delivery models actually reached target populations.</li>
-
-    <li><strong>Embedding assistance data in enforcement and debt systems:</strong> Because routine uses plug DO .0197 into <strong>improper-payment recovery, law enforcement referrals, credit reporting, and debt collection</strong>, the same records that demonstrate that someone received aid can later determine whether they are pursued for overpayments or flagged in financial systems. Assistance programs and enforcement tools become more tightly coupled through this shared dataset.</li>
-
-    <li><strong>A research-grade feedback loop for programmable fiscal policy:</strong> Allowing external research and statistical use means DO .0197 can support rigorous evaluations of which communities and firms received assistance, how quickly, and with what results. That is the data foundation for treating large fiscal programs as <strong>programmable policy engines</strong> with feedback loops, rather than one-off cash transfers whose distribution is never fully mapped.</li>
+    <li>Whether the record permits a <strong>quantitative and qualitative assessment</strong> of Infineon&rsquo;s domestic-industry investments that accounts for <strong>all non-U.S. activities</strong> related to the domestic-industry products.</li>
+    <li>How to perform that assessment in practice &mdash; e.g., via <strong>domestic vs foreign investment comparisons</strong>, <strong>value-added analysis</strong>, or domestic investment as a share of product value or revenue.</li>
+    <li>How to use confidential economic evidence (e.g., exhibit <strong>CDX-0005C.25</strong>) to support or challenge domestic-industry findings.</li>
   </ul>
-
-  <h3>Coverage / under-coverage</h3>
-  <p>Privacy Act SORNs like FR Doc. 2026-02234 are typically treated as technical housekeeping and draw little attention outside compliance circles. Federal Register metadata shows approximately <strong>113 page views</strong> as of 2026-02-05 14:15 ET, which is very low given the scope of programs and individuals brought under this single data spine. From this environment, direct searches of mainstream outlets are degraded by captchas and JavaScript walls, but based on usual coverage patterns for SORNs, there is little sign that this move to unify ERA, HAF, SLFRF, SSBCI, CPF, RESTORE, LATCF, and SIPPRA data into a single, shareable system has been treated as a structural story.</p>
-  <p><strong>COVERAGE TAG:</strong> <code>LIKELY_UNDERCOVERED_TREASURY_FINANCIAL_ASSISTANCE_SORN_DO0197</code></p>
-
-  <h3>Sources</h3>
+  <p>That makes this notice a test case for <strong>who can wield section 337</strong> in a globalized semiconductor supply chain:</p>
   <ul>
-    <li><strong>Federal Register notice:</strong> <a href="https://www.federalregister.gov/documents/2026/02/04/2026-02234/privacy-act-systems-of-records" target="_blank" rel="noopener noreferrer">FR Doc. 2026-02234</a>, 91 FR 5155&ndash;5158 (Feb. 4, 2026), <em>Privacy Act; Systems of Records</em>, establishing DO .0197&mdash;Financial Assistance Programs.</li>
-    <li><strong>GovInfo text mirror (this site):</strong> <code>sources/fedreg-20260204-2026-02234-treasury-financial-assistance-programs-sorn.txt</code>.</li>
-    <li><strong>Research note:</strong> <code>notes/20260204-treasury-financial-assistance-programs-sorn.md</code> (scope of programs, categories of individuals/records, routine uses, and structural analysis).</li>
+    <li>If the Commission embraces a <strong>lenient</strong>, loosely quantified standard, IP holders with modest U.S. production footprints but strong global fabs can still unlock powerful <strong>import bans</strong>.</li>
+    <li>If it demands a <strong>tighter, evidence‑driven showing</strong> of U.S. economic commitment, it raises the bar for using ITC remedies when a firm&rsquo;s domestic presence is primarily sales and field support.</li>
   </ul>
+  <p>Either way, the resulting reasoning will be cited in future disputes over <strong>who has enough U.S. skin in the game</strong> to cut off foreign-made chips at the border.</p>
+
+  <h3>Stacking remedies across GaN investigations</h3>
+  <p>Another quiet but important move: the Commission asks parties to explain how the accused products here overlap with products already subject to remedial orders in <strong>Investigation No. 337-TA-1366</strong>, and to provide market-share data on:</p>
+  <ul>
+    <li>The share of the U.S. market held by the '481-accused products (including those not covered by 337-TA-1366);</li>
+    <li>The share held by Infineon&rsquo;s own domestic-industry products; and</li>
+    <li>Whether other suppliers could <strong>backfill U.S. demand</strong> if a new exclusion order and cease-and-desist orders are imposed.</li>
+  </ul>
+  <p>That makes this proceeding an explicit exercise in <strong>remedy stacking management</strong>:</p>
+  <ul>
+    <li>If both 337-TA-1366 and 337-TA-1414 produce broad exclusion orders in overlapping GaN product classes, the U.S. could end up with a <strong>hyper‑concentrated supply base</strong> for high-efficiency power devices.</li>
+    <li>The Commission appears to be probing for <strong>public-interest guardrails</strong>, weighing IP enforcement against the risk of over‑tightening a component that sits at the heart of <strong>data centers, EV platforms, fast chargers, and industrial power shelves</strong>.</li>
+  </ul>
+
+  <h3>Remedy design, bond, and the operational clock</h3>
+  <p>The notice walks through the familiar ITC remedy and review mechanics, but in a context where even incremental changes matter operationally:</p>
+  <ul>
+    <li>If the Commission issues a limited exclusion order and CDOs, the <strong>U.S. Trade Representative</strong>, acting for the President, will have <strong>60 days</strong> to approve, disapprove, or take no action. During that period, imports can enter only under a <strong>bond</strong> set by the Commission.</li>
+    <li>The ALJ recommended a <strong>100% bond</strong>, which, if adopted, would turn continued imports into a high‑stakes cash-flow decision for U.S. OEMs relying on Innoscience-based designs.</li>
+    <li>Parties and interested third‑party commenters have until <strong>February 17, 2026</strong> (initial submissions, 30-page cap) and <strong>February 24, 2026</strong> (replies, 15-page cap; 10 pages for third parties / agencies) to shape that remedy design and bond level.</li>
+  </ul>
+  <p>For device makers and system integrators, this is the window to put concrete evidence of <strong>substitutability, requalification timelines, and systemic risk</strong> in front of the Commission before it decides how hard to turn the exclusion dial.</p>
+
+  <h3>Coverage and why it matters now</h3>
+  <p>As of the afternoon of February 5, 2026, the Federal Register JSON API reports only about <strong>44 page views</strong> for this notice. Coverage appears limited to specialized IP and trade law channels, with <strong>no evidence of broad technology or business press attention</strong> at this pre‑remedy stage.</p>
+  <p>That under‑coverage matters because the Commission is <strong>actively asking</strong> for submissions on:</p>
+  <ul>
+    <li>How to interpret key power-device claim language;</li>
+    <li>How to quantify domestic-industry investments in an offshored fabrication landscape; and</li>
+    <li>How to avoid stacking exclusion orders that would over‑concentrate U.S. GaN supply.</li>
+  </ul>
+  <p>By the time a final exclusion order (if any) becomes headline news, the <strong>comment windows will have closed</strong> and the structural decisions about claim scope, domestic-industry math, and public-interest boundaries will already be baked in.</p>
+
+  <p><strong>Coverage tag:</strong> <code>LIKELY_UNDERCOVERED_ITC_GAN_POWER_SEMICONDUCTOR_EXCLUSION_337_1414</code></p>
+
+  <p><strong>Primary sources:</strong> <a href="https://www.federalregister.gov/documents/2026/02/05/2026-02297/certain-semiconductor-devices-and-products-containing-the-same-notice-of-a-commission-determination" target="_blank" rel="noopener noreferrer">FR Doc. 2026-02297</a> (notice of partial review and request for submissions); <a href="https://www.govinfo.gov/content/pkg/FR-2026-02-05/pdf/2026-02297.pdf" target="_blank" rel="noopener noreferrer">GovInfo PDF</a>; ITC Investigation No. <a href="https://edis.usitc.gov" target="_blank" rel="noopener noreferrer">337-TA-1414</a> docket materials.</p>
 </li>
 
 </ul>
