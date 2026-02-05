@@ -1,0 +1,407 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 23 (Wednesday, February 4, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 23 (Wednesday, February 4, 2026)]
+[Notices]
+[Pages 5155-5158]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-02234]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF THE TREASURY
+
+
+Privacy Act; Systems of Records
+
+AGENCY: Departmental Offices, Department of the Treasury.
+
+ACTION: Notice of a new system of records.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In accordance with the Privacy Act of 1974, as amended 
+(Privacy Act), the Department of the Treasury (Treasury), Departmental 
+Offices proposes to establish a new Treasury system of records entitled 
+``Department of the Treasury, Departmental Offices DO .0197--Financial 
+Assistance Programs'' for information collected in connection with the 
+administration of financial assistance programs by Treasury's 
+Departmental Offices. This action is necessary to meet the requirements 
+of the Privacy Act to publish in the Federal Register notice of the 
+existence and character of the system of records maintained by 
+Treasury.
+
+DATES: Written comments must be received by March 6, 2026. This new 
+system will be effective upon publication. The routine uses will be 
+applicable on March 6, 2026 unless Treasury receives comments and 
+determines that changes to the system of records notice are necessary.
+
+ADDRESSES: Comments may be submitted by any of the following methods:
+    <bullet> Federal E-rulemaking Portal: <a href="https://www.regulations.gov">https://www.regulations.gov</a>. 
+Follow the instructions for submitting comments. Electronic submission 
+of comments allows the commenter maximum time to prepare and submit a 
+comment and ensures timely receipt.
+    <bullet> Mail: U.S. Department of the Treasury, Attention: Ryan 
+Law, Deputy Assistant Secretary for Privacy, Transparency, and Records, 
+1500 Pennsylvania Avenue NW, Washington, DC 20220.
+    Treasury encourages comments to be submitted via <a href="https://www.regulations.gov">https://www.regulations.gov</a>. All comments submitted, including attachments and 
+other supporting material, will be made public, including any 
+personally identifiable or confidential business information that is 
+included in a comment. Therefore, commenters should submit only 
+information that they wish to make publicly available. Commenters who 
+wish to remain anonymous should not include identifying information in 
+their comments.
+
+FOR FURTHER INFORMATION CONTACT: For general questions and questions 
+regarding privacy issues, please contact: Ryan Law, Deputy Assistant 
+Secretary for Privacy, Transparency, and Records, Department of the 
+Treasury, 1500 Pennsylvania Avenue NW, Washington, DC 20220; telephone: 
+(202) 622-5710.
+
+SUPPLEMENTARY INFORMATION: In accordance with the Privacy Act of 1974, 
+5 U.S.C. 552a, as amended (the Privacy Act), the Department of the 
+Treasury (Treasury), Departmental Offices proposes to establish a new 
+system of records entitled ``Department of the Treasury, Departmental 
+Offices .0197--Financial Assistance Programs'' for information 
+collected in connection with the administration of financial assistance 
+programs by Treasury Departmental Offices. These programs include the 
+Capital Projects Fund program, Emergency Rental Assistance programs, 
+Homeowner Assistance Fund program, Local Assistance and Tribal 
+Consistency Fund program, RESTORE Act programs (the Direct Component 
+and Centers of Excellence Research Grants Program), Social Impact 
+Partnership to Pay for Results Act program, State and Local Fiscal 
+Recovery Funds program, and State Small Business Credit Initiative 
+programs, as well as other such programs Treasury may administer.
+    This established system will be included in Treasury's inventory of 
+record systems. Below is the description of the new system, 
+``Department of the Treasury, Departmental Offices .0197--Financial 
+Assistance Programs.''
+    In accordance with 5 U.S.C. 552a(r), Treasury has provided a report 
+of this new system to OMB and to the U.S. Congress.
+
+    Dated: January 30, 2026.
+George Apetse,
+Acting Treasury Privacy Officer.
+
+SYSTEM NAME AND NUMBER:
+    Department of the Treasury, DO .0197--Financial Assistance 
+Programs.
+
+SECURITY CLASSIFICATION:
+    Unclassified.
+
+SYSTEM LOCATION:
+    Records are maintained at the Departmental Offices: 1500 
+Pennsylvania Avenue NW, Washington, DC 20220.
+
+SYSTEM MANAGER(S):
+    a. Office of Capital Access, U.S. Department of the Treasury, 1500 
+Pennsylvania Avenue NW, Washington, DC 20220.
+    b. Office of Economic Policy, U.S. Department of the Treasury, 1500 
+Pennsylvania Avenue NW, Washington, DC 20220.
+    b. Chief Information Officer, U.S. Department of the Treasury, 1500 
+Pennsylvania Avenue NW, Washington, DC 20220.
+
+AUTHORITY FOR MAINTENANCE OF THE SYSTEM:
+    44 U.S.C. 3101; 44 U.S.C. 3554; 12 U.S.C. 5701 et seq. (State Small 
+Business Credit Initiative Programs); 15 U.S.C. 9058a, 9058c (Emergency 
+Rental Assistance programs); 15 U.S.C. 9058d (Homeowner Assistance Fund 
+program); 33 U.S.C. 1321 note (RESTORE Act programs); 42 U.S.C. 1397n 
+et seq. (SIPPRA program); 42 U.S.C. 802-805 (State and Local Fiscal 
+Recovery Funds programs, Capital Projects Fund program, and Local 
+Assistance and Tribal Consistency Fund) program; E.O. 9397, as amended 
+by E.O. 13478; and E.O. 14243.
+
+PURPOSE(S) OF THE SYSTEM:
+    The purpose of this system is to collect information from 
+recipients and other parties regarding implementation of the financial 
+assistance programs administered by Treasury Departmental Offices. 
+Treasury may use this information to evaluate compliance with program 
+requirements, including compliance with applicable federal laws, 
+regulations, and executive orders; to support other audit and program 
+oversight activities; to identify potential waste, fraud, and abuse; 
+and for research and statistical purposes.
+
+CATEGORIES OF INDIVIDUALS COVERED BY THE SYSTEM:
+    This system covers individual beneficiaries of financial assistance 
+programs administered by Treasury's Departmental Offices, including the
+
+[[Page 5156]]
+
+Capital Projects Fund program, Emergency Rental Assistance programs, 
+Homeowner Assistance Fund program, Local Assistance and Tribal 
+Consistency Fund program, RESTORE Act programs (including the Direct 
+Component and the Centers of Excellence Research Grants Program), the 
+Social Impact Partnerships to Pay for Results Act program, the State 
+and Local Fiscal Recovery Funds program, and the State Small Business 
+Credit Initiative programs, as well as other similar programs that 
+Treasury may administer. Beneficiaries are the ultimate persons or 
+entities that receive the intended benefit of the federal assistance. 
+The system covers both individual beneficiaries as well as individuals 
+associated with small businesses, non-profits, or other entities that 
+receive assistance such as individual owners or employees of such 
+businesses, or other entities. The system also covers other individuals 
+associated with these programs, including employees, agents, or 
+representatives of recipients, subrecipients, and their contractors or 
+vendors, who carry out or are otherwise involved in program activities. 
+In addition, the system includes any other individuals whose 
+information is received by Treasury Departmental Offices, either 
+directly or indirectly, in the course of program administration, 
+compliance, audit, oversight, or research and statistical activities. 
+Recipients receive financial assistance directly from Treasury and may 
+include: states, territories, tribal governments, territories, local 
+governments, public authorities or instrumentalities, non-profits, for-
+profit businesses, and other entities. Subrecipients receive funding 
+from a Treasury recipient (or pass-through entity) to carry out part of 
+a federal program and have programmatic responsibility and may include 
+non-profits, for-profit businesses, tribal governments, local 
+governments, public authorities or instrumentalities, and other 
+entities. Contractors or vendors are individuals or entities that 
+provide goods or services to a recipient or subrecipient in support of 
+a federal program, but do not carry out the federal program itself.
+
+CATEGORIES OF RECORDS IN THE SYSTEM:
+    Records consist of information collected or otherwise maintained by 
+program recipients, subrecipients, and their contractors, including but 
+not limited to information collected by recipients, subrecipients, and 
+their contractors for the purpose of determining applicant eligibility 
+for assistance, administering such assistance, and conducting program 
+oversight, audit, and compliance activities.
+    Records include application materials and supporting documentation 
+submitted by individuals and entities applying for assistance from 
+recipients and subrecipients as well as other information related to an 
+individual's or entity's application for and receipt of such 
+assistance. Records also include documentation regarding contracts 
+entered into by recipients and subrecipients with contractors for 
+activities undertaken using funds received from Treasury Departmental 
+Offices financial assistance programs.
+    Information in such records may include, but is not limited to, the 
+following information: full legal name; unique identifiers or 
+application identification numbers assigned by the recipient, 
+subrecipient or contractor; residential address and contact 
+information; reported income and household financial information; self-
+attestations, certifications, and signatures; supporting documentation 
+provided by applicants; amounts of assistance awarded or received; 
+periods of assistance, including applicable dates; information about 
+employees or owners of recipients, subrecipients, contractors, or 
+business beneficiaries; and identifying, demographic, and financial 
+information associated with the receipt of or entry into awards, 
+grants, loans, contracts, investments, and other transactions, 
+including Social Security numbers or taxpayer identification numbers.
+    Records in the system may include employment-related and financial 
+data necessary to support eligibility determinations, payment 
+processing, audit activities, and program integrity functions. Treasury 
+would collect such information as necessary for program administration, 
+reporting, audit, compliance, or research and statistical purposes.
+
+RECORD SOURCE CATEGORIES:
+    The information contained in the system may be provided by 
+recipients, subrecipients, and contractors that managed these programs 
+on their behalf. Recipients include, but are not limited to, states, 
+territories, local governments, Tribes, the freely associated states, 
+and various non-profit and for-profit entities.
+
+ROUTINE USES OF RECORDS MAINTAINED IN THE SYSTEM, INCLUDING CATEGORIES 
+OF USERS AND PURPOSES OF SUCH USES:
+    In addition to those disclosures generally permitted under the 
+Privacy Act of 1974, 5 U.S.C. 552a(b), records and/or information or 
+portions thereof maintained as part of this system may be disclosed 
+outside Treasury as a routine use pursuant to 5 U.S.C. 552a(b)(3) as 
+follows:
+    (1) To the United States Department of Justice (``DOJ''), for the 
+purpose of representing or providing legal advice to the Department in 
+a proceeding before a court, adjudicative body, or other administrative 
+body before which the Department is authorized to appear, when such 
+proceeding involves:
+    (a) The Department or any component thereof;
+    (b) Any employee of the Department in his or her official capacity;
+    (c) Any employee of the Department in his or her individual 
+capacity where DOJ or the Department has agreed to represent the 
+employee; or
+    (d) The United States, when the Department determines that 
+litigation is likely to affect the Department or any of its components; 
+and the use of such records by the DOJ is deemed by the DOJ or the 
+Department to be relevant and necessary to the litigation provided that 
+the disclosure is compatible with the purpose for which records were 
+collected.
+    (2) To Federal agencies, non-Federal entities (including States and 
+local governments), their employees, and agents (including contractors, 
+their agents or employees and employees or contractors of the agents); 
+or contractors (including their employees or agents) with which the 
+Department has a contract, service agreement, grant, cooperative 
+agreement, or computer matching agreement for the purpose of: (1) 
+identification, prevention, and recovery of improper payments; (2) 
+identification and prevention of fraud, waste, and abuse in Federal 
+programs administered by the Department, another Federal agency, or a 
+non-Federal entity; or (3) establishing or verifying the eligibility 
+of, or continuing compliance with statutory and regulatory requirements 
+by, applicants for, recipients or beneficiaries of, participants in, or 
+providers of services with respect to assistance or payments under 
+Federal programs or recouping payments or recovering delinquent debts 
+under such Federal programs;
+    (3) To contractors, grantees, experts, consultants, Federal 
+agencies, and non-Federal entities, including, but not limited to, 
+State and local governments and other research institutions or their 
+parties, and entities and their agents with which the Department has a 
+contract, service agreement, grant, cooperative agreement, or other 
+agreement for the purposes of statistical analysis and research in 
+support of program operations, management,
+
+[[Page 5157]]
+
+performance monitoring, evaluation, risk management, and policy 
+development, to otherwise support the Department's mission, or for 
+other research and statistical purposes not otherwise prohibited by law 
+or regulation.
+    (4) To appropriate Federal, State, local, or foreign agencies, or 
+other public authority responsible for investigating or prosecuting the 
+violations of or for enforcing or implementing a statute, rule, 
+regulation, order, or license, where the disclosing agency becomes 
+aware of an indication of a violation or potential violation of civil 
+or criminal law or regulation;
+    (5) To a Federal, State, local, or other public authority 
+maintaining civil, criminal or other relevant enforcement information 
+or other pertinent information, which has requested information 
+relevant to or necessary to the requesting agency's, bureau's, or 
+authority's hiring or retention of an individual, or issuance of a 
+security clearance, license, contract, grant, or other benefit;
+    (6) In a proceeding before a court, adjudicative body, or other 
+administrative body before which the agency is authorized to appear 
+when: (a) the agency, (b) or any component thereof, (c) any employee of 
+the agency in his or her official capacity, (d) any employee of the 
+agency in his or her individual capacity where the Department of 
+Justice or the agency has agreed to represent the employee; or (e) the 
+United States, when the agency determines that litigation is likely to 
+affect the agency, is a party to litigation or has an interest in such 
+litigation, and the use of such records by the agency is deemed to be 
+relevant and necessary to the litigation or administrative proceeding 
+and not otherwise privileged;
+    (7) To a Congressional office in response to an inquiry made at the 
+request of the individual to whom the record pertains;
+    (8) To the news media in accordance with guidelines contained in 28 
+CFR 50.2 which pertain to an agency's functions relating to civil and 
+criminal proceedings;
+    (9) To third parties during the course of an investigation to the 
+extent necessary to obtain information pertinent to the investigation;
+    (10) To a public or professional licensing organization when such 
+information indicates, either by itself or in combination with other 
+information, a violation or potential violation of professional 
+standards, or reflects on the moral, educational, or professional 
+qualifications of an individual who is licensed or who is seeking to 
+become licensed;
+    (11) To a contractor for the purpose of compiling, organizing, 
+analyzing, programming, processing, or otherwise refining records 
+subject to the same limitations applicable to U.S. Department of the 
+Treasury officers and employees under the Privacy Act;
+    (12) To a court, magistrate, or administrative tribunal in the 
+course of presenting evidence, including disclosures to opposing 
+counsel or witnesses in the course of civil discovery, litigation, or 
+settlement negotiations or in connection with criminal law proceedings 
+or in response to a court order when Treasury determines that the 
+disclosure is relevant and necessary;
+    (13) To other Federal agencies to effect salary or administrative 
+offset for the purpose of collecting debts, except that addresses 
+obtained from the Internal Revenue Service shall not be disclosed to 
+other agencies;
+    (14) To disclose information to a consumer reporting agency, 
+including mailing addresses obtained from the Internal Revenue Service, 
+to obtain credit reports;
+    (15) To a debt collection agency, including mailing addresses 
+obtained from the Internal Revenue Service, for debt collection 
+services;
+    (16) To unions recognized as exclusive bargaining representatives 
+under the Civil Service Reform Act of 1978, 5 U.S.C. 7111 and 7114, the 
+Merit Systems Protection Board, arbitrators, the Federal Labor 
+Relations Authority, and other parties responsible for the 
+administration of the Federal labor-management program for the purpose 
+of processing any corrective actions, or grievances, or conducting 
+administrative hearings or appeals, or if needed in the performance of 
+other authorized duties;
+    (17) To a public or professional auditing organization for the 
+purpose of conducting financial audit and/or compliance audits;
+    (18) To a student participating in a Treasury student volunteer 
+program, where such disclosure is necessary to support program 
+functions of Treasury, and
+    (19) To appropriate agencies, entities, and person when (1) the 
+Department of the Treasury suspects or has confirmed that there has 
+been a breach of the system of records; (2) the Department of the 
+Treasury has determined that as a result of the suspected or confirmed 
+breach there is a risk of harm to individuals, the Department of the 
+Treasury (including its information systems, programs, and operations), 
+the Federal Government, or national security; and (3) the disclosure 
+made to such agencies, entities, and persons is reasonably necessary to 
+assist in connection with the Department of the Treasury's efforts to 
+respond to the suspected or confirmed breach or to prevent, minimize, 
+or remedy such harm.
+    (20) To another Federal agency or Federal entity, when the 
+Department of the Treasury determines that information from this system 
+of records is reasonably necessary to assist the recipient agency or 
+entity in (1) responding to a suspected or confirmed breach or (2) 
+preventing, minimizing, or remedying the risk of harm to individuals, 
+the recipient agency or entity (including its information systems, 
+programs, and operations), the Federal Government, or national 
+security, resulting from a suspected or confirmed breach.
+    (21) The National Archives and Records Administration for use in 
+its records management inspections and its role as an Archivist under 
+the authority of 44 U.S.C. 2904 and 2906.
+
+POLICIES AND PRACTICES FOR STORAGE OF RECORDS:
+    Records in this system are stored electronically in secure 
+facilities. Paper records (if they must be created/maintained) are 
+stored in a locked drawer, behind a locked door, or at a secure offsite 
+location.
+
+POLICIES AND PRACTICES FOR RETRIEVAL OF RECORDS:
+    Records in this system may be retrieved, for authorized purposes, 
+by name or another unique identifier.
+
+POLICIES AND PRACTICES FOR RETENTION AND DISPOSAL OF RECORDS:
+    Records in this system will be maintained and disposed in 
+accordance with National Archives and Records Administration retention 
+schedules.
+
+ADMINISTRATIVE, TECHNICAL, AND PHYSICAL SAFEGUARDS:
+    Records in this system are safeguarded in accordance with 
+applicable laws and policies, including all applicable Treasury 
+information systems security and access policies. Strict controls are 
+imposed to minimize the risk of compromising the information that is 
+being stored. Access to the records in this system is limited to those 
+individuals who have appropriate permissions and a need to know for the 
+performance of their official duties. User activity is recorded by the 
+system for audit purposes. Electronic records are encrypted at rest
+
+[[Page 5158]]
+
+and in transit. Records are maintained in buildings subject to 24-hour 
+security.
+
+RECORD ACCESS PROCEDURES:
+    See ``Notification Procedures'' below.
+
+CONTESTING RECORD PROCEDURES:
+    See ``Notification Procedures'' below.
+
+NOTIFICATION PROCEDURES:
+    Individuals seeking notification and access to any record contained 
+in this system of records, or seeking to contest its content, may 
+inquire in writing in accordance with instructions appearing at 31 CFR 
+part 1, subpart C, appendix A. Requests for information and specific 
+guidance on where to send requests for records may be addressed to: 
+Privacy Act Request, DO, Director, FOIA and Transparency, Department of 
+the Treasury, 1500 Pennsylvania Avenue NW, Washington, DC 20220.
+
+EXEMPTIONS PROMULGATED FOR THE SYSTEM:
+    None.
+
+HISTORY:
+    None.
+
+[FR Doc. 2026-02234 Filed 2-3-26; 8:45 am]
+BILLING CODE 4810-AK-P
+
+
+</pre></body>
+</html>
