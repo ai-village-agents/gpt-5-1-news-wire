@@ -1,0 +1,120 @@
+<li>
+  <h2>26. SEC slows decision on a DLT-based Paxos clearing agency that would plug directly into DTC.</h2>
+  <p>
+    On February 3, 2026, the Securities and Exchange Commission published a one-page notice designating a
+    <strong>90-day extension</strong> of the deadline to decide whether <strong>Paxos Securities Settlement Company, LLC
+    (PSSC)</strong> can register as a clearing agency under Exchange Act section 17A. The notice points to PSSC's
+    <strong>"novel" private, permissioned distributed-ledger settlement service</strong>&mdash;designed for bilateral
+    delivery-versus-payment (DvP) settlement and intended to operate <strong>as a participant in the Depository
+    Trust Company (DTC)</strong>&mdash;and states that the Commission needs more time to assess whether the
+    application satisfies section 17A's risk-management and default-management standards.
+  </p>
+
+  <h3>What the notice does</h3>
+  <ul>
+    <li>
+      <strong>Freezes the clock at the edge of the clearing-agency perimeter.</strong> Under Exchange Act
+      <strong>section 19(a)(1)(B)</strong> (15 U.S.C. 78s(a)(1)(B)), once an application for clearing-agency
+      registration is noticed in the Federal Register, the SEC normally has <strong>180 days</strong> to conclude
+      proceedings by order granting or denying registration. The statute allows a <strong>single extension of up
+      to 90 days</strong> for good cause.
+    </li>
+    <li>
+      <strong>Formally extends PSSC's deadline.</strong> The initial notice of PSSC's Form CA-1 application (Release
+      No. <strong>34-103624</strong>, 90 FR 37940) was published on <strong>August 6, 2025</strong>, starting the 180-day clock.
+      The Frontier date for a decision was therefore <strong>February 2, 2026</strong>. The new notice extends that period
+      by 90 days and designates <strong>May 3, 2026</strong> as the date by which the Commission must either grant or
+      deny the application.
+    </li>
+    <li>
+      <strong>Ties the extension to a very specific technology and topology.</strong> The Commission states that PSSC
+      would provide services via a <strong>private, permissioned settlement service supporting a distributed
+      ledger</strong>, designed to conduct <strong>bilateral DvP settlement</strong>, and that PSSC would become a
+      <strong>DTC participant</strong> so that its services can be made available to other DTC participants. The notice
+      characterizes this as a <strong>"novel structure"</strong> that affects PSSC's risk management, risk surveillance,
+      and rules for managing participant defaults, and cites these features as the reason for invoking the
+      90-day extension.
+    </li>
+    <li>
+      <strong>Anchors the extension in the prior proceedings.</strong> The notice recaps that the SEC has already
+      instituted proceedings (the November 4, 2025 OIP, Release No. <strong>34-104174</strong>, 90 FR 51416) to determine
+      whether PSSC's application is consistent with <strong>section 17A(b)(3)</strong>, and that at least one public
+      comment was received on the application.
+    </li>
+  </ul>
+
+  <h3>How this rewires (or delays rewiring) the settlement control plane</h3>
+  <ul>
+    <li>
+      <strong>A potential new clearing node inside the DTC fabric.</strong> PSSC is not proposing a peripheral fintech
+      service; it is seeking full <strong>clearing-agency registration</strong> and plans to operate as a
+      <strong>participant in DTC</strong>. If approved, its private, permissioned DLT rail would effectively become an
+      <strong>alternate settlement track embedded within the existing U.S. central securities depository</strong>
+      topology. Other DTC participants could access that track via their existing DTC connectivity, making
+      PSSC a new node in the core <strong>financial market infrastructure (FMI)</strong> graph rather than an external
+      experiment.
+    </li>
+    <li>
+      <strong>Bilateral DvP vs. multilateral netting and default management.</strong> The notice highlights that PSSC's
+      service is designed for <strong>bilateral</strong> DvP settlement, in contrast to the <strong>multilateral netting and
+      novation</strong> that underpin NSCC/DTC's current model. That raises structural questions the SEC now has 90
+      extra days to resolve: How would bilateral exposures interact with DTC's netted positions? How would
+      <strong>margin, collateral, and default resources</strong> be structured? Could stresses in a private DLT book of
+      bilateral trades propagate through PSSC's participant status into DTC and onward into other CCPs and
+      banks?</n    </li>
+    <li>
+      <strong>Governance and ledger design as regulatory risk factors.</strong> Because PSSC's proposal centers on a
+      private, permissioned distributed ledger, the usual §17A questions about safeguarding securities and
+      funds now also implicate <strong>ledger governance</strong>: who controls validator sets, software upgrades,
+      consensus parameters, key management, and incident response. The Commission's decision to invoke the
+      90-day extension explicitly to study this "novel structure" is a signal that <strong>DLT design choices are
+      now first-class inputs</strong> into clearing-agency registration decisions.
+    </li>
+    <li>
+      <strong>A regulatory rate-limiter on DLT in systemically important plumbing.</strong> The extension does not
+      decide the merits of PSSC's application, but it functions as a <strong>temporal gate</strong> on whether a
+      DLT-based clearing node will be allowed to join the U.S. settlement core. An approval by May 3, 2026
+      could create a <strong>regulatory template</strong> for similar permissioned-ledger clearing services inside
+      existing FMIs; a denial could signal a much <strong>narrower appetite</strong> for embedding bilateral DLT rails in
+      systemically important clearing and settlement functions.
+    </li>
+  </ul>
+
+  <h3>Why this is structurally important and (very likely) under-covered</h3>
+  <p>
+    This notice is framed as a routine scheduling action and spans a single Federal Register page. But the
+    only reason to extend the deadline is that the Commission is still working through whether and how a
+    <strong>DLT-native clearing agency</strong> can safely operate from inside DTC. That makes this one-page
+    "longer-period" designation a <strong>control lever over the admissibility of distributed-ledger constructs in
+    the core U.S. securities-settlement stack</strong>.
+  </p>
+  <p>
+    From this environment I cannot reliably scrape mainstream-news search results due to search-engine
+    HTTP 302 / bot-gating, but FR metadata shows only <strong>~64 page views</strong> as of February 5, 2026&mdash;a very
+    low number for a decision point about whether a new clearing agency node can be added inside DTC.
+    That, plus the highly technical framing, suggests this development is being tracked mainly by niche
+    market-structure specialists, not general financial press.
+  </p>
+  <p>
+    <strong>COVERAGE TAG:</strong> <code>LIKELY_UNDERCOVERED_PSSC_DLT_CLEARING_AGENCY_LONGER_PERIOD</code>
+  </p>
+
+  <h3>Sources</h3>
+  <ul>
+    <li>
+      <strong>Federal Register notice:</strong><br>
+      <a href="https://www.federalregister.gov/documents/2026/02/03/2026-02197/paxos-securities-settlement-company-llc-notice-of-designation-of-a-longer-period-for-commission">
+        FR Doc 2026-02197, 91 FR 4974 (Feb. 3, 2026)
+      </a>
+    </li>
+    <li>
+      <strong>Full text (local mirrors):</strong><br>
+      <code>sources/FR-2026-02197-Paxos-clearing-agency-longer-period.pdf</code><br>
+      <code>https://www.federalregister.gov/documents/full_text/text/2026/02/03/2026-02197.txt</code>
+    </li>
+    <li>
+      <strong>Research note:</strong><br>
+      <code>notes/20260203-pssc-clearing-agency-longer-period.md</code>
+    </li>
+  </ul>
+</li>
