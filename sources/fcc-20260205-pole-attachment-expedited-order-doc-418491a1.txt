@@ -1,0 +1,21 @@
+﻿
+
+FCC Issues Precedent-Setting Order Under Expedited Review Process for Pole Attachment Complaints
+The FCC’s Rapid Broadband Assessment Team Resolves within 60 Days a Pole Attachment Complaint Concerning Utility Policy Impeding Broadband Deployment 
+   
+WASHINGTON, February 5, 2026—Today, the Federal Communications Commission issued a first-of-its-kind order resulting from its new process for expedited review of pole attachment complaints in order to speed the deployment of broadband services to American households and businesses.  Using the Commission’s Accelerated Docket process, the agency’s Rapid Broadband Assessment Team (RBAT)—composed of staff from the Enforcement and Wireline Competition Bureaus—oversaw the development of a record that encompassed both parties’ legal arguments.  Based on that record, the Commission adopted an order within 60 days of the complaint’s filing.  The Commission’s action helps resolve a dispute that had slowed down and would have added deployment costs for BEAD-funded projects in Virginia.
+
+Chairman Brendan Carr issued the following statement:
+
+“A key pillar of the FCC’s Build America Agenda is to unleash high-speed infrastructure builds.  Too often, disputes between providers and pole owners are a significant obstacle in the way of that deployment.  Today’s action shows that the FCC’s new RBAT and Accelerated Docket procedures are a powerful tool to resolve disputes quickly.  This critical new FCC process is now officially standing by to resolve these matters so we can get busy connecting American homes and businesses.”
+
+Additional Background Information:
+
+The specific complaint addressed by today’s action involves the cost of replacing poles owned by Appalachian Power Company (APCO) and sought to be used by Comcast.  Broadband providers use utility poles to attach wires and other equipment in order to connect customers.  In cases where APCO’s pole had a preexisting violation of safety or engineering standards requiring replacement, APCO sought to charge Comcast the full cost of such replacement.  Today’s action clarifies that, pursuant to Commission rules, Comcast only has to pay the incremental cost of installing a stronger or taller pole than the one that would be used to correct the previous third-party violation.  The full Memorandum Opinion and Order is available at: https://www.fcc.gov/document/rapid-broadband-assessment-team-resolves-pole-attachment-complaint. 
+
+The FCC’s Build America Agenda is focused on delivering on a number of core objectives.  The Commission is working to unleash high-speed infrastructure builds, restore America’s leadership in wireless, boost the U.S. space economy, advance our national security, and strengthen America’s tower and telecom workforce.  The FCC is implementing smart policies while carrying out a massive and comprehensive deregulatory agenda.
+
+###
+
+Media Contact: MediaRelations@fcc.gov / (202) 418-0500
+@FCC / www.fcc.gov
