@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 25 (Friday, February 6, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 25 (Friday, February 6, 2026)]
+[Proposed Rules]
+[Pages 5386-5387]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-02454]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+COMMODITY FUTURES TRADING COMMISSION
+
+17 CFR Part 40
+
+RIN 3038-AF14
+
+
+Event Contracts; Withdrawal of Proposed Regulatory Action
+
+AGENCY: Commodity Futures Trading Commission.
+
+ACTION: Notice of withdrawal of proposed rules.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Commodity Futures Trading Commission (``Commission'' or 
+``CFTC'') is formally withdrawing a notice of proposed rulemaking 
+published on June 10, 2024, titled ``Event Contracts.'' The Commission 
+does not intend to issue final rules with
+
+[[Page 5387]]
+
+respect to this proposal. If the Commission decides to pursue future 
+regulatory action in this area, it will issue new proposed rules.
+
+DATES: The Commission is withdrawing the proposed rules published at 89 
+FR 48968 (June 10, 2024) as of February 4, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Frank Fisanich, Acting Director, (202) 
+418-5949, <a href="/cdn-cgi/l/email-protection#b8deded1cbd9d6d1dbd0f8dbdeccdb96dfd7ce"><span class="__cf_email__" data-cfemail="4721212e3426292e242f072421332469202831">[email&#160;protected]</span></a>, Division of Market Oversight, Commodity 
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street 
+NW, Washington, DC 20581.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    On June 10, 2024, the Commission published a notice of proposed 
+rulemaking in the Federal Register proposing amendments to its rules 
+concerning event contracts in certain excluded commodities. 
+Specifically, the Commission proposed amendments to further specify 
+types of event contracts that fall within the scope of section 
+5c(c)(5)(C) of the Commodity Exchange Act (``CEA'') \1\ and are 
+contrary to the public interest, such that they may not be listed for 
+trading or accepted for clearing on or through a CFTC-registered 
+entity. Among other things, the Commission proposed to further specify 
+the types of event contracts that involve ``gaming.''
+---------------------------------------------------------------------------
+
+    \1\ 7 U.S.C. 7a-2(c)(5)(C).
+---------------------------------------------------------------------------
+
+Withdrawal of Proposed Rules
+
+    The Commission is withdrawing these proposed rules to reconsider 
+them in light of various forms of state regulatory actions and 
+litigation concerning the Commission's exclusive jurisdiction over 
+event contract derivatives listed on designated contract markets and 
+the proper application of the swap and excluded commodity definitions 
+under the Commodity Exchange Act, including issues related to the 
+preemption of state gambling, wagering, and gaming laws in relation to 
+sports-related event contracts laws and what activities constitute 
+``gaming'' under the CEA.\2\ Thus, the Commission no longer intends to 
+issue final rules with respect to the proposal. If the Commission 
+decides to pursue future regulatory action in this area, it will do so 
+by publishing new proposed rules or other issuance consistent with the 
+requirements of the Administrative Procedure Act, as applicable.
+---------------------------------------------------------------------------
+
+    \2\ See, e.g., State ex rel. Nevada Gaming Control Board v. 
+Blockratize, Inc. et. al, Case No. 26-OC-00012 1B (Nev. 1st Jud. 
+Dist. Ct. Jan. 16, 2026); Coinbase Financial Markets, Inc. v. Raoul, 
+et al., No. 1:25-cv-15406 (N.D. Ill. Dec. 18, 2025); Robinhood 
+Derivatives, LLC v. Dreitzer, et al., No. 25-7831 (9th Cir. Dec. 12, 
+2025); KalshiEX LLC v. Hendrick, et al., No. 25-7516 (9th Cir. Nov. 
+28, 2025); N. Am. Deriv. Exch., Inc. v. State of Nevada et al., No. 
+25-7187 (9th Cir. Nov. 14, 2025); KalshiEX LLC v. Martin, No. 25-
+01892 (4th Cir. Aug. 6, 2025); KalshiEX LLC v. Flaherty, No. 25-
+01922 (3d Cir. May 15, 2025).
+---------------------------------------------------------------------------
+
+Executive Order 12866
+
+    The Office of Management and Budget has determined that this action 
+is not a significant regulatory action as defined in Executive Order 
+12866, as amended, and therefore it was not subject to Executive Order 
+12866 review.
+
+    Issued in Washington, DC, on February 4, 2026, by the 
+Commission.
+Christopher Kirkpatrick,
+Secretary of the Commission.
+
+    Note: The following appendix will not appear in the Code of 
+Federal Regulations.
+
+Event Contracts; Withdrawal of Proposed Regulatory Action--Commission 
+Voting Summary
+
+    On this matter, Chairman Selig voted in the affirmative. No 
+Commissioner voted in the negative.
+
+[FR Doc. 2026-02454 Filed 2-5-26; 8:45 am]
+BILLING CODE 6351-01-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

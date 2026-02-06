@@ -1,0 +1,1330 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 25 (Friday, February 6, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 25 (Friday, February 6, 2026)]
+[Rules and Regulations]
+[Pages 5303-5316]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-02437]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF DEFENSE
+
+Office of the Secretary
+
+32 CFR Part 220
+
+[Docket ID: DoD-2022-HA-0054]
+RIN 0720-AB87
+
+
+Medical Billing for Healthcare Services Provided by Department of 
+Defense Military Medical Treatment Facilities to Civilian Non-
+Beneficiaries
+
+AGENCY: Defense Health Agency (DHA), Department of Defense (DoD).
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: As required by the James M. Inhofe National Defense 
+Authorization Act for Fiscal Year 2023 (NDAA-23), this rule reduces 
+financial harm to civilians who are not covered beneficiaries of the 
+Military Health System (MHS), and who receive healthcare services at 
+DoD military medical treatment facilities (MTF). The rulemaking 
+implements the MHS Modified Payment and Waiver Program (MPWP) through 
+which the DoD applies a sliding fee scale and/or a catastrophic fee 
+waiver to medical invoices of certain non-beneficiaries and accepts 
+payments from health insurers of non-beneficiaries as full payment 
+except for copays, coinsurance, deductibles, nominal fees and non-
+covered services.
+
+DATES: This rulemaking is effective on March 9, 2026.
+
+FOR FURTHER INFORMATION CONTACT: Ms. Merlyn Jenkins, phone number: 
+(703) 681-8812, mailing address: Office of the Secretary of Defense for 
+Health Affairs, Health Resources Management and Policy, 1200 Defense 
+Pentagon, Washington, DC 20301-1200; email address: 
+<a href="/cdn-cgi/l/email-protection#80ede5f2ecf9eeaeeae5eeebe9eef3aee3e9f6c0e8e5e1ecf4e8aeede9ec"><span class="__cf_email__" data-cfemail="dab7bfa8b6a3b4f4b0bfb4b1b3b4a9f4b9b3ac9ab2bfbbb6aeb2f4b7b3b6">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: The NDAA-23 also grants the Director of DHA 
+discretionary authority to waive assessment of medical fees of non-
+beneficiaries when the healthcare provided enhances the knowledge, 
+skills, and abilities (KSAs) of healthcare providers, as determined by 
+the Director of DHA. The DHA is implementing the amendments to 10 
+U.S.C. 1079b enacted through the NDAA-23. By statute (Pub. L. 117-263, 
+div. A, title VII, Sec.  716(c), Dec. 23, 2022, 136 Stat. 2661), the 
+sliding fee scale and/or catastrophic fee waivers apply to bills for 
+healthcare services provided at MTFs on or after June 21, 2023.
+
+I. Background and Authority
+
+    Title 10, United States Code (U.S.C.), section 1073d requires the 
+DoD to maintain MTFs for the purposes of supporting the medical 
+readiness of the armed forces and the readiness of deployable medical 
+personnel. To maintain medical currency and bolster the KSAs of DoD 
+healthcare providers, the DoD renders emergency, trauma, and other 
+medical services to beneficiaries of the MHS which consist of service 
+members and former service members, and their dependents. The MHS may 
+provide healthcare services to other individuals who are not eligible 
+beneficiaries, in certain circumstances, as authorized by law, and 
+typically on a reimbursable basis (Pub. L. 114-328, 717(c), Dec. 23, 
+2016, as amended (10 U.S.C. 1071 note); and Sec.  1074(c)).
+    Regulations implementing DoD's authority under 10 U.S.C. 1095 and 
+related provisions of law to compute reasonable charges for inpatient 
+and ambulatory (outpatient) care provided by MTFs, including charges 
+for pharmaceuticals, durable medical equipment, supplies, 
+immunizations, injections, or other medications, are at 32 CFR part 
+220, last updated on August 20, 2020 (55 FR 21742-21750). Medical 
+billing is structured under three existing healthcare cost recovery 
+programs: Third Party Collections (10 U.S.C. 1095); Medical Services 
+Account (10 U.S.C. 1079b, 1085, and 1104); and Medical Affirmative 
+Claims (42 U.S.C. 2651-2653). The rates used for billing are modeled 
+after the rates published by the Centers for Medicare & Medicaid 
+Services. The rates are approved annually by the Assistant Secretary of 
+Defense for Health Affairs (ASD(HA)) and published on the DoD 
+Comptroller's website at <a href="https://comptroller.defense.gov/Financial-Management/Reports/rates2023/">https://comptroller.defense.gov/Financial-Management/Reports/rates2023/</a>. Funds collected
+
+[[Page 5304]]
+
+through the healthcare cost recovery programs are used to enhance 
+healthcare delivery at MTFs.
+    In carrying out the DoD's healthcare cost recovery programs, 
+charges and fees for care provided are assessed, as applicable, to 
+civilian non-beneficiary patients who receive treatment at MTFs. When 
+medical care is provided, such individuals become indebted to the 
+United States. The DoD has authority under the Debt Collection 
+Improvement Act of 1996 (DCIA) (Pub. L. 104-134) to compromise, or 
+terminate the collection of, claims involving monetary indebtedness to 
+the United States. The Federal Claims Collection Standards (FCCS) 
+promulgated at 31 CFR parts 900 through 904, which implement the DCIA, 
+require that Federal agencies aggressively collect all debts arising 
+out of activities of that agency. Collection activities must be 
+undertaken promptly with follow-up action taken as necessary. Although 
+an individual's financial circumstances may be considered in applying 
+the FCCS, the relevance of such information in determinations 
+concerning debt compromise or termination concerns the likelihood of 
+repayment or successful enforced collection within a reasonable period 
+of time, rather than the impact on or financial harm to an individual 
+that is consequential to being indebted.
+    Title 10 U.S.C. 1079b, as amended by section 716 of NDAA-23, 
+implements financial protections for certain individual civilian non-
+beneficiaries.
+
+II. Problem Being Addressed Through This Rulemaking
+
+    Due to the high cost of healthcare in the United States and the 
+mandate for Federal agencies to aggressively pursue collection of debts 
+under FCCS, civilian non-beneficiaries who were provided emergency or 
+trauma healthcare services in DoD MTFs have experienced financial harm 
+after receiving substantial medical bills from MTFs. The DoD does not 
+have authority to forgive or waive indebtedness for MTF charges outside 
+of the FCCS and has not had authority to discount charges and fees for 
+medical care, in contrast to for-profit and non-profit hospitals that 
+offer various financial assistance policies. As a result, Congress 
+wholly amended 10 U.S.C. 1079b via section 716 of NDAA-23 providing DoD 
+with significant authority to protect patients from financial harm 
+under the existing billing and collection laws. Section 716 directs DoD 
+to apply a sliding fee and/or a catastrophic fee waiver when assessing 
+fees and charges to non-beneficiaries. For non-beneficiaries with 
+health insurance, Section 716 directs DoD to accept payments from 
+health insurers as full payment and to not balance bill non-
+beneficiaries except for copays, coinsurance, deductibles, nominal 
+fees, and non-covered services. It also provides the Director of DHA 
+conditional, discretionary authority to waive the assessment of fees 
+that otherwise would be charged to non-beneficiaries when the 
+healthcare provided enhances the KSAs of healthcare providers, as 
+determined by the Director of DHA. The NDAA for FY 2017 (NDAA-17) 
+authorizes provision of such care on a reimbursable basis to civilians 
+who are not covered beneficiaries. Public Law 114-328, 717(c), Dec. 23, 
+2016, as amended, 10 U.S.C. 1071 note.
+
+III. Discussion of Comments and Changes
+
+    The proposed rule titled ``Medical Billing for Healthcare Services 
+Provided by Department of Defense Military Medical Treatment Facilities 
+to Civilian Non-Beneficiaries'' was published in the Federal Register 
+on October 1, 2024 (89 FR 79804-79815). Comments were accepted for 60 
+days until December 2, 2024. A total of 12 comments were received of 
+which eight indicated general support for the rule and four expressed 
+various concerns. Please see a synopsis of the comments received, our 
+responses to those comments, and clarifications being made to the 
+regulations at 32 CFR part 220 as a result of the public comments.
+
+1. General Support for the Rule
+
+    Comment: The Department received eight public comments expressing 
+support for the proposed rule and four expressing various concerns.
+    Response: The Department values public input as an essential 
+component of the rulemaking process. We extend our sincere thanks to 
+everyone who submitted comments on the proposed rule. We are 
+particularly grateful for the support expressed by the eight commenters 
+who affirmed the rule's goals. We believe this rule represents a 
+collaborative effort to strengthen financial protections for patients 
+accessing the exceptional healthcare services offered within the MHS.
+
+2. Simplifying the Application Process and Enhancing Patient 
+Protections
+
+    Comment: Four commenters expressed concern that the application 
+process seemed too burdensome, specifically that there are too many 
+forms to fill out and too much paperwork to gather as part of the 
+application process. Some pointed out that it could be particularly 
+difficult for people who are homeless, do not speak English well, or 
+are dealing with other challenges. Commenters advocated that patients 
+be protected from aggressive debt collection while they are trying to 
+get their application processed. Recommendations included simplifying 
+forms, streamlining income verification (including exploring Internal 
+Revenue Service (IRS) collaboration and accepting alternative 
+documentation), limiting supporting documents, providing clearer 
+instructions and dedicated support staff, and translating materials 
+into multiple languages.
+    Response: We acknowledge the need for a simplified and accessible 
+MHS MPWP process:
+    <bullet> Clearer Communication: Section 220.12(e) of the final rule 
+requires standardized language on all invoices, explaining the MHS MPWP 
+in plain terms and directing patients to a dedicated website with 
+detailed program information, frequently asked questions, and a fee 
+calculator to help them estimate their potential savings.
+    <bullet> Easier Income Verification: Section 220.12(k)(2)(iii) of 
+the final rule clarifies that patients can use documents other than tax 
+returns and pay stubs to prove their income, such as bank statements or 
+Social Security benefit letters. While we appreciate the suggestion of 
+accessing income data directly from the IRS, this may result in 
+evaluating a patient's income based on outdated information. We will 
+continue to assess the feasibility of this option in the future.
+    <bullet> Protection During Application: Section 220.12(m) of the 
+final rule states that DoD will suspend DoD collection actions against 
+the patient (excluding processing of insurance claims) during the 
+application review period.
+    <bullet> Fresh Start After Approval: Section 220.12(j)(1) clarifies 
+that we are also resetting the delinquency clock after a decision is 
+made on the application. This means that approved applicants will have 
+a new opportunity to manage their payments without the pressure of past 
+delinquency.
+    <bullet> Recalling Debt from Treasury: To prevent unnecessary 
+hardship, the final rule mandates the recall of debts from the 
+Department of the Treasury's Cross-Servicing Program upon approval of a 
+discount or waiver, stopping further collection actions.
+    <bullet> Flexible Payment Plans: We recognize the need for 
+affordable payment options. The final rule guarantees flexible 
+installment plans for up to 72 months, allowing patients to spread out 
+their payments over a manageable timeframe.
+    <bullet> Tax Implications of Waivers: We understand the concerns 
+regarding the
+
+[[Page 5305]]
+
+potential tax implications of debt waivers. However, tax matters fall 
+outside the jurisdiction of the Department.
+
+3. Prioritizing Waivers, Adjusting the Sliding Scale, and Withholding 
+Delinquent Accounts From Transfers to Treasury
+
+    Comment: We heard strong support from four commenters for 
+prioritizing the use of waivers to provide greater financial relief, 
+including the use of preemptive waivers, especially for those with 
+injuries similar to those seen in combat. Commenters also advocated for 
+adjustments to the sliding scale and catastrophic cap fees; and one 
+commenter requested that we not transfer delinquent accounts to 
+Treasury, but rather that we hold onto them for an additional eight-
+month period past delinquency.
+    Response: We carefully considered this feedback:
+    <bullet> Waiver Authority: While we will maintain the DHA 
+Director's discretion to determine when a waiver is appropriate, the 
+final rule makes it clear at Sec.  220.12(o) that after receiving a 
+discount, patients may further apply for a potential waiver. The final 
+rule clarifies at Sec.  220.12(o)(iv) that waivers will be considered 
+in all cases where there is confirmation by a competent medical 
+authority at the treating MTF that the care provided to the applicant 
+enhanced the clinical readiness of military medical personnel. 
+Additionally, we have clarified that waivers may be partial or full and 
+are applicable to a remaining balance that has already been discounted 
+by a sliding fee in order to minimize any tax implications for the 
+patient. The phrase ``used sparingly'' has been deleted from the final 
+rule.
+    <bullet> Preemptive Waivers: Two commenters advocated for automatic 
+or presumptive waivers for specific types of injuries, such as gunshot 
+wounds or car accidents. We will not implement these because the 
+training value of each case depends heavily on its unique 
+circumstances, the experience level of the medical team, and the 
+specific learning objectives. For example, a common fracture might 
+provide valuable training for a new medic, while a complex, multi-
+system trauma case could offer a significant learning opportunity for 
+even the most experienced surgeons. Assessing whether a case adds KSAs 
+in the context of battlefield equivalency value will be done on a case-
+by-case basis by the treating facility's competent medical authority as 
+stated at Sec.  220.12(o).
+    <bullet> Sliding Scale: Four commenters recommended that we expand 
+the income thresholds for the sliding scale discount. We carefully 
+reviewed the recommendations and determined that the current structure 
+strikes a reasonable balance between providing meaningful relief and 
+ensuring the program's financial sustainability, allowing us to help as 
+many patients as possible. However, we clarify at Sec.  220.12(l)(2) 
+that applicants whose income is between 401 percent through 600 percent 
+of the Federal Poverty Guidelines (FPGs) are eligible for catastrophic 
+fee waivers. We are committed to closely monitoring the program's 
+impact and will consider adjustments to the sliding scale in the future 
+if data indicates that it is not adequately meeting the needs of our 
+patients.
+    <bullet> Withholding Delinquent Accounts From Transferring to 
+Treasury: Four commenters requested that delinquent accounts not be 
+transferred to the Treasury. However, per the Federal Claims Collection 
+Standards, we are mandated to transfer debts that become delinquent 
+more than 180 days. As stated at Sec.  220.12(r), individuals may still 
+submit an application for the MHS MPWP after their account has been 
+transferred to the Cross-Servicing Program (``Cross-Servicing'') of the 
+Department of the Treasury, Bureau of the Fiscal Service.
+
+4. Clarifying Insurance Billing and Participating in Denials Management
+
+    Comment: Three commenters suggested that we clarify our processes 
+for billing insurance and two commenters suggested automatically 
+adjusting Medicaid civilians' fees to their copays or to zero under the 
+sliding scale and abstaining from charging Medicare patients.
+    Response: We have carefully considered the comments:
+    <bullet> Streamlined Insurance Processes and Denials: We have 
+clarified at Sec.  220.12(h) of the final rule that MTFs will engage in 
+standard denials management practices, including providing supporting 
+documentation and participating in appeal processes, to facilitate the 
+resolution of disputed claims.
+    <bullet> Medicaid and Medicare Billing: DHA does not intentionally 
+seek out Medicare or Medicaid patients. However, because some MTFs have 
+arrangements with specific localities to accept trauma patients injured 
+in close proximity to the MTF, sometimes Medicare and Medicaid 
+beneficiaries are brought to the MTF for treatment. The DHA has an 
+election agreement with Medicare as a non-participating provider. 
+Medicare patients treated in MTFs are stabilized and transferred to a 
+Medicare participating hospital. Medicare will pay the MTF for the 
+costs associated with stabilization and transfer. Medicare patients are 
+never balanced billed for care received in an MTF. Because MTFs, as 
+Federal entities, are not licensed by the states, at present all MTFs, 
+except one in Texas, are not allowed to participate in Medicaid. We did 
+not make any changes to the rule, as Medicaid and Medicare billing are 
+beyond the scope of what is needed to implement 10 U.S.C. 1079b. The 
+sliding scale provides substantial reductions based on an individual's 
+income inclusive of discounting a patient's bill to zero should their 
+household income be below 100 percent of the FPGs.
+
+5. Address Pre-Enactment Debt
+
+    Comments: Three commenters advocated for relief of debts incurred 
+prior to June 21, 2023, including those currently subject to Treasury 
+offsets.
+    Response: We recognize the financial challenges these debts may 
+pose. While we are sympathetic to individuals with outstanding medical 
+debt incurred prior to June 21, 2023, the statutory language included 
+at section 716(c) of the NDAA-23 is clearly prospective. Although we 
+cannot retroactively apply the MHS MPWP, patients can work with the DHA 
+Debt Adjudication Office for debts that have not become delinquent. The 
+DHA has limited authority to compromise debts under $100,000 if an 
+applicant demonstrates an inability to pay under the FCCS. Once a debt 
+has become delinquent, the FCCS requires that we transfer the debt to 
+the Department of Treasury for collection. For delinquent debt, 
+patients can work with debt management at the Department of Treasury to 
+request that their debt be lowered (compromised). Patients should 
+contact the Treasury's Cross-Servicing Program to discuss available 
+options for financial relief.
+
+IV. Other Applicable Authority
+
+    Section 717 of NDAA-17 conditionally authorizes DoD to evaluate and 
+treat civilian non-beneficiaries at MTFs if the evaluation and 
+treatment is necessary to maintain medical readiness skills and 
+competencies of healthcare providers. Section 717(c) mandates that DoD 
+bill such individuals for the costs of such healthcare services 
+provided. By amending 10 U.S.C. 1079b, section 716 of NDAA-23 has 
+provided discretionary authority to waive an individual's 
+responsibility to pay those statutorily mandated charges if the 
+provision of care enhances the KSAs of healthcare
+
+[[Page 5306]]
+
+providers, as determined by the DHA. If, under 10 U.S.C. 1079b(b), DoD 
+elects to waive charges it is otherwise statutorily required to collect 
+from an individual, any resulting discharge of indebtedness may need to 
+be reported to the IRS in accordance with the reporting requirements at 
+26 U.S.C. 6050P. DoD may also be required to issue a Form 1099-C, 
+``Cancellation of Debt'' (Office of Management and Budget (OMB) Control 
+Number 1545-1424), available at <a href="https://www.irs.gov/pub/irs-pdf/f1099c.pdf">https://www.irs.gov/pub/irs-pdf/f1099c.pdf</a>, to the patient in accordance with the same reporting 
+requirements. This discharge of indebtedness could result in gross 
+income being attributed to the patient under 26 U.S.C. 61. Authority 
+provided by Sec.  1079b(c) to adjust or waive assessment of fees and 
+charges for medical care will be exercised by applying criteria 
+applicable to civilian non-beneficiaries, rather than by exercising 
+discretion to discharge indebtedness with respect to non-beneficiaries. 
+Consequently, to reduce avoidable gross income to a patient under 26 
+U.S.C. 61, DoD will consider a waiver under 10 U.S.C. 1079b(b) of an 
+individual's responsibility to pay charges only after any sliding scale 
+discounts and catastrophic cap on charges have been applied.
+
+V. Summary of Current Billing and Collection Processes Involving Non-
+Beneficiaries
+
+    For non-beneficiary medical encounters occurring prior to June 21, 
+2023, an MTF processes a bill to either the patient, the patient's 
+third-party insurance, or to another guarantor. The current legal 
+framework to process non-beneficiary bills is established under 10 
+U.S.C. 1079b (Procedures for Charging Fees to Civilians). Collection of 
+medical debt resulting from medical bills is subject to the DCIA.
+    Title 10 U.S.C. 1079b directs the Secretary of Defense to implement 
+procedures by which a non-beneficiary will be billed. The ASD(HA) 
+publishes medical rates packages that are updated annually. The ASD(HA) 
+rates reflect the full cost to the Government of providing care to a 
+non-beneficiary patient; the rates generally reflect the same amounts 
+that DoD reimburses to civilian healthcare providers when care is 
+rendered outside of an MTF to a beneficiary patient, and they are also 
+the same rates that DoD uses to bill third-party health insurers (under 
+10 U.S.C. 1095) when a beneficiary patient receives care in an MTF.
+    A bill generated for care at an MTF must be paid in full, whether 
+by the patient, medical insurer, or other guarantor. The full amount is 
+pursued against the patient and/or the patient's guarantor. If the debt 
+is not paid within 180 days of the due date (or an installment plan due 
+date), the debt is transferred to the Cross-Servicing Program (``Cross-
+Servicing'') of the Department of the Treasury, Bureau of the Fiscal 
+Service, for collection. Agencies may also refer eligible debts that 
+are less than 180 days delinquent to the Cross-Servicing program.
+    Under the current legal framework there is no authority to reduce 
+the amount of a debt owed by a patient who received care at an MTF. 
+There is an ability to compromise a balance that cannot be paid by the 
+non-beneficiary. However, the FCCS, which governs compromises of debt, 
+requires that a debtor reasonably demonstrate the inability to pay the 
+debt balance, which entails evaluation of a debtor's current financial 
+condition, and obtaining a credit report or other financial information 
+in order to evaluate the debtor's assets, liabilities, income, and 
+expenses.
+
+VI. Changes With This Rulemaking
+
+A. MHS MPWP
+
+    Under 10 U.S.C. 1079b, as amended by NDAA-23, the DoD is required 
+to apply a sliding scale and/or catastrophic fee waivers to medical 
+invoices generated by MTFs in certain instances. The statute also gives 
+the Director of DHA discretionary authority to waive charges mandated 
+by section 717 of NDAA-17, when the care provided enhances the medical 
+KSAs of MHS healthcare providers, as determined by the Director of DHA. 
+Consequently, the DoD is implementing Sec.  1079b authorities with the 
+objective of mitigating financial harm to civilian non-beneficiaries. 
+The MHS MPWP will be applied uniformly to all civilian non-beneficiary 
+patients who apply to the program. Applicable discounts will be based 
+only on household income and family size. All patients will be eligible 
+to apply for the MHS MPWP in order to mitigate financial harm. 
+Applicants to the MHS MPWP whose income is less than 100 percent of the 
+FPGs will automatically receive a 100 percent discount of their medical 
+bill. Applicants with income between 101 and 400 percent of the FPGs 
+will be eligible for a sliding scale discount; and applicants whose 
+income is between 400 through 600 percent of the FPGs will be eligible 
+for a catastrophic fee waiver.
+    The MHS MPWP will involve a cascading, sequential process that 
+begins with collecting health insurance information from all patients. 
+For patients with health insurance, the patient must agree to allow DoD 
+to file medical claims on the patient's behalf. Patients with health 
+insurance who do not consent to allowing DoD to file insurance claims 
+on their behalf will not be eligible for the MHS MPWP. By allowing DoD 
+to file insurance claims on the patient's behalf, the DoD will be 
+assured that insurance remittances and Explanation of Benefits (EOB) 
+documents are properly sent to the DoD. This will enable the DoD to 
+adjust balances on the patient's account inclusive of the amount paid 
+by the insurance carrier, amounts disallowed, and amounts that are the 
+patient's responsibility as determined by the insurance carrier (i.e., 
+copays, coinsurance, deductibles, nominal fees and non-covered 
+services). DoD MTFs will participate in claims disputes through 
+standard denials management practices. Once the patient's account is 
+properly adjusted in accordance with the EOB, the DoD will bill insured 
+patients only for portions of the bill that are their responsibility. 
+For patients without health insurance, DoD will bill the patient.
+    Patients who are uninsured, underinsured and/or who have a 
+remaining balance for copay, coinsurance, deductible, nominal fee, or 
+non-covered services may apply to the MHS MPWP for application of the 
+sliding scale discounts and catastrophic fee waivers.
+    Patients unable to pay the remaining balance after the application 
+of the sliding scale and catastrophic fee waivers may also apply for a 
+waiver of their medical fees under 10 U.S.C. 1079b(b), by submitting a 
+completed DD Form 3201-1, ``Request for Medical Debt Waiver, Military 
+Health System Modified Payment and Waiver Program'' (<a href="https://www.esd.whs.mil/Directives/forms/dd3000_3499/">https://www.esd.whs.mil/Directives/forms/dd3000_3499/</a>). Waivers may be approved 
+at the discretion of the DHA Director when the care rendered to the 
+patient enhanced the KSAs of the healthcare providers as confirmed by 
+competent medical authority at the treating MTFs on the DD Form 3201-
+1A. Waivers may be partial or full and applied to already waivered 
+fees. KSAs are a set of clinical skill requirements a provider needs in 
+order to provide medical care/treatment in the deployed environment. 
+Waivers may result in financial reporting to the IRS and issuance of an 
+IRS Form 1099-C to the patient. Generally, waivers may be granted if: 
+(a) The patient has completed a DD Form 2569, ``Third Party Collection 
+Program/Medical Services Account/Other Health Insurance'' (OMB Control 
+Number 0720-0055), available
+
+[[Page 5307]]
+
+at <a href="https://www.esd.whs.mil/Directives/forms/dd2500_2999/">https://www.esd.whs.mil/Directives/forms/dd2500_2999/</a>;
+    (b) the patient has submitted a completed application for the MHS 
+MPWP via the DD Form 3201 and any and all appropriate discounts have 
+been applied; and
+    (c) DHA competent medical authority confirms in writing on the DD 
+Form 3201-1A that the care provided to the patient enhanced the KSAs of 
+the DoD healthcare provider.
+    (d) If the above conditions are met, the Director of DHA may 
+exercise discretionary authority to waive the medical invoice.
+
+B. Collection of Health Insurance Information
+
+    All patients receiving healthcare services at a DoD MTF are asked 
+to complete a DD Form 2569 to collect health insurance information 
+along with the patients' consent for the DoD to file a claim on their 
+behalf. The form advises patients that their ``records may be disclosed 
+outside of DoD to healthcare clearinghouses, commercial insurance 
+providers, and other third parties in order to collect amounts owed to 
+the Department of Defense.''
+
+C. Billing Insurance
+
+    For non-beneficiaries with health insurance who complete the DD 
+Form 2569, the DHA will bill the non-beneficiary's health insurance and 
+accept remittances. When payment or an EOB is received from the 
+insurance company, the DoD will not bill the patient except for copays, 
+coinsurance, deductibles, nominal fees, and amounts for non-covered 
+services. The DoD will suspend collection against the patient for up to 
+120 days to allow the patient's insurance to process the claim. The DoD 
+will not bill the patient until a determination on payment and/or an 
+EOB is received from the insurance company, or 120 days has lapsed, 
+whichever comes first. If the DoD receives an insurance remittance 
+after 120 days have elapsed, the DoD will deposit the check, adjust the 
+patient's account in accordance with the EOB, and issue the patient a 
+refund for overpayments, if any have been received. The DoD will ensure 
+that medical invoices sent to the patient reflect information about the 
+MHS MPWP, including instructions for applying to the program. The DHA 
+will support claims appeals through standard MTF denials management 
+processes.
+
+D. Delinquent Accounts
+
+    Delinquent accounts will be processed in accordance with the DCIA 
+as implemented by the FCCS.
+
+E. Applications for MHS MPWP Received for Delinquent Accounts 
+Transferred to the Department of the Treasury
+
+    Individuals may still submit an application for the MHS MPWP even 
+if their account has been transferred to Cross-Servicing; however, any 
+reductions to the medical invoice from the MHS MPWP may be subject to 
+interest, penalties, and costs. For patients who apply and are eligible 
+for a reduction under the MHS MPWP, the DoD will recall the debt from 
+Cross-Servicing. For patients who apply and are ineligible for a 
+reduction under the MHS MPWP, the debt will remain at Cross-Servicing. 
+Patients may request reconsideration for the MHS MPWP when their 
+financial circumstances appear to have significantly changed.
+
+F. Income Verification and Collection of Income Information
+
+    Required MHS MPWP application documentation. Patients who desire to 
+apply for the MHS MPWP must do so by completing a DD Form 3201, 
+``Application for Military Health System Modified Payment and Waiver 
+Program'' (OMB Control Number PENDING), available at <a href="https://www.esd.whs.mil/Directives/forms/dd3000_3499/">https://www.esd.whs.mil/Directives/forms/dd3000_3499/</a>, and submitting the 
+requisite documents. All DoD patient invoices will include a 
+description of the documents that patients must submit together with DD 
+Form 3201 in order to demonstrate their eligibility for the MHS MPWP. 
+To demonstrate eligibility for a sliding fee/catastrophic fee waiver, 
+the patient must first complete a DD Form 2569 (even in cases where the 
+patient possesses no health insurance). Patients must also attach a 
+copy of their most recent filed Federal income tax return and the 
+patient's (or guarantor's if the patient is a minor) last two pay 
+stubs. Patients who did not file a Federal income tax return for the 
+preceding year must certify that they did not file an income tax return 
+on the DD Form 3201 (a section is provided directly on the application 
+form). Additionally, when the patient has no verifiable income, the 
+patient must provide a certification to that effect on the DD Form 
+3201. For this purpose, a section is provided directly on the 
+application form. The last two pay stubs or disability check stubs may 
+be used if no Federal income tax return is provided in conjunction with 
+the patient's certification of annual income on the DD Form 3201 to 
+determine the patient's income. Finally, when the patient has certified 
+to having no verifiable income and has neither a tax return nor pay 
+stubs, other information may be used to validate the patient's lack of 
+income including, but not limited to, the last two bank statements 
+(savings and checking), or a Social Security benefits letter.
+    For patients with health insurance, the patient must agree to allow 
+DoD to file medical claims on the patient's behalf.
+
+G. Application for MHS MPWP Discounts and Waivers
+
+    Consideration for sliding scale and catastrophic fee waivers 
+requires evaluation of the patient's household income. To receive 
+consideration for the sliding fee discount or catastrophic fee waiver, 
+or to be considered for a full waiver of fees under 10 U.S.C. 1079b(b), 
+the patient must apply to the MHS MPWP after receiving the MTF medical 
+invoice by completing and submitting the DD Form 3201 (OMB Control 
+Number PENDING). Applications can be made by: (1) patients with a 
+remaining balance after insurance has been billed by the DoD and the 
+insurance remittance and/or EOB has been received by the DoD; (2) by 
+patients without insurance who have a balance; and (3) by patients with 
+a remaining balance after recovery from tortfeasors is made. 
+Application instructions will be printed on the DoD invoice. Applicants 
+to the MHS MPWP will be notified of the status of their application via 
+the following methods: (1) For approved applications, the DoD will 
+issue to the patient a modified medical invoice reflecting the balance 
+due after applying the sliding fee and/or catastrophic fee waiver; (2) 
+for disapproved applications, the DoD will issue a letter reflecting 
+the reason why the application was disapproved. The letter will inform 
+the patient of the right to reapply should the patient's financial 
+circumstances change.
+
+H. Sliding Fee Discount
+
+    Applicants to the MHS MPWP will first be considered for a sliding 
+fee discount, and then for a catastrophic fee waiver. The threshold for 
+the sliding fee discount will be set to a 100 percent medical bill 
+discount and no nominal fee for applicants whose annual household 
+income is at or below 100 percent of the applicable year's FPGs; and a 
+100 percent medical bill discount plus a stratified nominal fee for 
+applicants whose annual household income is greater than 100 percent 
+and
+
+[[Page 5308]]
+
+up to 400 percent of the applicable year's FPGs. The ASD(HA) may 
+periodically adjust the threshold limits by issuing policy to be 
+published on the DoD Reimbursement Rates website (available at <a href="https://comptroller.defense.gov/Financial-Management/Reports/">https://comptroller.defense.gov/Financial-Management/Reports/</a>). Stratified 
+nominal fees are generally established in a manner that is equitable 
+with what military retirees enrolled in the TRICARE program would be 
+required to pay in the private sector for comparable services. The 
+ASD(HA) will annually set the stratified nominal fees for outpatient 
+and inpatient care and may periodically adjust the nominal fee by 
+issuing policy to be published on the DoD Reimbursement Rates website. 
+The initial nominal stratified fees are as follows:
+
+------------------------------------------------------------------------
+ Household income falls within the
+ below Federal poverty guidelines     Inpatient fee      Outpatient fee
+------------------------------------------------------------------------
+0%-100%...........................                   $0
+                                   -------------------------------------
+101%-120%.........................                750                 50
+121%-140%.........................              1,250                 50
+141%-160%.........................              2,000                 50
+161%-180%.........................              3,000                 50
+181%-200%.........................              4,000                 50
+201%-220%.........................              5,000                 50
+221%-240%.........................              6,000                 50
+241%-260%.........................              7,000                 50
+261%-280%.........................              8,000                 50
+281%-300%.........................              9,000                 50
+301%-320%.........................             10,000                 50
+321%-340%.........................             11,000                 50
+341%-360%.........................             12,000                 50
+361%-380%.........................             13,000                 50
+381%-400%.........................             14,000                 50
+------------------------------------------------------------------------
+
+    Applicants with annual household income of greater than 400 percent 
+of the applicable year's FPGs will not be eligible for a sliding fee 
+discount but may be eligible for a catastrophic fee waiver if their 
+household income does not exceed 600 percent.
+
+I. Catastrophic Fee Waiver
+
+    The catastrophic fee waiver applies to applicants whose household 
+income is between 401 percent and 600 percent of the FPGs and is based 
+on a formula for adjusting the medical invoice over a 36-month period. 
+The catastrophic fee waiver consists of limiting the patient's medical 
+bill to a maximum percentage of the patient's monthly household income 
+multiplied by 36 months and waiving the balance of the medical bill 
+that exceeds the calculation. If the calculation yields an amount 
+greater than the original medical bill, then the catastrophic fee 
+waiver will not be applicable. The maximum percentage will be set to 5 
+percent of the patient's monthly household income multiplied by 36 
+months. The ASD(HA) will annually set the catastrophic fee thresholds 
+by issuing policy to be published on the DoD Reimbursement Rates 
+website.
+
+J. Collection in Installments
+
+    As part of the implementation of the sliding fee and catastrophic 
+fee protections to prevent severe financial harm, patients eligible for 
+the MHS MPWP may have amounts collected in installments for a term not 
+to exceed 72 months. Additionally, patients may request to pay their 
+balance by lump sum. The minimum amount that may be paid by installment 
+per month is $25.
+
+K. Alternative Authority for Waiver of Medical Fees Based on KSA 
+Enhancement
+
+    In accordance with 10 U.S.C. 1079b(b), the Director of DHA may 
+issue a partial or full waiver of already discounted fees for care 
+provided to civilian non-beneficiaries if determined by the Director of 
+DHA to be appropriate. Accordingly, consideration of a waiver of 
+medical fees will occur on a case-by-case basis and only after 
+application approval for the MHS MPWP has occurred and competent 
+medical authority at the MTF that treated the patient confirms (on the 
+DD Form 3201-1A) that the care provided to the patient enhanced 
+provider KSAs. The DD Form 3201-1A is strictly for internal use and is 
+not subject to the Paperwork Reduction Act (PRA). A waiver under 10 
+U.S.C. 1079b(b) of $600 or more will result in reporting to the IRS and 
+issuance of a Form 1099-C to the non-beneficiary for the amount waived. 
+All patient invoices will include a statement that the patient may 
+apply for a waiver based on 10 U.S.C. 1079b(b) and Sec.  220.12(n) and 
+include information on how to submit a waiver request.
+
+L. Applicability of the MHS MPWP to Tortfeasors and Third-Party Payers
+
+    No discount or waiver of fees under 10 U.S.C. 1079b shall be 
+interpreted to be applicable to tortfeasors under the Federal Medical 
+Care Recovery Act (FMCRA), 42 U.S.C. 2651 or to third-party payers 
+under 10 U.S.C. 1095. Patients treated at DoD MTFs are responsible to 
+identify on the DD Form 3201 whether their injury/disease was caused by 
+a third party. To be eligible to obtain any discounts or waivers under 
+the MHS MPWP, the patient must consent and agree to cooperate with the 
+United States to recover the cost of care against any liable tortfeasor 
+or insurance under the FMCRA. Patients who have a remaining balance 
+after recoveries from third-party tortfeasors or their insurers, may 
+apply for relief of any remaining medical debt or may be refunded 
+amounts already paid toward their medical debt if no balance is owed.
+
+VII. Expected Impact of This Rulemaking
+
+    DoD anticipates that section 716 of the NDAA-23 will substantially 
+mitigate serious financial harm to non-beneficiaries through 
+application of a sliding fee and/or a catastrophic fee waiver to 
+medical invoices generated by MTFs. DoD anticipates that the Director 
+of DHA's discretionary authority to waive fees for non-beneficiaries 
+will also contribute to reducing severe financial harm. The anticipated 
+costs for the MHS MPWP include only the time required for a patient's 
+application to be completed (see Paperwork Reduction Act section of 
+this preamble) and reviewed. This includes time required for civilian 
+non-beneficiary patients to complete the associated DD Form 3201 
+declaring their income, DoD to receive
+
+[[Page 5309]]
+
+and assess the application, followed by the determination of the 
+eligibility for a sliding scale discount, catastrophic fee waiver, or 
+waiver under 10 U.S.C. 1079b(b) by the Director of DHA, and the 
+response time for the decision. The total estimated time is less than 
+90 calendar days. In addition, costs may be incurred for patients who 
+desire to apply for a waiver of their medical debt (via a DD Form 3201-
+1) after they have been approved for the MHS MPWP. Lastly, costs may be 
+incurred by DHA staff who will be responsible for completing and 
+processing the DD Form 3201-1A, which will be used by competent medical 
+authority to confirm that care provided to civilian non-beneficiaries 
+enhanced provider KSAs.
+    (1) Government Burden Related to the DD Form 3201, ``Application 
+for Military Health System Modified Payment and Waiver Program'':
+[GRAPHIC] [TIFF OMITTED] TR06FE26.012
+
+    (2) Government Burden Related to the DD Form 3201-1, ``Request for 
+a Medical Debt Waiver, Military Health System Modified Payment and 
+Waiver Program'':
+
+[[Page 5310]]
+
+[GRAPHIC] [TIFF OMITTED] TR06FE26.013
+
+    (3) Government Burden Related to the DD Form 3201-1A, ``MHS 
+Modified Payment and Waiver Program (MPWP) Medical Skills Sustainment 
+Scoring Worksheet'':
+    (4) Note: The DD Form 3201-1A is strictly for internal use and is 
+not subject to the PRA.
+[GRAPHIC] [TIFF OMITTED] TR06FE26.014
+
+
+[[Page 5311]]
+
+
+
+VIII. Regulatory Compliance Analysis
+
+A. Executive Order 12866, ``Regulatory Planning and Review,'' and 
+Executive Order 13563, ``Improving Regulation and Regulatory Review''
+
+    Executive Order 12866 and Executive Order 13563 direct agencies to 
+assess all costs, benefits and available regulatory alternatives and, 
+if regulation is necessary, to select regulatory approaches that 
+maximize net benefits (including potential economic, environmental, 
+public health, safety effects, distributive impacts, and equity). These 
+Executive Orders emphasize the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This final rule has been designated significant, under 
+section 3(f) of Executive Order 12866.
+
+B. Executive Order 14192, ``Unleashing Prosperity Through 
+Deregulation''
+
+    Executive Order 14192 establishes a regulatory cap for Fiscal Year 
+2025 and requires agencies to identify 10 existing regulations to be 
+repealed unless the regulation meets certain exemptions. This final 
+rule is not an Executive Order 14192 regulatory action under OMB M-25-
+20, ``Guidance Implementing Section 3 of Executive Order 14192,'' 
+because it does not impose any more than de minimis regulatory costs.
+
+C. Congressional Review Act (5 U.S.C. 801 et seq.)
+
+    Pursuant to Subtitle E of the Small Business Regulatory Enforcement 
+Fairness Act of 1996 (also known as the Congressional Review Act), 
+OMB's Office of Information and Regulatory Affairs has determined that 
+this final rule does not meet the criteria set forth in 5 U.S.C. 
+804(2).
+
+D. Public Law 96-354, ``Regulatory Flexibility Act'' (5 U.S.C. 601)
+
+    The ASD(HA) certified that this final rule is not subject to the 
+Regulatory Flexibility Act (5 U.S.C. 601) because it would not, if 
+promulgated, have a significant economic impact on a substantial number 
+of small entities. The Regulatory Flexibility Act aims at taking into 
+account the impact of regulations on small businesses, small 
+organizations, small governmental jurisdictions, and small entities. 
+More specifically, the law states ``. . . agencies shall endeavor . . . 
+to fit regulatory and informational requirements to the scale of the 
+business, organizations, and governmental jurisdictions subject to 
+regulation.'' (Pub. L. 96-354, September 19, 1980; section 2 (b)) The 
+amendments to 32 CFR part 220 do not impact the small entities 
+referenced in this paragraph. Therefore, the Regulatory Flexibility 
+Act, as amended, does not require us to prepare a regulatory 
+flexibility analysis.
+
+E. Section 202, Public Law 104-4, ``Unfunded Mandates Reform Act''
+
+    Section 202 of the Unfunded Mandates Reform Act of 1995 (2 U.S.C. 
+1532) requires agencies to assess anticipated costs and benefits before 
+issuing any rule whose mandates require spending in any 1 year of $100 
+million in 1995 dollars, updated annually for inflation. In 2025, that 
+threshold is approximately $211 million. This final rule will not 
+mandate any requirements for State, local, or tribal governments, and 
+will not affect private sector costs. An unfunded mandate occurs when a 
+State, local, or tribal government must perform certain actions or 
+offer certain programs but does not receive any Federal funds to make 
+it happen. The Federal Government passes legislation requiring the 
+program, but the law does not include any funding. This final rule will 
+only affect a very narrow category of the public and it will not impact 
+State, local, or tribal governments. Additionally, it will not affect 
+private sector costs as all proposed actions would be completed by 
+Federal agencies.
+
+G. Public Law 96-511, ``Paperwork Reduction Act'' (44 U.S.C. Chapter 
+35)
+
+    Section 220.12 of this final rule contains information collection 
+requirements. As required by the Paperwork Reduction Act (44 U.S.C. 
+chapter 35), DoD submitted an information clearance package to the OMB 
+for review (Control Number 0720-0083). The implementation of the MHS 
+MPWP requires the collection of information from applicants to 
+determine eligibility for discounts and waivers, as authorized by 10 
+U.S.C. 1079b. This information collection has been submitted to and is 
+pending review by OMB in accordance with the Paperwork Reduction Act 
+(44 U.S.C. chapter 35). OMB has received the revised collection of 
+information. OMB's receipt of the revised collection of information is 
+not an approval to conduct or sponsor an information collection under 
+the Paperwork Reduction Act of 1995. In accordance with 5 CFR 1320, the 
+revised collection of information associated with this rulemaking is 
+not approved by OMB at this time. OMB's approval of the revised 
+collection of information will occur within 30 days after the Final 
+rulemaking publishes. If OMB does not approve the new collection of 
+information as requested, DoD will immediately remove the provision 
+containing a new collection of information or take such other action as 
+is directed by OMB. Please note that the DD Form 3201-1A is strictly 
+for internal use and is not subject to the Paperwork Reduction Act.
+    In response to DoD's invitation in the proposed rule to comment on 
+any potential paperwork burden associated with this rule, the following 
+comments were received.
+    Comment: Two commenters expressed concern that the MHS MPWP 
+application process would be overly burdensome for both patients and 
+administrative staff. They criticized the complexity of the required 
+forms and procedures, citing multiple forms and excessive detail as 
+barriers to successful navigation, especially for patients with limited 
+resources or language access. The required documentation, such as tax 
+returns and pay stubs, was considered onerous and potentially 
+prohibitive for vulnerable populations like the homeless, transient, 
+and recently unemployed.
+    Response: We acknowledge the concerns raised about the potential 
+complexity of the MHS MPWP application process and are committed to 
+making it as simple and accessible as possible. The Department is 
+considering enabling online applications but notes financial and 
+logistical challenges with implementation. The final rule, Sec.  
+220.12(k)(2)(iii), addresses alternative forms of income verification 
+to ease the burden on patients.
+    (1) Respondent Burden Related to DD Form 3201, ``Application for 
+Military Health System Modified Payment and Waiver Program.'' This is a 
+new collection. Using the information collected on the form, DoD 
+medical billing offices will determine whether the patient is eligible 
+for the medical discount/waiver program. If the patient is eligible, 
+the billing office will generate an adjusted medical bill and send it 
+to the patient. If the patient is not eligible, the billing office will 
+send written correspondence to the patient, informing them that they 
+are not eligible for the discount program and of their right to reapply 
+should their financial circumstances change. Processing of the 
+application will be annotated on the last page of the application. The 
+application will be filed in the billing office's official records.
+
+[[Page 5312]]
+
+[GRAPHIC] [TIFF OMITTED] TR06FE26.015
+
+    (2) Respondent Burden Related to DD Form 3201-1, ``Request for 
+Waiver of Medical Debt, Military Health System Modified Payment and 
+Waiver Program.'' This is a new collection. The 10 U.S.C. 1079b statute 
+grants the Director of the Defense Health Agency discretionary 
+authority to grant waivers to medical bills in certain instances. 
+Accordingly, the DD Form 3201-1 may be used by non-beneficiary patients 
+to apply for a waiver. For patients who are approved for waivers (not 
+discounts) under the Director of the Defense Health Agency's 
+discretionary authority, the waived amount, along with the patient's 
+SSN and address, will be relayed to the IRS.
+[GRAPHIC] [TIFF OMITTED] TR06FE26.016
+
+H. Executive Order 13132, ``Federalism''
+
+    Executive Order 13132 establishes certain requirements that an 
+agency must meet when it promulgates a rule that imposes substantial 
+direct requirement costs on State and local Governments, preempts State 
+law, or otherwise has federalism implications. This final rule will not 
+have a substantial effect on State and local Governments.
+
+I. Executive Order 13175, ``Consultation and Coordination With Indian 
+Tribal Governments''
+
+    Executive Order 13175 establishes certain requirements that an 
+agency must meet when it promulgates a rule
+
+[[Page 5313]]
+
+that imposes substantial direct compliance costs on one or more Indian 
+Tribes, preempts Tribal law, or effects the distribution of power and 
+responsibilities between the Federal Government and Indian Tribes. This 
+final rule will not have a substantial effect on Indian Tribal 
+Governments.
+
+List of Subjects in 32 CFR Part 220
+
+    Accounts receivable, Civilian medical debt, Claims, Health care, 
+Health insurance, Medical billing, Medical debt, Medical debt waiver, 
+Military medical treatment facilities, Military personnel, and Third 
+party collections.
+
+    Accordingly, the DoD amends 32 CFR part 220 to read as follows:
+
+PART 220--MEDICAL BILLING FOR HEALTHCARE SERVICES PROVIDED BY 
+DEPARTMENT OF DEFENSE MILITARY MEDICAL TREATMENT FACILITIES TO 
+CIVILIAN NON-BENEFICIARIES
+
+0
+1. The authority citation for part 220 is revised to read as follows:
+
+
+    Authority:  5 U.S.C. 301; 10 U.S.C. 1095, 1097b(b), 1079b; 31 
+U.S.C. 3711, 3717; and 42 U.S.C. 2651.
+
+0
+2. The part heading is revised to read as set forth above.
+
+0
+3. Add Sec.  220.12 to read as follows:
+
+
+Sec.  220.12  Medical billing for healthcare services provided by DoD 
+Military Medical Treatment Facilities to civilian non-beneficiaries.
+
+    (a) Applicability. (1) This section applies to all persons who 
+receive reimbursable care in a military medical treatment facility 
+(MTF) on or after June 21, 2023, and who are not covered beneficiaries 
+of the Department of Defense (DoD) as defined in Sec.  220.14, other 
+than persons who receive care in an MTF pursuant to an agreement 
+between the United States and a foreign government or other entity.
+    (2) This section does not apply to third persons (or their 
+insurers) with a tort liability under the Federal Medical Care Recovery 
+Act (FMCRA) (42 U.S.C. 2651) or third-party payers under 10 U.S.C. 
+1095. The discounts and waivers implemented by this section may not be 
+used to reduce the value of the care and treatment that is recoverable 
+from those third persons (or their insurers) under the FMCRA or 10 
+U.S.C. 1095.
+    (b) Definitions. (1) Military Health System (MHS) Modified Payment 
+and Waiver Program (MPWP). The MHS MPWP is a DoD program to implement 
+an enacted Fiscal Year 2023 National Defense Authorization Act (NDAA-
+23) amendment to section 1079b of title 10, United States Code 
+(U.S.C.). Section 716 of the NDAA-23 amended 10 U.S.C. 1079b to 
+require, inter alia, the Director of the Defense Health Agency (DHA) to 
+reduce fees that would otherwise be charged to civilian non-
+beneficiaries for medical care according to a sliding scale and to 
+implement a catastrophic fee waiver to prevent severe financial harm. 
+It also granted the Director of the DHA with discretionary authority to 
+issue waivers of fees for medical care if the provision of such care 
+enhances the knowledge, skills, and abilities (KSAs) of healthcare 
+providers.
+    (2) Covered payer. A third-party payer or other insurance, medical 
+service, or health plan.
+    (3) Covered by a covered payer. A medical item or service is deemed 
+to be covered by a covered payer when:
+    (i) The patient possesses health insurance that is in effect on the 
+date(s) that the item or service was provided;
+    (ii) The health insurance plan provides coverage for the geographic 
+area where the care was delivered;
+    (iii) The care provided to the patient is an item or service 
+covered by the terms of the insurance plan, and;
+    (iv) The health insurance plan provides coverage for care rendered 
+in a U.S. Government/DoD facility;
+    (v) The insurer agrees to pay the facility directly;
+    (vi) The insurer agrees to provide the facility with an Explanation 
+of Benefits (EOB) that details how the insurer processed the claims 
+according to the insurance plan; and
+    (vii) The patient authorizes the DoD to file insurance claims 
+against the insurance policy.
+    (4) Non-covered item or service. A medical item or service that is 
+not covered by the terms of the insurance plan.
+    (5) Third-party payer and insurance, medical service, or health 
+plan have the meaning given those terms in 10 U.S.C. 1095(h).
+    (6) Knowledges, Skills, and Abilities (KSAs). KSAs are a set of 
+clinical skill requirements that a healthcare provider needs in order 
+to provide medical care or treatment in the deployed environment. The 
+extent to which a patient's care enhances KSAs will be determined via 
+the DD Form 3201-1A by competent medical authority at the treating MTF.
+    (7) Reasonable value of medical care. Reasonable value of medical 
+care is defined in Sec.  220.8. The reasonable value of medical care is 
+based on the amount billed by the MTF before application of any sliding 
+scale discount, catastrophic fee waiver, or other discount or waiver 
+under this section.
+    (c) Notifications concerning MHS MPWP. The Assistant Secretary of 
+Defense for Health Affairs (ASD(HA)) will maintain a public website 
+containing information about the MHS MPWP, applicable forms (with links 
+to the forms), and a fee discount calculator. The DoD will notify non-
+beneficiary patients of the availability of the MHS MPWP. Information 
+about the MHS MPWP will be posted in MTFs (e.g., in waiting rooms and 
+information desks) and included in DoD patient invoices.
+    (d) Requirement to complete a DD Form 2569. MTFs will present the 
+DD Form 2569, ``Third Party Collection Program/Medical Services 
+Account/Other Health Insurance,'' to all patients. It will also be 
+available at <a href="https://www.esd.whs.mil/Directives/forms/dd2500_2999/">https://www.esd.whs.mil/Directives/forms/dd2500_2999/</a>. All 
+patients (regardless of insurance status) must complete the DD Form 
+2569.
+    (1) Before applying for the MHS MPWP, all patients (regardless of 
+health insurance status) must fully complete (including by signing) the 
+DD Form 2569 and ensure that a current and accurate DD Form 2569 is on 
+file with the applicable MTF. Successful completion of these steps is a 
+condition of eligibility for the MHS MPWP.
+    (2) For patients with health insurance, the DoD will file insurance 
+claims on behalf of the patient. Patients with health insurance who do 
+not consent to allowing the DoD to file health insurance claims on 
+their behalf will not be eligible for the MHS MPWP (inclusive of the 
+discount and waiver portions).
+    (3) The DoD may use a completed DD Form 2569 for multiple episodes 
+of care. Unless a DD Form 2569 completed within the preceding 12 months 
+for the patient is available, the DoD will solicit an updated DD Form 
+2569 from patients who receive a subsequent episode of care from the 
+MTF. However, the lack of an updated form will not preclude the DoD 
+from filing additional claims against encounters for the patient.
+    (e) Notifications on medical invoices. In addition to any 
+notifications otherwise already required by law, regulation, or DoD 
+policy, all DoD invoices will notify patients that-
+    (1) Patients must consent to DoD filing insurance claims on their 
+behalf to be eligible for the MHS MPWP;
+    (2) The DoD will suspend fee assessment and patient billing actions 
+against the debtor for up to 120 days while the DoD is pursuing an 
+insurance claim or claim against a third-party payer;
+    (3) For patients who are covered by a covered payer, the DoD will 
+only bill
+
+[[Page 5314]]
+
+the patient for the insurer-assigned copays, coinsurance, deductibles, 
+nominal fees, and non-covered services;
+    (4) The patient demonstrates potential eligibility for the MHS MPWP 
+fee discounts and catastrophic fee waivers by completing and submitting 
+DD Form 2569 and DD Form 3201, which may result in a discount of their 
+medical invoice after pursuit or recovery of claims against third party 
+payers (instructions for demonstrating eligibility, including deadline, 
+will also be included);
+    (5) In addition to sliding fee discounts and catastrophic fee 
+waivers, patients may request a waiver under 10 U.S.C. 1079b(b) by 
+submitting a DD Form 3201-1, ``Request for Medical Debt Waiver, 
+Military Health System Modified Payment and Waiver Program.'' Patients 
+may be considered for a partial or full waiver if they previously 
+applied to and were approved for the MHS MPWP discount program, and it 
+did not sufficiently mitigate financial harm and if the applicable care 
+provided is determined to enhance the KSAs of DoD healthcare providers, 
+as confirmed by competent medical authority competent medical authority 
+at the MTF that provided the care. Confirmation will be done by the 
+competent medical authority on the DD Form 3201-1A. Waivers under 10 
+U.S.C. 1079b(b) may result in information reporting to the Internal 
+Revenue Service and issuance of a Form 1099-C, Cancellation of Debt. 
+The waived amount(s) may constitute gross income to the patient under 
+26 U.S.C. 61;
+    (6) If fees or charges (including those reduced under the MHS MPWP) 
+become delinquent due to non-payment, the DoD will establish a debt for 
+the delinquent amount and commence efforts to collect the established 
+debt, which may include transfer to the Department of the Treasury in 
+accordance with applicable authority; and
+    (7) That invoices issued after reduction or waiver of charges under 
+the MHS MPWP will reflect the date by which an unpaid account will 
+become delinquent.
+    (f) DoD medical billing rates. Annually, the ASD(HA) publishes the 
+rates that DoD uses for medical billing. Except for reasons listed in 
+Sec.  220.8(f) or (g) of this part, the DoD rate will be used for all 
+non-beneficiary billing, including billing to either the insurer or 
+patient.
+    (g) For non-covered items or services. In any instance where an 
+item or service is not covered by a covered payer, the DoD will bill 
+the patient for the full amount of the service.
+    (h) For patients who are potentially covered by a covered payer. In 
+any instance where a patient submits a DD Form 2569 that indicates that 
+the patient possesses valid health insurance, the DoD will suspend any 
+collections against the patient to allow time for the claim remittance 
+to be processed by the insurer and for a valid EOB to be received, or 
+until 120 days have passed since filing for payment from the insurance 
+company, whichever comes first. Upon receipt of an EOB, the DoD will 
+bill the patient only for those amounts that are designated by the 
+insurance company as a copay, coinsurance, deductible, nominal fee, or 
+non-covered service. If insurance remittance and an EOB are not 
+received within 120 days of filing of a claim, the DoD will deem the 
+item or service to be a non-covered service. If insurance remittance 
+and an EOB are received after 120 days have elapsed, the DoD will 
+deposit the remittance and adjust the patient's account accordingly. 
+The DoD will issue to the patient a revised medical invoice reflecting 
+updated balances. MTFs will engage in standard denials management 
+practices, including providing supporting documentation and 
+participating in appeal processes, to facilitate the resolution of 
+disputed claims.
+    (i) Actions when an insurance payment and/or EOB is received. When 
+the DoD receives an insurance payment and/or an EOB, the DoD will post 
+all payments and adjustments for those items or services that are 
+deemed as covered by a covered payer against the bill in the manner 
+prescribed by the EOB. The DoD will bill the patient for any remaining 
+copays, co-insurance, deductibles, nominal fees and non-covered 
+services.
+    (j) Application for the MHS MPWP (DD Form 3201). All DoD invoices 
+generated for non-covered beneficiaries will include a statement that 
+all patients applying for the MHS MPWP must complete DD Form 3201 and 
+must include instructions on how to apply (i.e., the deadline and where 
+to submit the application). Processing of the application will be 
+logged on the last page of the DD Form 3201. Applicants to the MHS MPWP 
+will be notified of the status of their application via the following 
+methods:
+    (1) For approved applications, the DoD will issue to the patient a 
+modified medical invoice reflecting the adjusted balance due after 
+applying the sliding fee and/or catastrophic fee waiver and including a 
+revised (reset) payment due date. The invoice modified to reflect fee 
+adjustments or waiver under the MHS MPWP will include notification of 
+the requirement to transfer delinquent debts to the Department of the 
+Treasury if, after any modification under the MHS MPWP, an unpaid 
+invoice becomes delinquent.
+    (2) For disapproved applications, the DoD will issue a letter 
+reflecting the reason why the application was disapproved. The letter 
+will inform the patient of their right to reapply should their 
+financial circumstances change.
+    (k) Requirements to apply to the MHS MPWP. (1) To apply to the MHS 
+MPWP all patients must:
+    (i) Complete a DD Form 2569 (even in cases where the patient 
+possesses no health insurance). Insurance remittances must be applied 
+before the patient can be considered for the MHS MPWP.
+    (ii) Complete a DD Form 3201, ``Application for Military Health 
+System Modified Payment and Waiver Program.''
+    (iii) Attach a copy of the patient's (or guarantor's if the patient 
+is a minor) most recently filed Federal Income Tax Return to the DD 
+Form 3201.
+    (iv) Attach a copy of the patient's (or guarantor's if the patient 
+is a minor) last two pay stubs.
+    (v) Indicate whether their injury/disease was caused by a third 
+party and provide explanatory information.
+    (2) Patients applying for the MHS MPWP are required to certify 
+whether or not they filed a Federal Income Tax Return for the preceding 
+year.
+    (i) If the patient did not file a Federal Income Tax Return for the 
+preceding year, the patient must certify this in the space provided on 
+the DD Form 3201.
+    (ii) If the patient has no verifiable income, the patient must 
+certify this and provide a certification of their current annual income 
+amount in the space provided on the DD Form 3201.
+    (iii) When the patient has certified to having no verifiable income 
+and has neither a tax return nor pay stubs, other information may be 
+used to validate the patient's lack of income including, but not 
+limited to, the last two bank statements (savings and checking), or a 
+Social Security benefits letter verifying that no benefits are being 
+received.
+    (iv) If the patient believes that hospitalization/care occurred as 
+the result of an action for which another party may be responsible, 
+then to be eligible for the MHS MPWP, the patient must agree to 
+cooperate and assist the United States to recover the cost of care from 
+said party in the space provided on the DD Form 3201.
+    (l) Basis to assign a Sliding Fee Discount/Catastrophic Fee 
+Waiver--(1) MHS Discount Calculator. Once a year, the ASD(HA) will 
+promulgate an MHS Discount Calculator. The initial
+
+[[Page 5315]]
+
+calculator will assign a 100 percent sliding fee discount and no 
+stratified nominal fee to applicants to the MHS MPWP whose annual 
+household income is at or below 100 percent of the applicable year's 
+Federal Poverty Guidelines (FPGs); and a 100 percent sliding fee 
+discount plus a stratified nominal fee to applicants whose annual 
+household income is greater than 100 percent and at or below 400 
+percent of the FPGs current at the time of application. Applicants with 
+annual household income of greater than 400 percent of the applicable 
+year's FPGs will not be eligible for a sliding fee discount; but may be 
+eligible for a catastrophic fee waiver.
+    (2) Catastrophic Fee Waiver. For applicants who exceed the 400 
+percent threshold but whose household income is at or below 600 percent 
+of the FPGs, the calculator will assign an ASD(HA)-approved maximum 
+percentage that may be charged monthly based on the patient's monthly 
+household income. The maximum percentage will be set to 5 percent. The 
+monthly household income will be multiplied by 5 percent and the result 
+will be multiplied by 36 months to derive the amount of downward 
+adjustment to the patient's bill. Amounts that exceed the recalculated 
+amount will be waived. If the original bill is less than the 
+recalculated bill, the original bill will remain as the balance owed.
+    (3) Nominal fee. Once a year, the ASD(HA) will publish a stratified 
+nominal inpatient and outpatient fee. The nominal fee will be assigned 
+in any case where the sliding fee results in a 100 percent waiver of 
+the medical invoice and the patient's income is above 100 percent and 
+up to 400 percent of the applicable year's FPGs. Stratified nominal 
+fees are generally established in a manner that is equitable with what 
+military retirees enrolled in the TRICARE program would be required to 
+pay in the private sector for comparable services. Nominal fees do not 
+apply to catastrophic fee waivers. The initial nominal stratified fees 
+are as follows:
+
+                       Table 1 to Paragraph (l)(3)
+------------------------------------------------------------------------
+ Household income falls within the
+ below Federal poverty guidelines     Inpatient fee      Outpatient fee
+------------------------------------------------------------------------
+0%-100%...........................                   $0
+                                   -------------------------------------
+101%-120%.........................                750                 50
+121%-140%.........................              1,250                 50
+141%-160%.........................              2,000                 50
+161%-180%.........................              3,000                 50
+181%-200%.........................              4,000                 50
+201%-220%.........................              5,000                 50
+221%-240%.........................              6,000                 50
+241%-260%.........................              7,000                 50
+261%-280%.........................              8,000                 50
+281%-300%.........................              9,000                 50
+301%-320%.........................             10,000                 50
+321%-340%.........................             11,000                 50
+341%-360%.........................             12,000                 50
+361%-380%.........................             13,000                 50
+381%-400%.........................             14,000                 50
+------------------------------------------------------------------------
+
+    (m) Notification of approved/disapproved MHS MPWP applications. 
+Unless additional time is needed (e.g., to verify a patient's 
+documentation), the DoD shall generally determine whether a patient has 
+demonstrated eligibility for the MHS MPWP within 30 business days of 
+receipt of the complete application. The DoD will suspend DoD 
+collection actions (excluding the processing of insurance claims) 
+against the patient during the review.
+    (1) For approved applications, the DoD will issue to the patient a 
+modified medical invoice reflecting the adjusted balance due after 
+applying the sliding fee and/or catastrophic fee waiver. The invoice 
+modified to reflect fee adjustments under the MHS MPWP will include 
+notification of the requirement to transfer delinquent debts to the 
+Department of the Treasury if, after any modification under the MHS 
+MPWP, an unpaid invoice becomes delinquent.
+    (2) For disapproved applications, the DHA will issue a letter by 
+U.S. mail to the patient's last known address reflecting the reason why 
+the application was disapproved. The letter will inform the patient of 
+the right to reapply should the patient's financial circumstances 
+change.
+    (n) Collection in installments. Patients approved for a sliding 
+scale fee reduction or catastrophic fee waiver shall have amounts 
+collected in installments for a term not to exceed 72 months. Patients 
+may choose to pay their balance in a lump sum payment.
+    (o) Application for a 10 U.S.C. 1079b(b) waiver--(1) Basis for a 
+waiver. Waivers may be granted when:
+    (i) The patient has provided the DoD with a completed DD Form 2569 
+(even for patients who possess no valid health insurance) and 
+applicable insurance payments have been applied;
+    (ii) The patient has previously submitted a completed application 
+to the MHS MPWP (32 CFR 220.12(k)) and was approved for any applicable 
+discounts;
+    (iii) The patient submitted a DD Form 3201-1, ``Request for Medical 
+Debt Waiver, Military Health System Modified Payment and Waiver 
+Program,'' requesting waiver of already discounted fees; and
+    (iv) A DoD competent medical authority at the treating MTF confirms 
+in writing (on the DD Form 3201-1A, ``MHS Modified Payment and Waiver 
+Program (MPWP) Medical Skills Sustainment Scoring Worksheet'') that the 
+care provided to the patient enhanced the KSAs of the DoD healthcare 
+provider. The completed DD Form 3201-1A yields whether a partial or 
+full waiver of already discounted fees may be applied.
+    (v) If the conditions in paragraphs (o)(1)(i) through (iv) are met, 
+the Director of DHA may exercise discretionary authority to waive the 
+medical invoice.
+    (2) Method to request a waiver. Patients must submit a completed DD 
+Form 3201-1, ``Request for Medical Debt Waiver Military Health System 
+Modified Payment and Waiver Program.'' All DoD invoices will include
+
+[[Page 5316]]
+
+the address where a patient may submit a waiver request.
+    (3) Response to a request for waiver. Unless additional time is 
+needed (e.g., to verify a patient's documentation), the DoD shall 
+generally make a decision on the request within 90 days. The DoD will 
+provide a response in writing to the patient, as well as a copy of the 
+medical invoice reflecting the balance due. Waivers that are approved 
+under 10 U.S.C. 1079b(b) will require reporting to the IRS and issuance 
+of an IRS Form 1099-C when required by 26 U.S.C. 6050P.
+    (p) Debts transferred to Treasury that are subsequently processed 
+through insurance. In any instance where a debt is transferred to 
+Treasury and a lower balance is assigned to a Treasury-managed debt due 
+to a claim being subsequently processed through insurance, the DoD 
+shall recall the debt back to the DoD for management actions and notify 
+Treasury to delete the debt from its systems and reverse any adverse 
+reporting that occurred against the debt.
+    (q) Delinquent Accounts. Delinquent accounts will be processed in 
+accordance with the Debt Collection Improvement Act of 1996 and its 
+implementing regulation 31 CFR parts 900-904 (Federal Claims Collection 
+Standards).
+    (r) Applications for MHS MPWP Received for Delinquent Accounts 
+Transferred to the Department of the Treasury. Individuals may still 
+submit an application for the MHS MPWP after their account has been 
+transferred to the Cross-Servicing Program (``Cross-Servicing'') of the 
+Department of the Treasury, Bureau of the Fiscal Service; however, any 
+reductions to the medical invoice from the MPWP may be subject to 
+interest, penalties, and costs. When patients apply to the MHS MPWP 
+after their accounts were transferred to Cross-Servicing, their debts 
+will remain at Cross-Servicing unless and until the DoD determines that 
+they are eligible for a reduction under the MHS MPWP. The DoD may 
+recall the debt from Cross-Servicing after it determines that the debt 
+is eligible for a reduction under the MHS MPWP. Patients may request 
+reconsideration for the MHS MPWP when their financial circumstances 
+appear to have significantly changed.
+    (s) Reporting to IRS and Furnishing of IRS Forms 1099-C 
+(Cancellation of Debt). The DoD will report to IRS, and furnish to 
+patients, IRS Forms 1099-C for all 10 U.S.C. 1079b(b) waivers issued 
+during the previous calendar year where required by 26 U.S.C. 6050P. 
+IRS reporting will not be done for portions of a bill which have been 
+adjusted downwards due to insurance processing, or by assignment of a 
+sliding fee/catastrophic fee waiver to the debt under 10 U.S.C. 
+1079b(c)(2) or (3). The IRS Forms 1099-C will reflect amounts waived 
+under the DHA Director's discretionary authority.
+    (t) Refunds not permitted for amounts previously paid. Except for 
+circumstances specified in paragraphs (p) and (u)(3) of this section, 
+financial relief under the MHS MPWP may only be granted for amounts 
+still due by the patient; an application for financial relief cannot be 
+used to obtain a refund for any amounts previously paid.
+    (u) Claims involving tortfeasors and third-party payers. No 
+discount or waiver of fees under 10 U.S.C. 1079b shall be interpreted 
+to be applicable to tortfeasors under the FMCRA, 42 U.S.C. 2651, or 
+third-party payers under 10 U.S.C. 1095.
+    (1) For patients who indicate that their injury/disease was caused 
+by a third party, DoD MTFs will follow procedures established under the 
+Medical Affirmative Claims program.
+    (2) Patients who have a remaining balance after insurance 
+remittances or recoveries from third-party tortfeasors may apply for 
+relief of any remaining medical debt.
+    (3) Payments toward the medical debt that were made by the patient 
+prior to settlement of the claim with the tortfeasor will be offset 
+against any balances owed by the patient or may be refunded to the 
+patient if no balance is owed.
+
+    Dated: February 4, 2026.
+Aaron T. Siegel,
+Alternate OSD Federal Register Liaison Officer, Department of Defense.
+[FR Doc. 2026-02437 Filed 2-5-26; 8:45 am]
+BILLING CODE 6001-FR-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
